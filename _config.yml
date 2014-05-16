@@ -2,6 +2,7 @@
 title: OpenDoor
 email: moyer.will@gmail.com
 description: "Welcome to OpenDoor"
+baseurl: ""
 url: "http://yourdomain.com"
 
 # Build settings
