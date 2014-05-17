@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: blank
 ---
 
-<div class="container">
+<div class="home">
+
+  {% include header.html %}
+
   <div class="grid grid--padded">
     <div class="grid__item desk-two-thirds">
       <h2 class="welcome">Stay With Someone You Trust</h2>
@@ -22,4 +25,7 @@ layout: default
       </div>
     </div>
   </div><!-- end grid -->
-</div>
+
+  {% include footer.html %}
+
+</div><!-- end home -->
