@@ -266,6 +266,7 @@ img[height]{
     vertical-align:middle; 
     padding-left: 1rem;
     padding-right: 1rem;
+    border-radius: 4px;
 }
 
 .btn{
@@ -368,11 +369,39 @@ img[height]{
     min-height: 100%;
 }
 
-.home .logo {
-    color: #fff;
-    text-shadow: 0 1px 2px rgba(0,0,0,.25);
-}
+    .home .logo {
+        color: #fff;
+        text-shadow: 0 1px 2px rgba(0,0,0,.25);
+    }
 
+    .home .input-text {
+        border: 1px solid rgba(255,255,255,.75);
+        background: rgba(255,255,255,.25);
+    }
+
+    .home .input-text::-webkit-input-placeholder {
+        color: #fff;
+        font-weight: 300;
+        font-style: italic;
+    }
+
+    .home .input-text:-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+       font-weight: 300;
+       font-style: italic;  
+    }
+
+    .home .input-text::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+       font-weight: 300;
+       font-style: italic;  
+    }
+
+    .home .input-text:-ms-input-placeholder {  
+       color: #fff;
+       font-weight: 300;
+       font-style: italic;  
+    }
 
 .welcome {
     margin-top: 20%;
