@@ -418,6 +418,9 @@ img[height]{
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%; 
+
+    -webkit-animation: fadeInSlideLeft 1.5s 1;
+    animation: fadeInSlideLeft 1.5s 1;
 }
 
 .demo__video {
@@ -426,6 +429,46 @@ img[height]{
     padding-left: 8.5%;
     padding-right: 7.5%;
     padding-bottom: 30%;
+}
+
+
+/*
+*
+* Animations
+*
+*/
+
+
+@-webkit-keyframes fadeInSlideLeft {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(40px);
+    -ms-transform: translateX(40px);
+    transform: translateX(40px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInSlideLeft {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(40px);
+    -ms-transform: translateX(40px);
+    transform: translateX(40px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
 }
 
 
