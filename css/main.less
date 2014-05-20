@@ -128,41 +128,6 @@ body {
 }
 
 
-/*
-*
-* Typography
-*
-*/
-
-h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
-    padding: 0;
-    margin: 0;
-    margin-bottom: 1.5rem;
-}
-
-a, a:visited {
-    color: @primary;
-}
-
-/*
-*
-* Images
-*
-*/
-
-audio,
-canvas,
-img,
-svg,
-video {
-    max-width: 100%;
-}
-
-img[width],
-img[height]{
-    max-width:none;
-}
-
 
 /*
 *
@@ -197,17 +162,21 @@ img[height]{
     width: 100%;
 }
 
-.desk-one-half {
-    width: 50%;
+@media only screen and (min-width: 700px) {
+    .desk-one-half {
+        width: 50%;
+    }
+
+    .desk-one-third {
+        width: 33%;
+    }
+
+    .desk-two-thirds {
+        width: 66%;
+    }
 }
 
-.desk-one-third {
-    width: 33%;
-}
 
-.desk-two-thirds {
-    width: 66%;
-}
 
 
 /* Push */
@@ -223,6 +192,64 @@ img[height]{
 .desk-push--one-half {
     left: 50%;
 }
+
+
+/* Conditional Display */
+
+.desk-show {
+    display: none;
+}
+
+.desk-hide {
+    display: block;
+}
+
+@media only screen and (min-width: 700px) {
+    .desk-show {
+        display: block;
+    }
+
+    .desk-hide {
+        display: none;
+    }
+}
+
+
+/*
+*
+* Typography
+*
+*/
+
+h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
+    padding: 0;
+    margin: 0;
+    .margin-b;
+}
+
+a, a:visited {
+    color: @primary;
+}
+
+/*
+*
+* Images
+*
+*/
+
+audio,
+canvas,
+img,
+svg,
+video {
+    max-width: 100%;
+}
+
+img[width],
+img[height]{
+    max-width:none;
+}
+
 
 
 
@@ -324,6 +351,7 @@ img[height]{
 }
 
 
+
 /*
 *
 * Posts
@@ -403,13 +431,41 @@ img[height]{
        font-style: italic;  
     }
 
+
 .welcome {
-    margin-top: 25%;
     padding: 0;
-
     font-weight: 300;
+    line-height: 1;
+    
 
-    font-size: 3rem;
+    font-size: 1.25rem;
+}    
+
+@media only screen and (min-width: 475px) {
+    .welcome {
+        font-size: 2rem;
+    }  
+}
+
+@media only screen and (min-width: 700px) {
+    .welcome {
+        padding-top: 14%;
+        font-size: 2.8rem;
+    }  
+}
+
+
+@media only screen and (min-width: 880px) {
+    .welcome {
+        padding-top: 25%;
+        margin-bottom: 2rem;
+    }  
+}
+
+@media only screen and (min-width: 1028px) {
+    .welcome {
+        font-size: 3rem;
+    }  
 }
 
 
@@ -472,6 +528,15 @@ img[height]{
 }
 
 
+/*
+*
+* Spacing
+*
+*/
+
+.margin-b {
+    margin-bottom: 1.5rem;
+}
 
 
 
