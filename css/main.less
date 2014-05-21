@@ -584,8 +584,15 @@ img[height]{
 *
 */
 
+
+/* 
+* Center Using Transforms
+* Good for items of unknown width/height that must be vertically and horizontally centered.
+* Removes item from page flow.
+* http://css-tricks.com/centering-percentage-widthheight-elements/
+*/
 .center-transform {
-    position: absolute;
+    position: absolute; /* Parent must have position: relative */
     top: 50%;
     left: 50%;
 
@@ -596,15 +603,42 @@ img[height]{
     transform: translate(-50%, -50%);
 }
 
+/* 
+* Center Using Position
+* Good for items with known height that must be vertically and horizontally centered.
+* Removes item from page flow.
+* http://www.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/
+*/
+.center-position {
+    position: absolute; /* Parent must have position: relative */
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+/* 
+* Center Using Text Align
+* Will center text and inline images horizontally.
+* Perserves page flow.
+*/
 .center-text {
     text-align: center;
 }
 
+/* 
+* Center Using Margins
+* Sets element to block and centers horizontally.
+* Perserves page flow.
+*/
 .center-margins {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 .margin-b {
     margin-bottom: 1.5rem;
