@@ -404,6 +404,7 @@ img[height]{
     background-repeat: no-repeat;
 
     min-height: 100%;
+    .clearfix;
 }
 
     .home .logo {
@@ -718,15 +719,21 @@ img[height]{
  *    `:before` to contain the top-margins of child elements.
  */
 
-.clearfix:before,
-.clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+.clearfix {
+    &:before,
+    &:after 
+    {
+        content: " "; /* 1 */
+        display: table; /* 2 */
+    }
+
+    &:after 
+    {
+        clear: both;
+    }
 }
 
-.clearfix:after {
-    clear: both;
-}
+
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
