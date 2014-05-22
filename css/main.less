@@ -136,26 +136,52 @@ body {
 *
 */
 
-.grid {
+@gutter: 3rem;
+
+.wrapper {
     width: 65rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
     max-width: 100%;
-    margin: 0 auto;
-    overflow: hidden;
+    margin: 0 auto;  
+}
+
+.grid {
+    margin: 0;
+    padding: 0;
+    .clearfix;
+
+    margin-left: -@gutter;
 }
     .grid--padded {
-        padding: 3rem 0;
+        padding-top: @gutter;
+        padding-bottom: @gutter;
+    }
+
+    .grid--full {
+        margin-left: 0;
+    }
+
+    .grid--narrow {
+        margin-left: -@gutter/2;
     }
 
 
 .grid__item {
     float: left;
     text-align: left;
-    padding-right: 1.5rem;
-    padding-left: 1.5rem;
+    padding-left: @gutter;
     
     position: relative;
 }
 
+    .grid--full .grid__item {
+        padding-left: 0;
+    }
+
+    .grid--narrow .grid__item {
+        padding-left: @gutter/2;
+    }
 
 /* Sizes */
 
@@ -173,11 +199,11 @@ body {
     }
 
     .desk-one-third {
-        width: 33.333333333%;
+        width: 33%;
     }
 
     .desk-two-thirds {
-        width: 66.666666667%;
+        width: 66%;
     }
 }
 
@@ -351,6 +377,7 @@ img[height]{
 */
 
 .input-text {
+    width: 100%;
     border: 1px solid #ccc;
     height: 3rem;
     vertical-align:middle; 
