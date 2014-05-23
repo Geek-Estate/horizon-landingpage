@@ -268,7 +268,10 @@ h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
 }
 
 a, a:visited {
+    text-decoration: none;
     color: @primary;
+  -webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+          transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */    
 }
 
 a:hover, a:active {
@@ -467,12 +470,34 @@ img[height]{
     line-height: 1.25;
     text-align: center;
 }
+    
+    .post__title a, .post__title a:visited {
+        color: #444;
+        text-decoration: none;
+    }
+
+    .post__title a:hover, .post__title a:active {
+        color: #000;
+    }
 
 .post__meta {
-    color: rgba(0,0,0,.25);
+    color: #ccc;
+    font-weight: 300;
     font-size: .85rem;
     text-align: center;
 }
+
+    .post__meta a, .post__meta a:visited {
+        color: #ccc;
+        text-decoration: none;
+        border-bottom: 1px solid #fff;
+    }
+
+    .post__meta a:hover, .post__meta a:active {
+        color: #999;
+        border-bottom: 1px solid #999;
+    }
+
 
 .post__content {
     color: #666;
