@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Mission
 date: 2014-05-16
 author: Drew Meyers
