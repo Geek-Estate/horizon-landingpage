@@ -289,8 +289,6 @@ h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
 a, a:visited {
     text-decoration: none;
     color: @primary;
-  -webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
-          transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */    
 }
 
 a:hover, a:active {
@@ -484,6 +482,11 @@ img[height]{
 .post, .page {
     margin: 9rem 0;
 }
+
+    .post a, .page a {
+        -webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */    
+    }
 
 .post__title {
     font-weight: 300;
