@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We’re Setting it Free - WHOOP – Oh Hey World’s Location Sharing Platform is Now Open Source
+title: We’re Setting it Free - Oh Hey World’s Location Sharing Platform is Now Open Source
 date: 2014-05-16
 author: Drew Meyers
 ---
