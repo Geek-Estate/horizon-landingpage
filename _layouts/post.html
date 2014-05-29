@@ -3,20 +3,25 @@ layout: default
 ---
 <div class="post">
 
-	<div class="grid">
+	<div class="wrapper">
 
-		<div class="grid__item desk-two-thirds desk-push--one-sixth">
+		<div class="grid">
 
-			<header class="post__header">
-			  <h1 class="post__title">{{ page.title }}</h1>
-			  <p class="post__meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-			</header>
+			<div class="grid__item desk-two-thirds desk-push--one-sixth">
+
+				<header class="post__header">
+				  <h1 class="post__title">{{ page.title }}</h1>
+				  <p class="post__meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+				</header>
+				
+				<article class="post__content">
+				{{ content }}
+				</article>
+
+			</div>
 			
-			<article class="post__content">
-			{{ content }}
-			</article>
+		</div><!-- end grid -->
 
-		</div>
-	</div><!-- end grid -->
+	</div><!-- end wrapper -->
 
 </div>
