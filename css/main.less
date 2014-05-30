@@ -329,7 +329,9 @@ img[height]{
 
 .site-header {
     background: transparent;
+    height: 2.75rem;
 }
+
 
 .logo, .logo a {
     color: #000;
@@ -347,11 +349,13 @@ img[height]{
         font-weight: 700;
     }
 
+
 .site-footer {
     color: #fff;
     width: 100%;
     background-color: #333;
 }
+
 
 .copyright {
     background: #222;
@@ -359,6 +363,97 @@ img[height]{
     text-align: center;
     font-size: .5rem;
 }
+
+
+
+/* Mobile Menu */
+.mobile-menu-button {
+    color: #000;
+    float: right;
+    font-size: 1.75rem;
+    padding-left: 1.5rem;
+    cursor: pointer;
+}
+
+    .mobile-menu-button:before {
+        position: relative;
+        content: "☰";
+    }
+
+    .mobile-menu-button:hover {
+        color: inherit;
+    }
+
+
+.mobile-menu-show body {
+    overflow: hidden;
+}
+
+.mobile-menu-show .site-header {
+    background-color: #333;
+    height: 3rem;
+}
+
+.mobile-menu-show .logo, .mobile-menu-show .logo a {
+    color: #fff;
+}
+
+.mobile-menu-show .mobile-menu-button {
+    color: #fff;
+}
+
+.mobile-menu-show .mobile-menu-button:before {
+    top: .2rem;
+    content: "×";
+}
+
+.mobile-menu-show .mobile-menu {
+    display: block;
+}
+
+.mobile-menu {
+    position: fixed;
+    top: 3rem;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #333;
+
+    display: none;
+}
+
+    .mobile-menu a {
+        font-weight: 300;
+        letter-spacing: .5px;
+        background: #ccc;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+
+        color: #fff;
+    }
+
+        .mobile-menu li:nth-child(1) a {
+            background: #737373;
+        }
+
+        .mobile-menu li:nth-child(2) a {
+            background: #666666;
+        }
+
+        .mobile-menu li:nth-child(3) a {
+            background: #595959;
+        }
+
+        .mobile-menu li:nth-child(4) a {
+            background: #4d4d4d;
+        }
+
+        .mobile-menu li:nth-child(5) a {
+            background: #404040;
+        }
 
 
 .nav {
@@ -371,6 +466,17 @@ img[height]{
         float: left;
         zoom: 1;
     }
+
+.nav--stacked{
+
+    > li{
+        display:list-item;
+
+        > a{
+            display:block;
+        }
+    }
+}
 
     /* Force a nav to occupy 100% of the available width of its parent. */
     .nav--fit {
@@ -392,6 +498,7 @@ img[height]{
         text-transform: uppercase;
         font-size: .75rem;
         font-weight: 300;
+        margin: 0;
         
     }
 
@@ -553,6 +660,10 @@ img[height]{
     .home .logo, .home .logo a {
         color: #fff;
         text-shadow: 0 1px 2px rgba(0,0,0,.25);
+    }
+
+    .home .mobile-menu-button {
+        color: #fff;
     }
 
     .home .input-text {
