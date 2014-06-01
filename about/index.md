@@ -12,3 +12,11 @@ Finding those amazing connections, is a horribly inefficient process. We see a b
 We facilitate hospitality exchanges among trusted communities.  We enable you to host your trusted network, which includes friends and family, friends of theirs, and members of the same trusted member associations and affinity groups you belong to.
 
 Based in Seattle, WA.
+
+Backers and Partners
+
+Startup Chile - Generation Ten
+http://www.nathanlustig.com/wp-content/uploads/2013/04/20120904-start-up-chile-logo.jpg
+
+Startup Abroad
+http://www.ohheyworld.com/assets/colophon-startup-abroad.png
