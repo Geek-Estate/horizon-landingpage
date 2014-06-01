@@ -18,6 +18,7 @@ A agile development firm operating since 1996 run by Todd Sampson and Eric Marco
 
 Code Fellows
 MVP Prototyping
+https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/55/CodeFellows.png or http://www.ohheyworld.com/system/communities/brands/000/000/055/original/codefellows.png?1383156154
 A world class development bootcamp and accelerator based in Seattle, WA. Graduates are guaranteed a $60k+ job offer. The team from their Spring 2014 iOS class working on OpenDoor as their portfolio project:
 
 Cole Bratcher
@@ -31,7 +32,7 @@ Seann Birkelund
 Early stage venture investor, advisor, and entrepreneur. Co-founder at Education.com, led business development and corporate finance. Tech investor at Azure Capital and Partner at Silicon Valley Financial Group.
 
 Matt Duncan
-Marketing strategist and product innovator with more than 20 years of experience in the technology industry. In addition to successful tenure at Oracle, he served as the marketing officer for CRM innovators Pivotal Software and Aurum Software, taking them through successful IPOs. Active social entrepreneur, having led market development and innovations for Grameen Foundation, in open source microfinance software and mobile money, and Vittana Foundation, croudfunding for education loans. Mentor at Seattle University’s Albers School of Business and University of Washington’s Global Business Center.
+Marketing strategist and product innovator with more than 20 years of experience in the technology industry. Tenure at Oracle and marketing officer for CRM innovators Pivotal Software and Aurum Software, taking them through successful IPOs. Active social entrepreneur, having led market development and innovations for Grameen Foundation and Vittana Foundation. Mentor at Seattle University’s Albers School of Business and University of Washington’s Global Business Center.
 
 Spencer Rascoff
 Co-Founder at HotWire and current CEO of Zillow. Board Director of Zillow, TripAdvisor, Zulily and Julep.
