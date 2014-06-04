@@ -694,17 +694,26 @@ img[height]{
 
 .team__image {
     padding: .5rem;
-    background: #f5f5f5;
+    background: #f7f7f7;
     width: 100%;
+    
 }
 
 .team__bio {
     padding-top: 1.5rem;
     padding-right: 1.5rem;
     padding-left: 1.5rem;
-    height: 212px;
-    background: #f5f5f5;
+    padding-bottom: 1.5rem;
+
+    background: #f7f7f7;
     margin-bottom: 3rem;
+}
+
+@media only screen and (min-width: 1040px) {
+    .team__bio {
+        height: 212px;
+        padding-bottom: 0;
+    }  
 }
 
 .team__title {
