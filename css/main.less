@@ -710,21 +710,29 @@ img[height]{
 
 
 .team__image {
-    padding: .5rem;
-    background: #f7f7f7;
     width: 100%;
-    
 }
 
 .team__bio {
     padding-top: 1.5rem;
-    padding-right: 1.5rem;
-    padding-left: 1.5rem;
-    padding-bottom: 1.5rem;
-
-    background: #f7f7f7;
     margin-bottom: 3rem;
 }
+
+@media only screen and (min-width: 700px) {
+    .team__image {
+        padding: .5rem;
+        background: #f7f7f7;
+    }
+
+    .team__bio {
+        padding-top: 1.5rem;
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
+        padding-bottom: 1.5rem;
+        background-color: #f7f7f7;
+    }  
+}
+
 
 @media only screen and (min-width: 1040px) {
     .team__bio {
