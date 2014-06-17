@@ -1,9 +1,9 @@
 # Site settings
-title: OpenDoor
+title: Horizon
 email: moyer.will@gmail.com
-description: "Welcome to OpenDoor"
+description: "Welcome to Horizon"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://horizonapp.co"
 
 # Build settings
 markdown: kramdown
