@@ -408,16 +408,15 @@ img[height]{
 
     margin: 0;
     padding: 0;
+    padding-top: 1rem;
 
     letter-spacing: -2px;
     font-weight: 300;
-
     font-size: 1.75rem;
-}
 
-    .logo span {
-        font-weight: 700;
-    }
+    max-width: 10rem;
+    min-width: 6rem;
+}
 
 
 .site-footer {
@@ -442,6 +441,7 @@ img[height]{
     float: right;
     font-size: 1.75rem;
     padding-left: 1.5rem;
+    padding-top: 1.1rem;
     cursor: pointer;
 }
 
@@ -461,7 +461,7 @@ img[height]{
 
 .mobile-menu-show .site-header {
     background-color: #333;
-    height: 3rem;
+    height: 5rem;
 }
 
 .mobile-menu-show .logo, .mobile-menu-show .logo a {
@@ -473,7 +473,7 @@ img[height]{
 }
 
 .mobile-menu-show .mobile-menu-button:before {
-    top: .2rem;
+    
     content: "×";
 }
 
@@ -483,7 +483,7 @@ img[height]{
 
 .mobile-menu {
     position: fixed;
-    top: 3rem;
+    top: 0;
     left: 0;
     height: 100%;
     width: 100%;
@@ -493,7 +493,7 @@ img[height]{
     display: none;
 }
 
-    .mobile-menu a {
+    .mobile-menu__ul a {
         font-weight: 300;
         letter-spacing: .5px;
         background: #ccc;
@@ -505,23 +505,23 @@ img[height]{
         color: #fff;
     }
 
-        .mobile-menu li:nth-child(1) a {
+        .mobile-menu__ul li:nth-child(1) a {
             background: #737373;
         }
 
-        .mobile-menu li:nth-child(2) a {
+        .mobile-menu__ul li:nth-child(2) a {
             background: #666666;
         }
 
-        .mobile-menu li:nth-child(3) a {
+        .mobile-menu__ul li:nth-child(3) a {
             background: #595959;
         }
 
-        .mobile-menu li:nth-child(4) a {
+        .mobile-menu__ul li:nth-child(4) a {
             background: #4d4d4d;
         }
 
-        .mobile-menu li:nth-child(5) a {
+        .mobile-menu__ul li:nth-child(5) a {
             background: #404040;
         }
 
