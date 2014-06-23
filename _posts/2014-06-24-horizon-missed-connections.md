@@ -17,8 +17,6 @@ Thus, over a year later, we're taking a second shot at solving the problem with 
 
 We've sliced off one component - people nearby - of the original Oh Hey World product, and solved the "why" question with <strong><em>to find a place to stay</em></strong>. We learned the simplicity lesson, and are building the entire product around finding trusted contacts by location with the goal of finding a free (or cheap) place to stay in the next city you are traveling to.
 
-There is zero doubt in our minds that staying with a friend is the best way to travel. It just so happens that it's also the cheapest way to travel. Couch
+There is zero doubt in our minds that staying with a friend is the best way to travel. It just so happens that it's also the cheapest way to travel. Couchsurfing has enabled millions to experience the world and make amazing connections along the way since it began in 2003. If you really think about it, everyone on the planet (that travels) couchsurfs. The vast majority just happen to stay with friends, family, and trusted connections rather than strangers. We're enabling that discovery of trusted individuals to happen much more efficiently from your mobile device.
 
-If you really think about it, everyone on the planet (that travels) couchsurfs. The vast majority just happen to stay with friends, family, and trusted connections rather than strangers. We're enabling that discovery of trusted individuals to happen much more efficiently from your mobile device.
-
-We hope you join us in this next journey by signing up for the upcoming BETA.
+We hope you join us in this next journey to broaden your <em>horizon</em> by signing up for the upcoming BETA.
