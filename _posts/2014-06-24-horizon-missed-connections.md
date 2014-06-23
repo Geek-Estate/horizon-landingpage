@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horizon - Our 2nd Attempt at Solving Missed Connections
+title: Our 2nd Attempt at Solving Missed Connections
 date: 2014-06-24
 author: Drew Meyers
 ---
@@ -13,9 +13,9 @@ But we didn't solve the problem.
 
 Thus, over a year later, we're taking a second shot at solving the problem with a completely different product, which we've named Horizon.
 
-<img src="https://www.evernote.com/shard/s254/sh/a03b472e-3efa-4a4a-95fd-309fcf84a9e0/a7775426f28e86839b61236d4bbb3be5/deep/0/Screenshot%206/22/14,%209:31%20PM.png"/>
+We've sliced off one component - people nearby - of the original Oh Hey World product (see image below), and solved the "why" question with <strong><em>to find a place to stay</em></strong>. We learned the simplicity lesson, and are building the entire user interface around finding trusted contacts by location with the goal of finding a free (or cheap) place to stay in the next city you are traveling to.
 
-We've sliced off one component - people nearby - of the original Oh Hey World product, and solved the "why" question with <strong><em>to find a place to stay</em></strong>. We learned the simplicity lesson, and are building the entire product around finding trusted contacts by location with the goal of finding a free (or cheap) place to stay in the next city you are traveling to.
+<img src="https://www.evernote.com/shard/s254/sh/a03b472e-3efa-4a4a-95fd-309fcf84a9e0/a7775426f28e86839b61236d4bbb3be5/deep/0/Screenshot%206/22/14,%209:31%20PM.png"/>
 
 There is zero doubt staying with a friend is the best way to travel; it just so happens it's also the cheapest way to travel. Couchsurfing has enabled millions to experience the world and make amazing connections all along the way since it began in 2003. If you really think about it, everyone on the planet (that travels) couchsurfs. The vast majority just happen to stay with friends, family, and trusted connections rather than strangers. We're enabling that discovery of trusted individuals to happen much more efficiently from your mobile device.
 
