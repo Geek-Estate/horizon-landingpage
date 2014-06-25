@@ -17,8 +17,8 @@ What type of environment are we building?
 
 Currently seeking the following positions
 
-- Technical Co-Founder
 - Community/Marketing Interns
+- iOS engineers
 
 Get in Touch
 
