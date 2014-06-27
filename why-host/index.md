@@ -8,10 +8,12 @@ If you have ever taken in a out of town friend or family member, you have engage
 
 Why host you ask?
 
-Enable rich social experiences
-Network with like minded individuals
-Help your friends explore the world
-Help others experience the magic of your city
-Raise money for your favorite charity
+<ul>
+	<li>Enable rich social experiences</li>
+	<li>Network with like minded individuals</li>
+	<li>Help your friends afford to explore the world</li>
+	<li>Unlock the magic of your city to out of towners</li>
+	<li>Raise money for your favorite charity</li>
+</ul>
 
-If you really think about it, everyone on the planet (that travels) couchsurfs. They just happen to stay with known, trusted contacts rather than with strangers. The vast majority of the world has no interest in staying with strangers. Yet, everyone is fine with staying with a "friend".
+If you really think about it, everyone on the planet (that travels) couchsurfs. Most just happen to stay with known, trusted contacts rather than strangers. The vast majority of the world has no interest in staying with strangers. Yet, everyone is fine with staying with a "friend".

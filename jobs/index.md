@@ -18,7 +18,7 @@ What type of environment are we building?
 Currently seeking the following positions
 
 - Community/Marketing Interns
-- iOS engineers
+- iOS Engineers
 
 Get in Touch
 
