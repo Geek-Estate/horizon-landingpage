@@ -13,3 +13,8 @@ We facilitate hospitality exchanges among communities.  We enable you to host yo
 
 *Based in Seattle, WA.*
 
+What's with the name?
+
+At an extremely high level, Horizon signifies the Broadening of Horizons (our <a href="/mission">Mission</a>). A horizon is also where two things meet. In our case, it signifies where two people come together.
+
+Who is on your "Horizon"?
