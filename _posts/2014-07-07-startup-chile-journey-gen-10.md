@@ -11,7 +11,7 @@ Our has been no different.
 
 Our journey of connecting like minded people in person began all the way <a href="http://blog.ohheyworld.com/the-story-behind-the-original-idea-of-oh-hey-world/">back in 2010 with the original idea</a>, continued through 7 months of product development in late 2012 into 2013 (we built <a href="http://www.ohheyworld.com">Oh Hey World</a>), and was followed by a year of consulting work while validating new product approaches to <a href="http://www.horizonapp.co/blog/horizon-missed-connections">alleviating the same problem</a>. 
 
-<img src="http://www.horizonapp.co/assets/team-start-up-chile.jpg" alt="Start-up Chile" width="400" height="400">
+<p align="center"><img src="http://www.horizonapp.co/assets/team-start-up-chile.jpg" alt="Start-up Chile" width="400" height="400"></p>
 
 In March, while Will Moyer and I were working in Medellin (Colombia) - we applied to <a href="http://startupchile.org/">Start-up Chile</a> with the private couchsurfing concept we've been working on over the past 6 months. For those who aren't familiar with Start-up Chile, it's a startup incubator funded by the Chile government. They provide $40k, equity free, and a support network to grow your business while living in Chile for 6 months.
 
