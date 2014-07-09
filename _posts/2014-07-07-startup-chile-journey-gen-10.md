@@ -11,13 +11,13 @@ Ours has been no different.
 
 Our journey of connecting like minded people in person began all the way <a href="http://blog.ohheyworld.com/the-story-behind-the-original-idea-of-oh-hey-world/">back in 2010 with the original idea</a>, continued through 7 months of product development in late 2012 into 2013 (we built <a href="http://www.ohheyworld.com">Oh Hey World</a>), and was followed by a year of consulting work while validating new product approaches to <a href="http://www.horizonapp.co/blog/horizon-missed-connections">alleviating the same problem</a>. 
 
-<p align="center"><img src="http://www.horizonapp.co/assets/team-start-up-chile.jpg" alt="Start-up Chile" width="400" height="400"></p>
+![](/assets/2014-07-07-startup-chile-journey-gen-10-sup-logo.png)
 
-In March, while Will Moyer and I were working in Medellin (Colombia) - we applied to <a href="http://startupchile.org/">Start-up Chile</a> with the private couchsurfing concept we've been working on over the past 6 months. For those who aren't familiar with Start-up Chile, it's a startup incubator funded by the Chile government. They provide $40k, equity free, and a support network to grow your business while living in Chile for 6 months.
+In March, while Will Moyer and I were working in Medellin, Colombia,  we applied to <a href="http://startupchile.org/">Start-up Chile</a> with the private couchsurfing concept we've been working on over the past 6 months. For those who aren't familiar with Start-up Chile, it's a startup incubator funded by the Chile government. They provide $40k, equity free, and a support network to grow your business while living in Chile for 6 months.
 
 The following is our application video:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/hVoTj-89voA" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><p class='embed-container'><iframe src='http://www.youtube.com/embed/hVoTj-89voA' frameborder='0' allowfullscreen></iframe></p>
 
 About a month ago, we finally caught a break when we learned we were accepted into Start-up Chile.
 
