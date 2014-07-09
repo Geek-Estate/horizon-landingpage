@@ -11,10 +11,8 @@ Finding those amazing connections is a horribly inefficient process. We see a be
 
 We facilitate hospitality exchanges among communities.  We enable you to host your trusted network which includes friends and family, friends of theirs, and members of the associations and affinity groups you belong to.
 
-*Based in Seattle, WA.*
-
 ## What's with the name?
 
-At an extremely high level, Horizon signifies the broadening of horizons (our <a href="/mission">mission</a>). A horizon is also where two things meet. In our case, it signifies where two people come together.
+Horizon signifies the broadening of horizons (our <a href="/mission">mission</a>). A horizon is also where two things meet. In our case, it signifies where two people come together.
 
 Who is on your horizon?
