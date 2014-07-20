@@ -9,7 +9,7 @@ If you have ever taken in a out of town friend or family member, you have engage
 Why host you ask?
 
 <ul>
-	<li>Enable rich social experiences</li>
+	<li>Enjoy rich social experiences</li>
 	<li>Network with like minded individuals</li>
 	<li>Help your friends afford to explore the world</li>
 	<li>Unlock the magic of your city to out of towners</li>
