@@ -721,6 +721,41 @@ img[height]{
 }
 
 
+/* Team Grid */
+
+.team__item {
+    .grid;
+}
+
+.team__section-1, .team__section-2 {
+    .grid__item;
+}
+
+.team__section-1 {
+    width: 50%;
+}
+
+@media only screen and (min-width: 700px) {
+    .team__section-1 {
+        width: 25%;
+    }
+
+    .team__section-2 {
+        width: 75%;
+    }
+
+    .team__item:nth-child(odd) .team__section-1 {
+        left: 75%;
+    }
+
+    .team__item:nth-child(odd) .team__section-2 {
+        right: 25%;
+    }
+}
+
+/* End Team Grid */
+
+
 .team__image {
     position: relative;
 }
@@ -754,7 +789,7 @@ img[height]{
 
 @media only screen and (min-width: 1040px) {
     .team__bio {
-        height: 212px;
+        height: 212/16rem;
         padding-bottom: 0;
     }  
 }
