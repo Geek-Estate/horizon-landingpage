@@ -18,6 +18,6 @@ Why host you ask?
 
 Trusted Communities
 
-In addition to those people you know personally and would love to spend more time with, your trusted network consists of those communities in which trust exists, even for those who not met someone personally. Usually, those communities are based upon a shared friend, passion, belief, or experience and are somewhat exclusive in nature.
+In addition to those people you know personally and would love to spend more time with, your trusted network consists of members of those communities in which trust exists, even for those you've not met personally. Usually, those communities are based upon a shared friend, passion, belief, or experience and are somewhat exclusive in nature.
 
 We give you the control to indicate which communities you trust.
