@@ -2,6 +2,7 @@
 layout: post
 title: Our Upcoming Journey to Santiago for Start-Up Chile
 date: 2014-07-07
+categories: blog
 author: Drew Meyers
 ---
 

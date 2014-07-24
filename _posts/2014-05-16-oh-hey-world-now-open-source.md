@@ -2,7 +2,9 @@
 layout: post
 title: We’re Setting it Free - Oh Hey World’s Location Sharing Platform is Now Open Source
 date: 2014-05-16
+categories: blog
 author: Drew Meyers
+
 ---
 
 We’re setting our code free… will you fly with us?

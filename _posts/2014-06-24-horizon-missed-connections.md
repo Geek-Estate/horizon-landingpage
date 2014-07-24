@@ -2,6 +2,7 @@
 layout: post
 title: Our 2nd Attempt at Solving Missed Connections
 date: 2014-06-24
+categories: blog
 author: Drew Meyers
 ---
 
