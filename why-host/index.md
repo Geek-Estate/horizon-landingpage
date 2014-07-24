@@ -13,11 +13,11 @@ Why host you ask?
 	<li>Network with like minded individuals</li>
 	<li>Help your friends afford to explore the world</li>
 	<li>Unlock the magic of your city to out of towners</li>
-	<li>Raise money for your favorite charity</li>
+	<li>Be the "change you want to be in the world", by raising money for your favorite charity</li>
 </ul>
 
 Trusted Communities
 
-Your trusted communities consist of some percentage of those you know personally and members of other communities in which trust exists, even though you have not met someone personally. Usually, those communities are built upon a shared friend, passion, belief, or experience and are somewhat exclusive in nature.
+In addition to those people you know personally and would love to spend more time with, your trusted network consists of those communities in which trust exists, even for those who not met someone personally. Usually, those communities are based upon a shared friend, passion, belief, or experience and are somewhat exclusive in nature.
 
-We give you the control to indicate which communities you belong to are trusted.
+We give you the control to indicate which communities you trust.
