@@ -7,5 +7,5 @@ url: "http://horizonapp.co"
 
 # Build settings
 markdown: kramdown
-permalink: /hello/:title
+permalink: /:categories/:title
 exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
