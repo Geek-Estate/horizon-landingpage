@@ -10,17 +10,17 @@ Many startups wireframe, design and sometimes even build working prototypes of m
 
 We are no different.
 
-One such concept I spent 2-3 months wireframing and validating with potential customers was a mobile, social email newsletter reader. We ultimately ended up abandoning the concept in favor of <a href="http://www.horizonapp.co">Horizon</a>, the hospitality exchange platform we are building now. That said, I thought I'd walk through the thinking of the prior concept we toyed with (nicknamed "Push"), in the event someone else is working on such an idea and is saved time or money by our learnings.
+One such concept I spent 2-3 months wireframing and validating with potential customers was a mobile, social email newsletter reader. We ultimately ended up abandoning the concept in favor of the <a href="http://www.horizonapp.co/blog/horizon-missed-connections/">trusted hospitality exchange concept we are building now</a>. That said, I thought I'd walk through the thinking of the prior concept we toyed with (nicknamed "Push"), in the event someone else is working on such an idea and is saved time or money by our learnings.
 
 <strong>The Thinking</strong>
 
-The goal we set out to solve is, and always has been, to connect like minded people in person. As you know, like minded people you most definitely want to meet exist within groups, networks, and communities.
+The goal we set out to solve is, and always has been, <a href="http://blog.ohheyworld.com/the-story-behind-the-original-idea-of-oh-hey-world/">to connect like minded people in person</a>. As you know, like minded people who most definitely want to meet exist within specific groups, networks, and communities.
 
 I got to thinking -- where are the communities I belong to in my life? How do they interact with me?
 
 Well, duh, they are all my email inbox in the form of newsletters. Communities most definitely currently have zero presence on my phone.
 
-What if we could PUSH all those email newsletters out of your inbox and into a simple, clean reading experience away to consume them on your own terms? In the process, add location aware community directories for every newsletter you read allowing you to discover other like minded people nearby. Basically, MyBlogLog for email communities in a mobile world...meaning location is enabled by default. With a big splash of Google Reader thrown on top.
+What if we could PUSH all those email newsletters out of your inbox and into a simple, clean reading experience away to consume them on your own terms? In the process, add location aware community directories for every newsletter you read allowing you to discover other like minded people nearby. Basically, MyBlogLog (<a href="http://www.drewmeyersinsights.com/2006/11/20/if-i-were-the-ceo-of-mybloglog-this-would-be-my-strategy/">I was a massive fan</a>) for email communities in a mobile world...meaning location is enabled by default. With a big splash of Google Reader thrown on top.
 
 <strong>Email Publishing Now</strong>
 
@@ -58,11 +58,11 @@ Of course, the real question is how do you get email newsletters pushed out of t
 
 <strong>Publishers and Readers</strong>
 
-There are two relevant parties for this product. Publishers and readers. I spoke to a number of both.
+There are two relevant parties for this product. Publishers and readers.
 
-When thinking about any consumer facing product, there has to be a clear hook to gain widespread adoption. We came across three. Techies and non techies alike thought the ability to subscribe to email lists without giving up their primary address would be a massive win (<a href="http://www.followletter.com/">FollowLetter</a> agreed, and focuses on that pain point). Non technical readers simply wanted to de-clutter their inbox, and have some place to read all that content from their mobile device. The other, more tech savvy readers, wanted to find a way to discover what their friends and industry thought leaders are reading. <a href="http://nuzzel.com/">Nuzzel</a> clearly identified that same desire, and built their service with that as the primary value proposition.
+When thinking about any consumer facing product, there has to be a clear hook to gain widespread adoption. We came across three. Techies and non techies alike thought the ability to subscribe to email lists without giving up their primary address would be a massive win (<a href="http://www.followletter.com/">FollowLetter</a> agrees, and focuses on that pain point). Non technical readers simply wanted to de-clutter their inbox, and have some place to read all that content from their mobile device. The other, more tech savvy readers, wanted to find a way to discover what their friends and industry thought leaders are reading. <a href="http://nuzzel.com/">Nuzzel</a> clearly identified that same desire, and built their service with that as the primary value proposition.
 
-From publishers, the feedback was universally positive. Publishers two largest pain points, by a mile, are "how do I grow my list?" and "how do I get people to open and read my emails". Push would help with both. Email is a black hole of analytics. They all realize, if that consumption shifted from email into an app -- they could track everything. Opens. Reads. Time spent. Mouse movements. Etc. And bringing transparency to who reads what emails allows discovery of new email communities your friends belong to (how do you find great newsletter now?). On top of that, it would enable their readers to meet each other -- which everyone who has grown a community knows is the single most important factor to building an engaged community.
+From publishers, the feedback was universally positive. Publishers two largest pain points, by a mile, are "how do I grow my list?" and "how do I get people to open and read my emails". Push would help with both. Email is a black hole of analytics. They all realize, if that consumption shifted from email into an app -- they could track everything. Opens. Reads. Time spent. Mouse movements. Etc. And bringing transparency to who reads what emails allows discovery of new email communities your friends belong to (how do you find great newsletter now?). On top of that, it would enable their readers to discover and meet each other -- which everyone who has grown a community knows is the single most important factor to building an engaged community.
 
 <strong>Monetization</strong>
 
@@ -70,7 +70,7 @@ Originally, the thought was that this would replace companies like MailChimp, Co
 
 That wasn't thinking big enough.
 
-In actuality, the bigger revenue opportunity is discovery, the mobile equivalent of search engine marketing. Getting someone's permission to email them regularly (to be fair, part of the goal product wise is to lesson that since the goal is to help users get newsletters out of their inbox while still giving them someway to keep up to date). Even so, if there were a way for companies such as Zillow to enable subscribers of Trulia and Realtor.com to "find" their list and join -- their checkbook is open all day, everyday for that transaction.
+In actuality, the bigger revenue opportunity is discovery, the mobile equivalent of search engine marketing. Getting someone's permission to email them regularly is the most valuable type of customer short of a completed transaction. To be fair, part of the goal product wise is to lesson that since the goal is to help users get newsletters out of their inbox while still giving them someway to keep up to date). Even so, if there were a way for companies such as Zillow to enable subscribers of Trulia and Realtor.com to "find" their list and join -- their checkbook is open all day, everyday for that transaction.
 
 When it comes to tapping into the user acquisition budgets, the revenue possibilities are virtually endless (only cap is the number of users).
 
