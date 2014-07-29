@@ -70,7 +70,7 @@ Originally, the thought was that this would replace companies like MailChimp, Co
 
 That wasn't thinking big enough.
 
-In actuality, the bigger revenue opportunity is discovery, the mobile equivalent of search engine marketing. Getting someone's permission to email them regularly is the most valuable type of customer short of a completed transaction. To be fair, part of the goal product wise is to lesson that since the goal is to help users get newsletters out of their inbox while still giving them someway to keep up to date). Even so, if there were a way for companies such as Zillow to enable subscribers of Trulia and Realtor.com to "find" their list and join -- their checkbook is open all day, everyday for that transaction.
+In actuality, the bigger revenue opportunity is discovery, the mobile equivalent of search engine marketing. Getting someone's permission to email them regularly is the most valuable type of customer short of a completed transaction. To be fair, part of the product goal is to lesson that value by giving users the ability to push newsletters out of their inbox. Even so, if there were a way for companies such as Zillow to enable subscribers of Trulia and Realtor.com to "find" their list and join -- their checkbook is open all day, everyday for that transaction.
 
 When it comes to tapping into the user acquisition budgets, the revenue possibilities are virtually endless (only cap is the number of users).
 
