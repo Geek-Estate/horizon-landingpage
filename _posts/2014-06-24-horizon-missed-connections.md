@@ -33,6 +33,7 @@ We hope you join us in this next journey to broaden your <em>horizon</em> by sig
     </div>
     <div class="grid__item one-whole desk-one-third">
       <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
+      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
     </div>
   </div><!-- end grid -->
 </div>
