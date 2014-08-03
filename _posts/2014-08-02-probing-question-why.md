@@ -12,7 +12,7 @@ I recently came across a post by Tomasz Tunguz titled [The Best Advice I've Ever
 
 It struck a chord with me because a probing question is precisely what pushed us to pivot from Oh Hey World's original location sharing focus to facilitating hospitality exchanges among trusted community members. We had the concept of a location aware community page in the original Oh Hey World product (see <a href="http://www.ohheyworld.com/communities/kiva">Kiva supporters here</a>), but we didn't have a strong answer to "why" someone should join them aside from to "connect".
 
-<img src="/assets/taylor_davidson.jpg" align="center">
+<p align="center"><img src="/assets/taylor_davidson.jpg"></p>
 
 The probing question came in an email thread with <a href="http://taylordavidson.com/">Taylor Davidson</a>. He said something to the tune of:
 
