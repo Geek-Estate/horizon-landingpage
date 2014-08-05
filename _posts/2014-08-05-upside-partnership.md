@@ -14,28 +14,30 @@ I saw [the news that Kent Goldman of First Round Capital was branching off to st
 
 <ul>
 	<li>Understands and invested in building community</li>
-	<li>Purpose driven founders</li>
+	<li>Focus on purpose driven founders</li>
 </ul>
 
 ## Community
 
 Community is what I crave in my life. From my experience, all the magic in life stems from the communities you belong to. Horizon is fundamentally a community building platform, using hospitality exchange as the hook to facilitate in person connections (the lifeblood of every community).
 
-Upside Partnership's strategy of making every founder in the network a partner is brilliant, on many levels. It aligns founder incentives to go the extra mile to collaborate and help each other, turning a "network" with a common tie into a true "community". Those that understand community, know there is a massive difference between those two terms.
+Upside Partnership's strategy of making every founder in the network a partner is brilliant, on many levels. It aligns founder incentives to go the extra mile to collaborate and help each other, turning a "network" with a common investor tie into a true "community". Those that understand community, know there is a massive difference between those two terms.
 
 What's likely going to happen inside that community? Founders pro-actively seeking to support others during the inevitable ruts ([more critical than you think](https://medium.com/@drewmeyers/the-hidden-depths-of-bootstrapped-startups-b9bf16e5a45c)). Business development opportunities, cross app distribution, and joint PR &amp; marketing. Great founders at companies that don't end up succeeding, will be more likely to join other companies in the portfolio. Founder friendships. Of course, all of this, will result in massive goodwill toward Upside Partnership and future dealflow with purpose driven founders.
 
-I haven't raised money yet ([aside from money from Start-up Chile](http://www.horizonapp.co/blog/startup-chile-journey-gen-10/)), so not sure exactly how intimate existing founder networks are at existing VC firms. My gut is they are like most networks; more "group" and less "community".
+I haven't raised money yet ([aside from money from Start-up Chile](http://www.horizonapp.co/blog/startup-chile-journey-gen-10/)), so not sure exactly how intimate founder networks are at most VC firms. My gut is they are like most networks; more "group" and less "community".
 
-Communities are small. Networks are large. Communities are intimate. Networks are not. Upside seems to be in the small and intimate camp.
+Communities are small. Networks are large. Communities are intimate. Networks are not. 
+
+Upside is going after the small and intimate camp.
 
 ## Purpose Driven Founders
 
-There is a large population of opportunistic founders. They see financial opportunity, and start businesses to capitalize on them. Money is what drives them, and most will do anything that pads their bank account. They don't really care about the actual business they are working on.
+When the first words out of a founder's mouth are "what's your exit strategy?", my eyes glaze over. When they talk about spammy marketing strategies to pad their user count, I daze off. When they talk about buying fake Twitter followers, I cringe. When they can't answer "why?" with something other than "to make money", I sigh.
 
-When the first words out of a founder's mouth are "what's your exit strategy?", my eyes glaze over for the rest of the conversation. When they talk about spammy marketing strategies to pad their user count, I daze off. When they talk about buying fake Twitter followers, I cringe. When they aren't creating anything of substance, and just syphoning traffic from one place to another and taking razor thin margins in the process, I feel bad that they are wasting their time on earth. When they can't answer "why?" with something other than "to make money", I sigh.
+Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and most will do anything that pads their bank account. They seldom care deeply about the actual business they are working on. They exit successfully, but seldom (never?) hit massive home runs.
 
-You probably realize by now, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting that much effort into something, just to make a few bucks.
+If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting that much effort into something, just to make a few bucks. Bringing transparency to your personal community, wherever in the world you may be, is a problem worth spending years solving.
 
 ## Summary
 
