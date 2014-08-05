@@ -37,8 +37,10 @@ When the first words out of a founder's mouth are "what's your exit strategy
 
 Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and most will do anything that pads their bank account. They seldom care deeply about the actual business they are working on. They exit successfully, but seldom (never?) hit massive home runs.
 
-If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting that much effort into something, just to make a few bucks. Bringing transparency to your personal community, wherever in the world you may be, is a problem worth spending years solving.
+If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting years of blood, sweat, and tears into building something, simply to make a few bucks. I was clear about [my motives with Oh Hey World](http://blog.ohheyworld.com/motives-for-oh-hey-world/), and they haven't changed as we take our [2nd swing at this opportunity with a completely different product](http://www.horizonapp.co/blog/horizon-missed-connections).
+
+Enabling community, wherever in the world you may be, is a problem worth spending years solving. Afterall, community and people is where all of life's magical moments originate.
 
 ## Summary
 
-From the surface, Kent is exactly the type of investor the <em>right</em> founders want to work with. Props to [Upside Partnership](http://www.upsidevc.com/), seeming the most founder-friendly seed firm around.
+From the surface, Kent is exactly the type of investor the <em>right</em> founders will want to work with. Props to [Upside Partnership](http://www.upsidevc.com/), seeming the most founder-friendly seed firm around.
