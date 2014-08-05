@@ -8,6 +8,8 @@ author: Drew Meyers
 
 <p align="center"><img src="/assets/upside-partnership.png"></p>
 
+Communities are small. Networks are large. Communities are intimate. Networks are not.
+
 I saw [the news that Kent Goldman of First Round Capital was branching off to start his own firm called Upside Partnership](http://www.upsidevc.com/2014/07/09/announcing-upside-partnership/), and instantly flagged it in my mind as a venture capitalist I want to work with.
 
 ## Why?
@@ -19,7 +21,7 @@ I saw [the news that Kent Goldman of First Round Capital was branching off to st
 
 ## Community
 
-Community is what I crave in my life. From my experience, all the magic in life stems from the communities you belong to. Horizon is fundamentally a community building platform, using hospitality exchange as the hook to facilitate in person connections (the lifeblood of every community).
+Community is what I crave in my life. From my experience, all the magic in life stems from the communities you belong to. We are building a community building platform, utilizing hospitality exchange as the hook to facilitate in person connections (the lifeblood of every community).
 
 Upside Partnership's strategy of making every founder in the network a partner is brilliant, on many levels. It aligns founder incentives to go the extra mile to collaborate and help each other, turning a "network" with a common investor tie into a true "community". Those that understand community, know there is a massive difference between those two terms.
 
@@ -27,15 +29,13 @@ What's likely going to happen inside that community? Founders pro-actively seeki
 
 I haven't raised money yet ([aside from money from Start-up Chile](http://www.horizonapp.co/blog/startup-chile-journey-gen-10/)), so not sure exactly how intimate founder networks are at most VC firms. My gut is they are like most networks; more "group" and less "community".
 
-Communities are small. Networks are large. Communities are intimate. Networks are not. 
-
-Upside is going after the small and intimate camp.
+Upside is building an intimate community aligned around the goal of maximizing portfolio success.
 
 ## Purpose Driven Founders
 
 When the first words out of a founder's mouth are "what's your exit strategy?", my eyes glaze over. When they talk about spammy marketing strategies to pad their user count, I daze off. When they talk about buying fake Twitter followers, I cringe. When they can't answer "why?" with something other than "to make money", I sigh.
 
-Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and most will do anything that pads their bank account. They seldom care deeply about the actual business they are working on. They exit successfully, but seldom (never?) hit massive home runs.
+Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and will do anything to pads their bank account. They seldom care deeply about the actual business they are working on. They exit successfully, but seldom (never?) hit massive home runs.
 
 If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting years of blood, sweat, and tears into building something, simply to make a few bucks. I was clear about [my motives with Oh Hey World](http://blog.ohheyworld.com/motives-for-oh-hey-world/), and they haven't changed as we take our [2nd swing at this opportunity with a completely different product](http://www.horizonapp.co/blog/horizon-missed-connections).
 
