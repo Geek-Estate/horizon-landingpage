@@ -42,4 +42,4 @@ Enabling community, wherever in the world you may be, is a problem worth spendin
 
 ## Summary
 
-From the surface, Kent is exactly the type of investor the <em>right</em> founders will want to work with. Props to [Upside Partnership](http://www.upsidevc.com/), seeming the most founder-friendly seed firm around.
+From the surface, Kent is exactly the type of investor the <em>right</em> founders will want to work with. Props to [Upside Partnership](http://www.upsidevc.com/), seemingly the most founder-friendly seed firm around.
