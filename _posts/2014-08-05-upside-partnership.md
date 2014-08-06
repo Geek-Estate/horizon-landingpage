@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Upside Partnership is Brilliant...for the Right Founders
-date: 2014-08-04
+date: 2014-08-05
 categories: blog
 author: Drew Meyers
 image: 2014-08-04-upside-partnership-cover.jpg
