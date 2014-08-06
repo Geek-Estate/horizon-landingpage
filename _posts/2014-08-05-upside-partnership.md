@@ -9,7 +9,7 @@ image: 2014-08-04-upside-partnership-cover.jpg
 
 Communities are small. Networks are large. Communities are intimate. Networks are not.
 
-I saw [the news that Kent Goldman of First Round Capital was branching off to start his own firm called Upside Partnership](http://www.upsidevc.com/2014/07/09/announcing-upside-partnership/), and instantly flagged it in my mind as a venture capitalist I want to work with.
+I saw [the news that Kent Goldman of First Round Capital was branching off to start his own firm called Upside Partnership](http://www.upsidevc.com/2014/07/09/announcing-upside-partnership/), and instantly flagged him in my mind as a venture capitalist I want to work with.
 
 ## Why?
 
@@ -38,7 +38,7 @@ Opportunistic founders exist everywhere. They see financial opportunity, and sta
 
 If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting years of blood, sweat, and tears into building something, simply to make a few bucks. I was clear about [my motives with Oh Hey World](http://blog.ohheyworld.com/motives-for-oh-hey-world/), and they haven't changed as we take our [2nd swing at this opportunity with a completely different product](http://www.horizonapp.co/blog/horizon-missed-connections).
 
-Enabling community, wherever in the world you may be, is a problem worth spending years solving. Afterall, community and people is where all of life's magical moments originate.
+Enabling community, wherever in the world you may be, is a problem worth spending years solving. Afterall, the community and people around you are where all of life's magical moments originate.
 
 ## Summary
 
