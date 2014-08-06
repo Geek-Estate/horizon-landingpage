@@ -4,9 +4,8 @@ title: Why Upside Partnership is Brilliant...for the Right Founders
 date: 2014-08-04
 categories: blog
 author: Drew Meyers
+image: 2014-08-04-upside-partnership-cover.jpg
 ---
-
-<p align="center"><img src="/assets/upside-partnership.png"></p>
 
 Communities are small. Networks are large. Communities are intimate. Networks are not.
 
