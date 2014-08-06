@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
-<div class="page">
 
+{% if page.image != null %}
+<div class="page-cover">
+  <div class="post__cover">
+  	<img src="/assets/{{ page.image }}" alt="{{ page.title }}">
+  </div>
+{% else %}
+<div class="page">
+{% endif %}
 	<div class="wrapper">
 
 		<div class="grid">
