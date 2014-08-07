@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Impressions of Santiago
-date: 2014-08-04
+date: 2014-08-07
 categories: blog
 author: Drew Meyers
 ---
