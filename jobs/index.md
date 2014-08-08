@@ -17,6 +17,7 @@ What type of environment are we building?
 
 Currently seeking the following positions
 
+- Community Managers ([more info](http://www.horizonapp.co/blog/travel-community-builders/))
 - Community/Marketing Interns
 - iOS Engineers
 

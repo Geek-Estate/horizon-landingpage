@@ -4,6 +4,7 @@ title: Do You Love People? Do You Love Travel?
 date: 2014-08-08
 categories: blog
 author: Drew Meyers
+image: 2014-08-04-upside-partnership-cover.jpg
 ---
 
 >  Our core mission is to increase access to travel opportunities worldwide by enabling shared hospitality among trusted contacts and communities; providing free or cheap accommodation and cultural experiences not otherwise available to them.
@@ -36,6 +37,6 @@ It’s my firm belief that community building is the single most important compo
 
 Interested? Prove it.
 
-<em>Transparency:</em>
-* The starting point to expressing serious interest is to write a few guest blog posts for the Horizon blog. If you're not willing to go through that effort, then you don't truly want this job - you likely just want to travel and earn money. That's fine, but that's not the type of person we're looking for.
-* To hire you, we need to thoroughly trust you. You either need to know us already, come highly recommended from someone we trust, or spend some time getting to know us informally.
+<strong>Transparency:</strong>
+- <em>The starting point to expressing serious interest is to write a few guest blog posts for the Horizon blog. If you're not willing to go through that effort, then you don't truly want this job - you likely just want to travel and earn money. That's fine, but that's not the type of person we're seeking.
+- To hire you, we need to thoroughly trust you. You either need to know us already, come highly recommended from someone we trust, or spend some time getting to know us informally over time.</em>
