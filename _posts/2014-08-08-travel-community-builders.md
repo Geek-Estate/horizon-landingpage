@@ -39,5 +39,5 @@ Interested? Prove it.
 
 <strong>Transparency:</strong>
 
-- <em>The starting point to expressing serious interest is to write a few guest blog posts for the Horizon blog. If you're not willing to go through that effort, then you don't truly want this job - you likely just want to travel and earn money. That's fine, but that's not the type of person we're seeking.
-- To hire you, we need to thoroughly trust you. You either need to know us already, come highly recommended from someone we trust, or spend some time getting to know us informally over time.</em>
+- <em>The starting point to expressing serious interest is to write a few guest blog posts for the Horizon blog. If you're not willing to go through that effort, then you don't truly want this job - you likely just want to travel and earn money. That's fine, but that's not the type of person we're seeking.</em>
+- <em>To hire you, we need to thoroughly trust you. You either need to know [one of us](http://www.horizonapp.co/team) already, come highly recommended from someone we trust, or spend some time getting to know us informally over time.</em>
