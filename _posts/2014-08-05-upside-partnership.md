@@ -34,7 +34,7 @@ Upside is building an intimate community aligned around the goal of maximizing p
 
 When the first words out of a founder's mouth are "what's your exit strategy?", my eyes glaze over. When they talk about spammy marketing strategies to pad their user count, I daze off. When they talk about buying fake Twitter followers, I cringe. When they can't answer "why?" with something other than "to make money", I sigh.
 
-Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and will do anything to pads their bank account. They seldom care deeply about the actual business they are working on. They exit successfully, but seldom (never?) hit massive home runs.
+Opportunistic founders exist everywhere. They see financial opportunity, and start businesses to capitalize on them. Money is their motivator, and will do anything that pads their bank account. They seldom care deeply about the actual business they are working on. They sometimes exit successfully, but seldom (never?) hit massive home runs.
 
 If it's not already obvious, I'm not an opportunistic founder. I've always known I wanted to start my own company. It was a matter of when, not if. Building a massive technology business is a crapload of work; I've seen it first hand at Zillow. It's not worth putting years of blood, sweat, and tears into building something, simply to make a few bucks. I was clear about [my motives with Oh Hey World](http://blog.ohheyworld.com/motives-for-oh-hey-world/), and they haven't changed as we take our [2nd swing at this opportunity with a completely different product](http://www.horizonapp.co/blog/horizon-missed-connections).
 
