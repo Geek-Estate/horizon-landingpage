@@ -13,7 +13,7 @@ What type of environment are we building?
 - Location independent lifestyle – want to work in Barcelona, Beijing, or Chiang Mai? Fine with us as long as you are a doer.
 - Life is about more than money – If you’re passionate about travel, you’re probably already in the mindset that money doesn’t buy happiness. If you are in the “money buys happiness” mindset, start looking elsewhere for a career.
 - An environment where everyone gives a sh*t about what they are working on.
-- A distributed team - Automattic and BaseCamp are the best known example of this type of company. Headquartered at [Impact HUB in Seattle](http://impacthubseattle.com/), but you may work from any of the 50+ [Impact HUB locations](http://www.impacthub.net/) around the globe.
+- A distributed team - Automattic and BaseCamp are the best known example of this type of company. Likely to be headquartered at one of the 50+ [Impact HUB locations](http://www.impacthub.net/) around the globe. Current team is split between Santiago, Chile for [Start-Up Chile](http://www.horizonapp.co/blog/startup-chile-journey-gen-10/) and Louisville, Kentucky.
 
 Currently seeking the following positions
 
