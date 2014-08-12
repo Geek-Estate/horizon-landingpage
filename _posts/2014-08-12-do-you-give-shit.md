@@ -14,11 +14,11 @@ I wrote my own [Building a “Give a Shit” Culture](http://blog.ohheyworld.com
 
 I've been fortunate to work at two companies where this culture exists, [Zillow](http://www.zillow.com) from 2005 until 2010, and [Virtual Results](http://virtualresults.com/) from 2010 to 2011. It goes without saying company culture starts at the top with its leader(s); their work ethic and values flow through the entire organization. Zillow and VR were very, very different companies, but both had executives...and team members...who cared more than the competition.
 
-Zillow was started be a very experienced team of veterans (Rich, Lloyd, Spencer, Kristin, Jorrit, Amy, Dave, etc), all of whom were prior executives at extremely successful companies. They came from Expedia, Amazon, Hotwire, and Microsoft. They knew what it took to succeed, and cared deeply about the mission to empower buyers and sellers with information to make better real estate decisions. Succeeding did not involve being satisfied with low quality work. It did not involve going through the motions. It did not involve taking shortcuts. Not caring...was simply not an option.
+Zillow was started be a very experienced team of veterans ([Rich](https://twitter.com/rich_barton), [Lloyd](https://twitter.com/LloydFrink), [Spencer](https://www.twitter.com/spencerrascoff), [Kristin](https://twitter.com/kacker), [Jorrit](https://www.linkedin.com/pub/jorrit-van-der-meulen/1/34/b5a), [Amy](https://twitter.com/amybo), [Dave](https://twitter.com/davebei), etc), all of whom were prior executives at extremely successful companies. They came from Expedia, Amazon, Hotwire, and Microsoft. They knew what it took to succeed, and cared deeply about the mission to empower buyers and sellers with information to make better real estate decisions. Succeeding did not involve being satisfied with low quality work. It did not involve going through the motions. It did not involve taking shortcuts. Not caring...was simply not an option.
 
 At Virtual Results, our answer to "why work with us?" was that we cared more about our clients than anyone else.
 
-<img src="http://www.horizonapp.co/assets/blog-2014-08-12-virtual-results-care.png">
+<p align="center"><img src="http://www.horizonapp.co/assets/blog-2014-08-12-virtual-results-care.png"></p>
 
 And we truly did. [Jim Marks](https://twitter.com/jimmarks) simply cares more than any other technology vendor in the industry, and that mindset filtered down through every person involved in the organization. If an employee/contractor wavered from that and let subpar work out the door or didn't fulfill our clients expectations, that didn't stand.
 
