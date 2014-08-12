@@ -18,7 +18,7 @@ Zillow was started be a very experienced team of veterans (Rich, Lloyd, Spencer,
 
 At Virtual Results, our answer to "why work with us?" was that we cared more about our clients than anyone else.
 
-<img src="assets/blog-2014-08-12-virtual-results-care.png">
+<img src="http://www.horizonapp.co/assets/blog-2014-08-12-virtual-results-care.png">
 
 And we truly did. [Jim Marks](https://twitter.com/jimmarks) simply cares more than any other technology vendor in the industry, and that mindset filtered down through every person involved in the organization. If an employee/contractor wavered from that and let subpar work out the door or didn't fulfill our clients expectations, that didn't stand.
 
