@@ -15,7 +15,7 @@ But....<strong>WHY?</strong>
 
 > Why are we here? Where are we going? What does it all mean?
 
-We believe a more connected travel experience is a better travel experience. Amazing travel experiences start and end with people. You either find the right person(s) resulting in amazing social interactions, or those individuals send you down the right path with tips, advice, or even an introduction to one of their friends. What do you remember about your last trip? The amazing hike, thai food, and orphanage you visited? No. You remember the people you shared those experiences with. There is no disputing that.
+We believe a more connected travel experience is a better travel experience. Amazing travel experiences start and end with people. You either meet the right person(s) resulting in amazing social interactions, or those individuals send you down the right path with tips, advice, or even an introduction to one of their friends.
 
 We believe finding those people who share your passions, beliefs, and experiences by location is [incredibly inefficient at best](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/).
 
