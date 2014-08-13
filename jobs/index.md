@@ -23,6 +23,6 @@ Currently seeking the following positions
 
 Get in Touch
 
-Are you passionate about travel, a get things-done person, love web technology, and believe anything is possible? Most important, do you [give a sh*t about what you accomplish in life](http://blog.ohheyworld.com/the-give-a-shit-culture/)? If so, figure out how to get introduced to me via someone I know. And yes, [doing something like this](https://medium.com/better-humans/5ae6fb285d1) is a good strategy ([engineers start here](https://github.com/oh-hey-world)).
+Are you passionate about travel, a get things-done person, love web technology, and believe anything is possible? Most important, do you [give a sh*t about what you accomplish in life](http://www.horizonapp.co/blog/do-you-give-shit/)? If so, figure out how to get introduced to me via someone I know. And yes, [doing something like this](https://medium.com/better-humans/5ae6fb285d1) is a good strategy ([engineers start here](https://github.com/oh-hey-world)).
 
 Drew Meyers, Co-Founder and CEO
