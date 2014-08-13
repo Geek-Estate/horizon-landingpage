@@ -15,22 +15,24 @@ But....<strong>WHY?</strong>
 
 > Why are we here? Where are we going? What does it all mean?
 
-We're here because a more connected travel experience is a better travel experience. Amazing travel experiences start and end with people. You either find the right person(s) resulting in amazing social interactions, or those individuals send you down the right path with tips, advice, or even an introduction to one of their friends. What do you remember about your last trip? The amazing hike, thai food, and orphanage you visited? No. You remember the people you shared those experiences with. There is no disputing that.
+We believe a more connected travel experience is a better travel experience. Amazing travel experiences start and end with people. You either find the right person(s) resulting in amazing social interactions, or those individuals send you down the right path with tips, advice, or even an introduction to one of their friends. What do you remember about your last trip? The amazing hike, thai food, and orphanage you visited? No. You remember the people you shared those experiences with. There is no disputing that.
 
-We're here because finding those people who share your passions, beliefs, and experiences by location is [incredibly inefficient at best](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/).
+We believe finding those people who share your passions, beliefs, and experiences by location is [incredibly inefficient at best](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/).
 
-We are here because people who explore the world's vast array of cultures and realize they are a pivileged minority live a more fulfilling life than those who don't. If you read [this post start to finish](http://www.drewmeyersinsights.com/2007/09/20/if-this-doesnt-hit-you-like-a-rock-i-dont-know-what-will/), and fail grasp that you lead a privileged life, then you might as well stop reading now and continue perusing some of the hundreds of thousands of cat and dog photos.
+We believe people who explore the world's vast array of cultures and realize they are a pivileged minority live a more fulfilling life than those who don't. If you read [this post start to finish](http://www.drewmeyersinsights.com/2007/09/20/if-this-doesnt-hit-you-like-a-rock-i-dont-know-what-will/), and fail grasp that you lead a privileged life, then you might as well stop reading now and continue perusing some of the hundreds of thousands of cat and dog photos.
 
-We're here because the earlier the broadening of horizons begins in one's life, the better.
+We believe the earlier the broadening of horizons begins in one's life, the better. 
 
-We're here because the cost of a flight cannot be avoided. But the expense of a hotel can be. The best way to travel -- staying with a local -- also happens to be the cheapest way to travel.
+We believe traveling leads people to be better citizens of the global, interconnected world we live in.
 
-We're here because life's magical moments don't occur staring at your screen.
+We believe the best way to travel -- staying with a local -- also happens to be the cheapest means to explore the world.
 
-We're here because true community matters. For many, community is family. For others, it's a mix of family, friends, and like-minded connections.
+We believe life's magical moments don't occur staring at your screen.
+
+We believe true community matters. For many, community is family. For others, it's a mix of family, friends, and like-minded connections.
 However you define it, every single one of life's magical moments originates from community.
 
-We're here because enabling community, wherever in the world you may be, is a problem worth spending years solving.
+We believe enabling community, wherever in the world you may be, is a problem worth spending years solving.
 
 <em>The dream</em> is trusted contacts by location, which implies organizing the world's communities by location. Once a geo-located trust graph exists, finding a place to stay is just one of the things you'll use it for.
 
