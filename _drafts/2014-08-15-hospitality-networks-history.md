@@ -10,6 +10,8 @@ Hospitality networks have been around a long, long time. Servas, started in 1948
 
 Hospitality Club is still around, though mostly just in the United States. Global Freeloaders has seemingly come and gone. As has 
 
+http://www.womenwelcomewomen.org.uk/
+
 AirBnB. CrashPadder (purchased by AirBnB)
 
 Hopsitality exchanges occur in all sorts of niches, all the way from interest based ones such as WarmShowers (40k bicyclists) to membership based ones such as AIESEC (16k) that exist inside closed Facebook groups. Niche hospitality exchanges resulting from the Couchsurfing movement range from broad interest based networks such as WarmShowers (40k bicyclists) that exist as standalone websites/apps to membership based networks such as AIESEC (16k) that exist inside closed Facebook groups.
