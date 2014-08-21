@@ -10,13 +10,13 @@ Hospitality networks are not a new concept by any stretch of the imagination. Th
 
 <p align="center"><img src="/assets/Couchsurfing-logo.png"></p>
 
-[Servas International](http://www.servas.org/), started by Bob Luitweiler as a peace movement in 1949, is the oldest one and still consists of volunteers in over 100 countries. It's volunteers contribute dues to keep the network operating, with dues varying by country. Servas means "to serve" in the language Esperanto.
+[Servas International](http://www.servas.org/), started by Bob Luitweiler as a peace movement in 1949, is the oldest one and still consists of volunteers in over 100 countries. It's volunteers contribute to keep the network operating, with dues varying by country. Servas means "to serve" in the language Esperanto.
 
 [Hospex.net](http://www.hospex.net/), not be confused with Hospex.org, was founded in the 1960's by John Wilcock as the "Traveler's Directory". The name was changed to Hospitality Exchange in 1988, and made the jump to online in 2007. Most of their current memberbase live in the United States or Canada. Currenty run by Harold Goldstein.
 
 [Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around. 
 
-[BeWelcome](http://www.bewelcome.org/) began in 2007 by former HC members. It now consists of over 56,000 members across 150 countries. BW is managed by BeVolunteer, and the entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer). Aside from Couchsurfing, this is the largest known hospitality network on the internet.
+[BeWelcome](http://www.bewelcome.org/) began in 2007 by dissatisfied volunteers of the HC. It now consists of over 56,000 members across 150 countries. BW is overseen and funded by BeVolunteer, a non profit in Rennes, France. The entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer). Aside from Couchsurfing, this is the largest known hospitality network on the internet.
 
 <p align="center"><img src="/assets/hospitality-network-logos/BeWelcome-logo.png"></p>
 
