@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Little History of Modern Hospitality Networks
-date: 2014-08-15
+date: 2014-08-21
 categories: blog
 author: Drew Meyers
 ---
