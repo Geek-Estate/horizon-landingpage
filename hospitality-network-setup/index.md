@@ -1,23 +1,17 @@
 ---
 layout: page
-title: Setup Your Own Hospitality Network
-date: 2014-05-16
+title: Setup Your Own Premium Hospitality Network
+date: 2014-08-16
 author: Drew Meyers
 ---
-Horizon allows members of your trusted communities (academic, professional, social, religious) to see that you are open to hosting them on their next visit to your beloved city, and you a way to efficiently screen those requests.
+Horizon offers a mobile platform enabling hospitality exchange among your community members. Any community that exists inside a Facebook group, can instantly begin using the app to request a place to stay with other trusted members. For some executives and community managers, enabling members to find each other by location may be enough. For others, they may want to make their community paid or gain additional insight into their communities locations and engagement.
 
-Why host you ask?
+Benefits to upgrading to Premium?
 
 <ul>
-	<li>Have rich social experiences</li>
-	<li>Network with like minded individuals</li>
-	<li>Help your friends afford to explore the world</li>
-	<li>Unlock the magic of your city to out of towners</li>
-	<li>Be the "change you want to be in the world", by raising money for your favorite charity</li>
+	<li>Learn more about your members via analytics</li>
+	<li>Allow members to donate directly to your organization</li>
+	<li>Charge monthly or yearly membership dues</li>
 </ul>
 
-Trusted Communities
-
-In addition to those people you know personally and would love to spend more time with, your trusted network consists of members of those communities in which trust exists, even for those you've not met personally. Usually, those communities are based upon a shared friend, passion, belief, or experience and are somewhat exclusive in nature.
-
-We give you the control to indicate which communities you trust.
+Contact Us - drew at horizonapp dot co
