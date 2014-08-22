@@ -14,7 +14,7 @@ Hospitality networks are not a new concept by any stretch of the imagination. Th
 
 [Hospex.net](http://www.hospex.net/), not be confused with Hospex.org, was founded in the 1960's by John Wilcock as the "Traveler's Directory". The name was changed to Hospitality Exchange in 1988, and made the jump to online in 2007. Most of their current memberbase live in the United States or Canada. Currenty run by Harold Goldstein.
 
-[Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around. 
+[Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around. Another brief entrant, [OneNightStay](http://onenightstay.hospitalityclub.org/), was integrated with HC in 2004.
 
 [BeWelcome](http://www.bewelcome.org/) began in 2007 by dissatisfied volunteers of the HC. It now consists of over 56,000 members across 150 countries. BW is overseen and funded by BeVolunteer, a non profit in Rennes, France. The entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer). Aside from Couchsurfing, this is the largest known hospitality network on the internet.
 
