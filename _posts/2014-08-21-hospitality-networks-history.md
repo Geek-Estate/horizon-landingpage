@@ -16,11 +16,13 @@ Hospitality networks are not a new concept by any stretch of the imagination. Th
 
 [Pasporta Servo](http://www.pasportaservo.org/) was founded in 1974 for those who speak the language of Esperanto.
 
-[Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around. Another brief entrant, [OneNightStay](http://onenightstay.hospitalityclub.org/), was integrated with HC in 2004.
+[Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around and has attracted several hundred thousand members. Another brief entrant, [OneNightStay](http://onenightstay.hospitalityclub.org/), was integrated with HC in 2004.
 
-[GlobalFreeloaders](http://www.globalfreeloaders.com/) appears to have been abandoned in 2007 (date of the last update on the members home screen). It has over 100,000 members, if the [cuntry counts](http://www.globalfreeloaders.com/memberlocations.php) are correct.
+[BeLodged](http://www.belodged.com/) was founded in 1999 and grew to cover over 37,000 cities and 117 countries by 2008.
 
-[BeWelcome](http://www.bewelcome.org/) began in 2007 by dissatisfied volunteers of the HC. It now consists of over 56,000 members across 150 countries. BW is overseen and funded by BeVolunteer, a non profit in Rennes, France. The entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer). Aside from Couchsurfing, this is the largest active hospitality network on the internet.
+[GlobalFreeloaders](http://www.globalfreeloaders.com/) appears to have been abandoned in 2007 (date of the last update on the members home screen). It has over 100,000 members, if the [country counts](http://www.globalfreeloaders.com/memberlocations.php) are correct.
+
+[BeWelcome](http://www.bewelcome.org/) began in 2007 by dissatisfied volunteers of the HC. It now consists of over 56,000 members across 150 countries. BW is overseen and funded by BeVolunteer, a non profit in Rennes, France. The entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer).
 
 <p align="center"><img src="/assets/hospitality-network-logos/BeWelcome-logo.png"></p>
 
