@@ -10,13 +10,19 @@ Hospitality networks are not a new concept by any stretch of the imagination. Th
 
 <p align="center"><img src="/assets/Couchsurfing-logo.png"></p>
 
-[Servas International](http://www.servas.org/), started by Bob Luitweiler as a peace movement in 1949, is the oldest one and still consists of volunteers in over 100 countries. Its volunteers contribute to keep the network operating, with dues varying by country. Servas means "to serve" in the language Esperanto.
+<em>Current member? [http://www.horizonapp.co/couchsurfing/](http://www.horizonapp.co/couchsurfing/)</em>
+
+[Servas International](http://www.servas.org/), started by Bob Luitweiler as a peace movement in 1949, is the oldest one and still consists of volunteers in over 100 countries. Its volunteers contribute to keep the network operating, with dues varying by country. Servas means "to serve" in the language Esperanto. 
+
+<em>Current member? [http://www.horizonapp.co/servas-international/](http://www.horizonapp.co/servas-international/)</em>
 
 [Hospex.net](http://www.hospex.net/), not be confused with Hospex.org, was founded in the 1960's by John Wilcock as the "Traveler's Directory". The name was changed to Hospitality Exchange in 1988, and made the jump to online in 2007. Most of their current memberbase live in the United States or Canada. Currenty run by Harold Goldstein.
 
 [Pasporta Servo](http://www.pasportaservo.org/) was founded in 1974 for those who speak the language of Esperanto.
 
 [Hospex.org](http://www.hospex.org/), which began in 1991 as the 1st true internet-enabled exchange, has come and gone. Its successor, [Hospitality Club](http://www.hospitalityclub.org/) (HC), founded by Veit Kuehne from Germany in 2000, is still around and has attracted several hundred thousand members. Another brief entrant, [OneNightStay](http://onenightstay.hospitalityclub.org/), was integrated with HC in 2004.
+
+<em>Current member? [http://www.horizonapp.co/hospitality-club/](http://www.horizonapp.co/hospitality-club/)</em>
 
 [BeLodged](http://www.belodged.com/) was founded in 1999 and grew to cover over 37,000 cities and 117 countries by 2008.
 
@@ -25,6 +31,8 @@ Hospitality networks are not a new concept by any stretch of the imagination. Th
 [BeWelcome](http://www.bewelcome.org/) began in 2007 by dissatisfied volunteers of the HC. It now consists of over 56,000 members across 150 countries. BW is overseen and funded by BeVolunteer, a non profit in Rennes, France. The entire history of the organization is documented [here](http://www.bewelcome.org/wiki/History_of_BeVolunteer).
 
 <p align="center"><img src="/assets/hospitality-network-logos/BeWelcome-logo.png"></p>
+
+<em>Current member? [http://www.horizonapp.co/bewelcome/](http://www.horizonapp.co/bewelcome/)</em>
 
 Hospitality exchanges also exist in all sorts of niches, with the two most notable ones being WarmShowers (cyclists) and Women Welcome Women World Wide (name is self explantory - focused on women). Other small networks of people exist inside private or secret Facebook groups, with the purpose of exchanging hospitality and culture.
 
