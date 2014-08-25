@@ -44,3 +44,9 @@ Of course, there are numerous other networks that have come and gone over the ye
 
 Why have most of these networks gone under before they reached critical mass? That's the topic of my next post.
 
+<em>Hospitality Network Analysis</em>
+
+- <em>History of Modern Hospitality Networks</em>
+- [Challenges of Hospitality Networks](http://www.horizonapp.co/blog/hospitality-networks-failed/)
+- [Incentives for Hosts](http://www.horizonapp.co/blog/incentives-hosting-hospitality-networks/)
+

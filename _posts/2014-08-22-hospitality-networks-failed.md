@@ -33,3 +33,9 @@ Those are all massive challenges by themselves, meaning the chances of ever reac
 As you can see, hospitality networks have faced steep challenges in the past -- and all but Couchsurfing have witnessed sluggish growth numbers. Will the shift to mobile & the growing sharing economy movement increase the chances future networks will prosper, and how does our approach with Horizon differ from those in the past?
 
 That's up next.
+
+<em>Hospitality Network Analysis</em>
+
+- [History of Modern Hospitality Networks](http://www.horizonapp.co/blog/hospitality-networks-history/)
+- <em>Challenges of Hospitality Networks</em>
+- [Incentives for Hosts](http://www.horizonapp.co/blog/incentives-hosting-hospitality-networks/)
