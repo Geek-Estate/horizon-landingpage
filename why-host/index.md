@@ -4,7 +4,7 @@ title: Why Host?
 date: 2014-05-16
 author: Drew Meyers
 ---
-Horizon allows members of your trusted communities (academic, professional, social, religious) to see that you are open to hosting them on their next visit to your beloved city, and you a way to efficiently screen those requests.
+Horizon allows members of your trusted communities (academic, professional, social, service, religious) to see that you are open to hosting them on their next visit to your beloved city, and you a way to efficiently screen those requests.
 
 Why host you ask?
 

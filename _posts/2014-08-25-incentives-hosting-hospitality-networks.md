@@ -6,11 +6,11 @@ categories: blog
 author: Drew Meyers
 ---
 
-Hospitality networks need both supply (hosts) and demand (guests). It's no surprise, in virtually every hospitality network -- there are more guests than hosts. Who wouldn't want to save the couple hundred dollars a hotel would cost by staying with a local? At least among millenials, the answer is virtually nobody. A delicate balancing act of hosts and guests is required to accommodate the majority of guests within a given network, spanning thousands and thousands of cities all across the globe.
+Hospitality networks need both supply (hosts) and demand (guests). It's no surprise, in virtually every hospitality network -- there are more guests than hosts. Who wouldn't want to save the couple hundred dollars a hotel would cost by staying with a local? At least among millenials, the answer is virtually nobody. A delicate marketplace balancing act spanning thousands and thousands of cities all across the globe is required to accommodate the majority of guests within a given hospitality network.
 
-Hosting requires you help your guest prior to arrival with travel advice. You send them instructions on how to get to your place. Exchange contact details. Determine when they will arrive, so as to be home to let them in. If scheduled to arrive at a time you're busy, you'll need to either hide a key somewhere or arrange to have a friend meet them. And during the duration of their stay, be helpful, social, and accommodating. Basically, all the things you'd go out of your way to do when friends stay at your place. But, for complete stranger.
+Hosting a fellow community member requires you help your guest prior to arrival with travel advice. You send them instructions on how to get to your place. Exchange contact details. Determine when they will arrive, so as to be home to let them in. If scheduled to arrive at a time you're busy, you either hide a key somewhere or arrange to have a friend meet them. And for the duration of their stay, be helpful, social, and accommodating. You'll probably clean your place before they show up, and again when they leave. Basically, all the things you'd go out of your way to do when friends stay at your place. But, for complete stranger.
 
-Why do hosts accommodate travelers at all? What's in it for them?
+Why do hosts accommodate fellow hospitality network members at all? What's in it for them?
 
 A few primary reasons:
 
