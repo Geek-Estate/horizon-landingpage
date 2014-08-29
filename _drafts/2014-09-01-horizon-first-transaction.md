@@ -20,9 +20,9 @@ Henry Lanham photo
 
 A place to stay that costs less than a hostel, AirBnB, or hotel, and new friendships with two fellow SUP entrepreneurs.
 
-Will and I Photos from team page
+<img src="/assets/team-drew-meyers.jpg" alt="drew meyers"><img src="/assets/team-will-moyer.jpg" alt="will moyer">
 
-We ended up with a new friendship, and received a wealth of translation help. Henry speaks Spanish while Will and I only speak a tiny bit ("un poco"). Thus, he translated for me to secure a pre-paid phone from the Movistar store at Costanera the other day as well as coordinated with our doorman to schedule a maid to clean the place (it badly needed it). To cap it off, he even stocked the fridge with beers.
+We ended up with a new friend and a wealth of translation help. Henry speaks Spanish while Will and I only speak a tiny bit ("un poco"). Thus, he translated for me to secure a pre-paid phone from the Movistar store at Costanera the other day as well as coordinated with our doorman to schedule a maid to clean the place (it badly needed it). To cap it off, he even stocked the fridge with beers.
 
 ![](/assets/2014-07-07-startup-chile-journey-gen-10-sup-logo.png)
 
@@ -33,3 +33,31 @@ Start-up Chile benefits because Henry, Will, and I have a deeper friendship due 
 The total donation was $129.97, of which Kiva headquarters received $29.97 toward their operations. 4 entreprenerus -- Florida Group in Bolivia, G.s Villa Nueva #2 Group in Honduras, Wayan in Indonesia, and Nisma Caretar Group in Yemen -- around the globe received $25 additional dollars toward growing their business.
 
 Cheap accommodation, money to grow 4 businesses, supporting a great cause (Kiva), new friendships, and critical translation help -- a win-win, all the way around. 
+
+Interested in providing accommodation to others to raise money for charity? We'd love to speak with you...
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  
+<div class="mc-field-group">
+  <div class="grid grid--tight">
+    <div class="grid__item one-whole desk-two-thirds">
+      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
+    </div>
+    <div class="grid__item one-whole desk-one-third">
+      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
+      <input type="hidden" name="FILTER" id="FILTER" value="TravelbyGiving" />
+    </div>
+  </div><!-- end grid -->
+</div>
+<div id="mce-responses" class="clear">
+ <div class="response" id="mce-error-response" style="display:none"></div>
+ <div class="response" id="mce-success-response" style="display:none"></div>
+</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+ <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
+    
+</form>
+</div>
+  
+ <!--End mc_embed_signup--> 

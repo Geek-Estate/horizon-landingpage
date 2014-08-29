@@ -14,10 +14,9 @@ People do all sorts of things to raise money for charity. Just a few examples...
 - 36 hour dance marathon ([Sheryl Mihalik](https://www.facebook.com/sheryl.mihalik))
 - Shave your head ([Kerry Melcher](https://twitter.com/melchak) & [Jillayne Schlicke](https://twitter.com/jillayne))
 - Rappel down one of Seattle’s tallest buildings ([Special Olympics](http://www.specialolympicswashington.org/over_the_edge))
-- Group meals ([GroupRaise](http://groupraise.com/))
+- Organize group meals ([GroupRaise](http://groupraise.com/))
 - Put a dress on, and run across Melbourne ([Dave Dean](http://whatsdavedoing.com/i-did-it-in-a-dress/))
 - Auction vacation rental properties to benefit the local Parent Teacher Association ([example](https://www.evernote.com/shard/s254/sh/0b92c3ca-6b67-4f71-bb67-e6abba5dfc2a/1edd8348d5523b6cc6062766814d6c96/deep/0/Screenshot%208/29/14,%204:04%20PM.png))
-- Write a book
 - Climb Kilimanjaro ([Craig Parker](http://www.oxfordmail.co.uk/news/11210160.Scaling_the_heights_to_boost_charity___s_work_with_orphans/))
 - Hike from Yosemite to Mt. Whitney for Team Reeve ([Jon Sterling](http://communities.kintera.org/REEVE/blogs/daily_dose/archive/2009/08/26/64786.aspx))
 - Party in 7 cities over 7 days ([Sloane and Doug with Cause It's My Birthday](http://www.thecausemopolitan.com/cause-its-my-birthday))
