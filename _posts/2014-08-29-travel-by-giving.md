@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Travel by Giving (via Hospitality Networks)
-date: 2014-08-28
+date: 2014-08-29
 categories: blog
 author: Drew Meyers
-image: 2014-08-29-Dominican-Trip-cover.JPG
+image: 2014-08-29-Dominican-cover.JPG
 ---
 
 People do all sorts of things to raise money for charity. Just a few examples...
@@ -16,7 +16,7 @@ People do all sorts of things to raise money for charity. Just a few examples...
 - Rappel down one of Seattle’s tallest buildings ([Special Olympics](http://www.specialolympicswashington.org/over_the_edge))
 - Group meals ([GroupRaise](http://groupraise.com/))
 - Put a dress on, and run across Melbourne ([Dave Dean](http://whatsdavedoing.com/i-did-it-in-a-dress/))
-- Auction vacation rental properties via the local Parent Teacher Association
+- Auction vacation rental properties the benefit the local Parent Teacher Association
 - Write a book
 - Climb Kilimanjaro ([Craig Parker](http://www.oxfordmail.co.uk/news/11210160.Scaling_the_heights_to_boost_charity___s_work_with_orphans/))
 - Hike from Yosemite to Mt. Whitney for Team Reeve ([Jon Sterling](http://communities.kintera.org/REEVE/blogs/daily_dose/archive/2009/08/26/64786.aspx))
