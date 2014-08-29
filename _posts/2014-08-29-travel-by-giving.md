@@ -4,11 +4,12 @@ title: Travel by Giving (via Hospitality Networks)
 date: 2014-08-28
 categories: blog
 author: Drew Meyers
+image: 2014-08-29-Dominican-Trip-cover.JPG
 ---
 
 People do all sorts of things to raise money for charity. Just a few examples...
 
-- Walk across the United States ([Kiva Walk](http://www.kivawalk.com/))
+- Walk across the United States ([Jonathon Stalls - Kiva Walk](http://www.kivawalk.com/))
 - Run 7 marathons, on 7 continents ([Joel Runyan - 777 Project](http://777.impossiblehq.com/))
 - 36 hour dance marathon ([Sheryl Mihalik](https://www.facebook.com/sheryl.mihalik))
 - Shave your head ([Kerry Melcher](https://twitter.com/melchak) & [Jillayne Schlicke](https://twitter.com/jillayne))
@@ -17,6 +18,7 @@ People do all sorts of things to raise money for charity. Just a few examples...
 - Put a dress on, and run across Melbourne ([Dave Dean](http://whatsdavedoing.com/i-did-it-in-a-dress/))
 - Auction vacation rental properties via the local Parent Teacher Association
 - Write a book
+- Climb Kilimanjaro ([Craig Parker](http://www.oxfordmail.co.uk/news/11210160.Scaling_the_heights_to_boost_charity___s_work_with_orphans/))
 - Hike from Yosemite to Mt. Whitney for Team Reeve ([Jon Sterling](http://communities.kintera.org/REEVE/blogs/daily_dose/archive/2009/08/26/64786.aspx))
 - Party in 7 cities over 7 days ([Sloane and Doug with Cause It's My Birthday](http://www.thecausemopolitan.com/cause-its-my-birthday))
 
@@ -28,9 +30,9 @@ If you've ever hosted friends, family, you know it's not socially acceptable to 
 
 Replace the "house gift", with a donation to charity. 
 
-<em>Travel by giving</em>.
+Literally, <em>travel by giving</em>.
 
-Interested in providing accommodation to others to raise money for charity?
+Interested in providing accommodation to others to raise money for charity? We'd love to speak with you...
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
@@ -39,7 +41,7 @@ Interested in providing accommodation to others to raise money for charity?
 <div class="mc-field-group">
   <div class="grid grid--tight">
     <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email to try the beta">
+      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
     </div>
     <div class="grid__item one-whole desk-one-third">
       <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
