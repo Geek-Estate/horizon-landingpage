@@ -4,7 +4,7 @@ title: Travel by Giving (via Hospitality Networks)
 date: 2014-08-29
 categories: blog
 author: Drew Meyers
-image: 2014-08-29-Dominican-cover.JPG
+image: 2014-08-29-Dominican-cover1.JPG
 ---
 
 People do all sorts of things to raise money for charity. Just a few examples...
@@ -16,7 +16,7 @@ People do all sorts of things to raise money for charity. Just a few examples...
 - Rappel down one of Seattle’s tallest buildings ([Special Olympics](http://www.specialolympicswashington.org/over_the_edge))
 - Group meals ([GroupRaise](http://groupraise.com/))
 - Put a dress on, and run across Melbourne ([Dave Dean](http://whatsdavedoing.com/i-did-it-in-a-dress/))
-- Auction vacation rental properties the benefit the local Parent Teacher Association
+- Auction vacation rental properties to benefit the local Parent Teacher Association ([example](https://www.evernote.com/shard/s254/sh/0b92c3ca-6b67-4f71-bb67-e6abba5dfc2a/1edd8348d5523b6cc6062766814d6c96/deep/0/Screenshot%208/29/14,%204:04%20PM.png))
 - Write a book
 - Climb Kilimanjaro ([Craig Parker](http://www.oxfordmail.co.uk/news/11210160.Scaling_the_heights_to_boost_charity___s_work_with_orphans/))
 - Hike from Yosemite to Mt. Whitney for Team Reeve ([Jon Sterling](http://communities.kintera.org/REEVE/blogs/daily_dose/archive/2009/08/26/64786.aspx))
@@ -26,11 +26,11 @@ And, of course, unless you've been on another planet for the past month, you kno
 
 Why not provide hospitality?
 
-If you've ever hosted friends, family, you know it's not socially acceptable to accept money from your friends when they stay at your house. But the concept of a house gift - beers, a fifth, a bottle of wine, a meal, or even a bag of chips - is part of the social contract that goes along with staying at someone's home.
+If you've ever hosted friends, family, you know it's not socially acceptable to accept money from your friends when they stay at your house. But the concept of a house gift - beers, a fifth, a bottle of wine, a meal, or even appetizers and h'orderves - is part of the social contract that goes along with staying at someone's home.
 
-Replace the "house gift", with a donation to charity. 
+Replace the traditional "house gift", with a donation to charity. Let's face it. While we all appreciate a bottle of wine or a fifth, we are not the ones in need of the $15 or $20 it would cost to buy those for ourselves. The 2.8 billion who live on less than $2 a day are.
 
-Literally, <em>travel by giving</em>.
+<em>Travel by giving</em>.
 
 Interested in providing accommodation to others to raise money for charity? We'd love to speak with you...
 
