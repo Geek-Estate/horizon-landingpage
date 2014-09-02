@@ -4,8 +4,9 @@ title: Travel by Giving (via Hospitality Networks)
 date: 2014-08-29
 categories: blog
 author: Drew Meyers
-image: 2014-08-29-Dominican-cover1.JPG
 ---
+
+<img src="/assets/blog-2014-08-29-kivawalk-road.jpg" class="center-margins" alt="">
 
 People do all sorts of things to raise money for charity. Just a few examples...
 
