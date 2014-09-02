@@ -30,6 +30,8 @@ Start-up Chile benefits because Henry, Will, and I have a deeper friendship due 
 
 Kiva received a total donation $129.97, of which headquarters received $29.97 toward their operations. 4 entreprenerus -- Florida Group in Bolivia, G.s Villa Nueva #2 Group in Honduras, Wayan in Indonesia, and Nisma Caretar Group in Yemen -- around the globe received $25 additional dollars toward growing their business.
 
+<em>PS: If you are a Kiva Fellow or past (or current) intern, we'd love to have you in our early beta group. See here: [http://www.horizonapp.co/kiva](http://www.horizonapp.co/kiva)</em>
+
 Cheap accommodation, money to grow 4 businesses, supporting a great cause (Kiva), new friendships, and critical translation help -- a win-win, all the way around. 
 
 Interested in providing accommodation to others to raise money for charity, aka "[Travel by Giving](http://www.horizonapp.co/blog/travel-by-giving/)"? We'd love to speak with you...

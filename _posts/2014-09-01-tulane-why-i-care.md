@@ -22,4 +22,4 @@ Where will I go and how can I find a cheap place to stay?
 
 That’s why I’m so excited about this app. It combines the best aspects of Facebook, LinkedIn and CouchSurfing, so you can stay with trusted contacts the app helps you discover or re-connect with. In addition, after your stay, you have the option to say thanks by donating to the organization that brought you two together ("[Travel by Giving](http://www.horizonapp.co/blog/travel-by-giving/)"). Seriously, that’s it. Sort your trusted contacts and group members by location, find a friend, and then get on the road! 
 
-Want to hear more? For Tulane students and alumni, visit [horizonapp.co/Tulane](http://www.horizonapp.co/tulane/), and become one of the first beta testers!
+Want to hear more? For Tulane students and alumni, visit [horizonapp.co/Tulane](http://www.horizonapp.co/tulane/), or contact me at mhill4@tulane.edu for a more specific rundown and information on how to become one of the first beta testers.
