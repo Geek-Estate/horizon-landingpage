@@ -8,7 +8,7 @@ author: Drew Meyers
 
 Last week, Horizon secured our first paying customer. 
 
-Will and I have a 3 bedroom apartment, with a maids quarter, for the duration of our Start-up Chile experience (now until January). We have an extra room/bed available. Henry Lanham is a fellow entrepreneur in Startup Chile Gen 10, and needed a place to stay prior to finding long term rental. He contacted us via the private Start-Up Chile Facebok group / bulletin board, and we offered accommodation until he secured a long term arrangement. He ended up staying roughly 10 nights prior to moving into a 4 bedroom place with a few friends.
+Will and I have a 3 bedroom apartment, with a maids quarter, for the duration of our Start-up Chile experience (now until January). We have an extra room/bed available. [Henry Lanham](https://www.linkedin.com/pub/henry-lanham/25/501/175) is a fellow entrepreneur in Startup Chile Gen 10, and needed a place to stay prior to finding long term rental. He contacted us via the private Start-Up Chile Facebok group / bulletin board, and we offered accommodation until he secured a long term arrangement. He ended up staying roughly 10 nights prior to moving into a 4 bedroom place with a few friends.
 
 We told him to pay nothing - we're not trying to monetize the maids quarter (aka prison cell) - and instead donate whatever the stay was worth to [Kiva](http://www.kiva.org). Henry donated $129.97 (+ $4 service fee) -- and became Horizon's first paying customer in the process.
 
