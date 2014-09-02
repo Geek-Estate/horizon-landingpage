@@ -5,10 +5,9 @@ date: 2014-08-29
 categories: blog
 author: Drew Meyers
 ---
+People do all sorts of things to raise money for charity. Just a few examples...
 
 <img src="/assets/blog-2014-08-29-kivawalk-road.jpg" class="center-margins" alt="">
-
-People do all sorts of things to raise money for charity. Just a few examples...
 
 - Walk across the United States ([Jonathon Stalls - Kiva Walk](http://www.kivawalk.com/))
 - Run 7 marathons, on 7 continents ([Joel Runyan - 777 Project](http://777.impossiblehq.com/))
