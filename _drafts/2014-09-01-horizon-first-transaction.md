@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Horizon's First Transaction
-date: 2014-09-01
+date: 2014-09-02
 categories: blog
 author: Drew Meyers
 ---
 
 Last week, Horizon secured our first paying customer. 
 
-Will and I have a 3 bedroom apartment, with a maids quarter, for the duration of our Start-up Chile experience (now until January). We have an extra room/bed available. Henry Lanham is a fellow entrepreneur in Startup Chile Gen 10, and needed a place to stay until he found long term accommodation. He contacted us via the private Start-Up Chile Facebok group / bulletin board, and we offered accommodation until he secured a long term arrangement. He ended up staying roughly 10 nights prior to moving into a 4 bedroom place with a few friends.
+Will and I have a 3 bedroom apartment, with a maids quarter, for the duration of our Start-up Chile experience (now until January). We have an extra room/bed available. Henry Lanham is a fellow entrepreneur in Startup Chile Gen 10, and needed a place to stay prior to finding long term rental. He contacted us via the private Start-Up Chile Facebok group / bulletin board, and we offered accommodation until he secured a long term arrangement. He ended up staying roughly 10 nights prior to moving into a 4 bedroom place with a few friends.
 
-We told him to pay nothing - we're not trying to monetize the maids quarter (aka prison cell) - and instead donate whatever the stay was worth to him to [Kiva](http://www.kiva.org). Henry donated $129.97 (+ $4 service fee) -- and became Horizon's first paying customer in the process.
+We told him to pay nothing - we're not trying to monetize the maids quarter (aka prison cell) - and instead donate whatever the stay was worth to [Kiva](http://www.kiva.org). Henry donated $129.97 (+ $4 service fee) -- and became Horizon's first paying customer in the process.
 
 ![](/assets/kiva-first-horizon-customer-receipt.jpg)
 
@@ -32,7 +32,7 @@ Kiva received a total donation $129.97, of which headquarters received $29.97 to
 
 Cheap accommodation, money to grow 4 businesses, supporting a great cause (Kiva), new friendships, and critical translation help -- a win-win, all the way around. 
 
-Interested in providing accommodation to others to raise money for charity? We'd love to speak with you...
+Interested in providing accommodation to others to raise money for charity, aka "[Travel by Giving](http://www.horizonapp.co/blog/travel-by-giving/)"? We'd love to speak with you...
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
