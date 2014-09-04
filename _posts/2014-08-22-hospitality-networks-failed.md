@@ -16,8 +16,8 @@ Why?
 
 The challenges are numerous:
 
-- <strong>Required geographic diversity:</strong> a travel offering generally only gains traction if an individual can us it on virtually every trip they take, which covers a vast array of locations they visit. Those who have built travel startups know this all too well. If a traveler can use a service to find someone to stay with during their trip to Charlotte next week, but not for their trip to Rome in 3 months and Lima 6 months later -- then they are likely to forget about the service entirely prior to their next trip to Charlotte. If a network contains a lot of members in North America, but virtually none in Europe, Asia, and South America -- the incentive for new travelers drops.
-- <strong>Host Incentives:</strong> Given that a hospitality network implies no monetary exchange, cultural exchange, forming new connections, and great social experiences are the reason people host travelers. While willing occassionally, many hosts don't have any desire to host strangers constantly.
+- <strong>Required geographic diversity:</strong> a travel offering generally only gains traction if an individual can use it on virtually every trip they take, which covers a vast array of locations they visit. Those who have built travel startups know this all too well. If a traveler can use a service to find someone to stay with during their trip to Charlotte next week, but not for their trip to Rome in 3 months and Lima 6 months later -- then they are likely to forget about the service entirely prior to their next trip to Charlotte. If a network contains a lot of members in North America, but virtually none in Europe, Asia, and South America -- the incentive for new travelers drops.
+- <strong>Host Incentives:</strong> Given that a hospitality network implies no monetary exchange, cultural exchange, forming new connections, and great social experiences are the reason people host travelers. While willing occassionally, many hosts don't have any desire to host strangers constantly. [More here](http://www.horizonapp.co/blog/incentives-hosting-hospitality-networks/)
 - <strong>Monetization:</strong> With no money changing hands, how does a network generate enough income to warrant investing the time and energy to build and maintain the network? The only answer is they don't. Success relies on extremely committed volunteers, who care deeply about enabling cultural exchange. There are only so many people who will undertake such massive commitments with no financial upside.
 - <strong>Technology (directly related to monetization):</strong> If the network generates no money, there is virtually no choice but to rely on volunteer technologists to build and maintain the service on the side of full time jobs. No clear product leader, and dozens of developers contributing over many years is a hard recipe to success. On top of that, everyone expects mobile products now, and mobile is harder and more expensive to develop  than web.
 - <strong>Leadership Challenges:</strong> most of these networks have been a founder or two, who operate them as decision by committee among their volunteer base. This structure is by necessity, since the founders have no money to pay anyone.
@@ -32,7 +32,7 @@ Those are all massive challenges by themselves, meaning the chances of ever reac
 
 As you can see, hospitality networks have faced steep challenges in the past -- and all but Couchsurfing have witnessed sluggish growth numbers. Will the shift to mobile & the growing sharing economy movement increase the chances future networks will prosper, and how does our approach with Horizon differ from those in the past?
 
-That's up next.
+We'll save that for a future post.
 
 <em>Hospitality Network Analysis</em>
 
