@@ -23,7 +23,7 @@ A few primary reasons:
 - Learning new skills or languages
 - Pay it forward, with some expectation the favor will be reciprocated in the future
 
-Everyone has busy personal and professional lives of their own, and with no real monetary incentive, mosts hosts don't want to constantly host travelers day in, day out (which of course is what hotels do). 
+Everyone has busy personal and professional lives of their own, and with no real monetary incentive, most hosts don't want to constantly host travelers day in, day out (which of course is what hotels do). 
 
 This is precisely where AirBnB saw an opportunity in 2008: add a monetary benefit to sharing your couch, futon, or spare bedroom with a stranger. It's no surprise a financial incentive grew the number of people willing to take strangers into their homes.
 
