@@ -24,4 +24,4 @@ Use cases to test:
 
 Ready to try it? Download using your iPhone/iPad: 
 
-[http://app.horizonapp.co](http://app.horizonapp.co)
+<a href="http://app.horizonapp.co" class="btn btn--full">Try It</a>
