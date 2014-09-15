@@ -1032,6 +1032,107 @@ img[height]{
 
 /*
 *
+* How It Works
+*
+*/
+
+.how-it-works {
+    position: relative;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,.25);
+
+
+    background-image: url('/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+    min-height: 100%;
+    .clearfix;
+
+    font-size: 1.15rem;
+}
+
+    .how-it-works__step {
+        margin-bottom: 15rem;
+    }
+
+
+    .how-it-works .logo, .how-it-works .logo a {
+        color: #fff;
+        text-shadow: 0 1px 2px rgba(0,0,0,.25);
+    }
+
+    .how-it-works .mobile-menu-button {
+        color: #fff;
+    }
+
+    .how-it-works__title {
+        font-weight: 100;
+        text-transform: uppercase;
+    }
+
+.screens {
+    position: relative;
+}
+
+.screens__front {
+    position: relative;
+    z-index: 200;
+    right: 3rem;
+    width: 90%;
+
+    -webkit-box-shadow: 2px 0 5px rgba(0,0,0,.25), 5px 0 5px rgba(0,0,0,.15);
+       -moz-box-shadow: 2px 0 5px rgba(0,0,0,.25), 5px 0 5px rgba(0,0,0,.15);
+            box-shadow: 2px 0 5px rgba(0,0,0,.25), 5px 0 5px rgba(0,0,0,.15);
+
+}
+
+    .screens__front--rev {
+        right: 0;
+        left: 3rem;
+
+    -webkit-box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
+       -moz-box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
+            box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
+
+    }
+
+.screens__back {
+    position: absolute;
+    right: -3rem;
+    bottom: 1rem;
+    z-index: 100;
+    width: 80%;
+
+    -webkit-box-shadow: 1px 0 3px rgba(0,0,0,.25), 2px 0 5px rgba(0,0,0,.15);
+       -moz-box-shadow: 1px 0 3px rgba(0,0,0,.25), 2px 0 5px rgba(0,0,0,.15);
+            box-shadow: 1px 0 3px rgba(0,0,0,.25), 2px 0 5px rgba(0,0,0,.15);
+
+}
+
+    .screens__back--rev {
+        right: 0;
+        left: -3rem;
+
+    -webkit-box-shadow: -1px 0 3px rgba(0,0,0,.25), -2px 0 5px rgba(0,0,0,.15);
+       -moz-box-shadow: -1px 0 3px rgba(0,0,0,.25), -2px 0 5px rgba(0,0,0,.15);
+            box-shadow: -1px 0 3px rgba(0,0,0,.25), -2px 0 5px rgba(0,0,0,.15);
+
+    }
+    /*
+    .screens:hover .screens__back {
+        .screens__front;
+    }
+    
+    .screens:hover .screens__front {
+        .screens__back;
+    }
+    */
+
+/*
+*
 * Animations
 *
 */
