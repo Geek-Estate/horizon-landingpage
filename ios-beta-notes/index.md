@@ -11,7 +11,6 @@ We haven't spent any time with user onboarding screens and tooltips for our priv
 - The "find members" group page does NOT push anything to those groups (individually or to the group newsfeed). All it does is turn on a filter inside Horizon so you can view members of those groups.
 - Please play with the filters available by clicking the city name when looking at a full screen of faces
 - None of the request & accept/reject components of the app have been built yet. For now, the only way to contact someone is to click "contact" and send them a message on Facebook
-- Our business model is donations + service fee when you discover a new contact ([example customer](http://www.horizonapp.co/blog/horizon-first-transaction/)). If you're interested in hosting other travelers to raise money for charity (enabling others to "[travel by giving](http://www.horizonapp.co/blog/travel-by-giving/)") please send an email to drew@horizonapp.co
 - iOS 7+ required
 
 Use cases to test:
