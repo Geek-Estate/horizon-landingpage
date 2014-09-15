@@ -150,6 +150,8 @@ body {
     margin: 0 auto;  
 }
 
+
+
 .grid {
     margin: 0;
     padding: 0;
@@ -195,6 +197,12 @@ body {
         padding-left: @gutter/4;
     }
 
+    .grid--middle .grid__item {
+        float: none;
+        vertical-align: middle;
+        display: inline-block;
+        margin-right: -3px;
+    }
 
 /* Sizes */
 
@@ -968,8 +976,6 @@ img[height]{
     padding: 0;
     font-weight: 300;
     line-height: 1;
-    
-
     font-size: 1.25rem;
 }    
 
