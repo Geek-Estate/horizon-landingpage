@@ -204,6 +204,7 @@ body {
         margin-right: -3px;
     }
 
+
 /* Sizes */
 
 .one-whole {
@@ -309,22 +310,28 @@ body {
 
 /* Conditional Display */
 
-.desk-show {
-    display: none;
+.desk-show, .desk-show-ib {
+    display: none !important;
 }
 
+
 .desk-hide {
-    display: block;
+    display: block !important;
 }
 
 @media only screen and (min-width: 700px) {
     .desk-show {
-        display: block;
+        display: block !important;
     }
 
     .desk-hide {
-        display: none;
+        display: none !important;
     }
+
+    .desk-show-ib {
+        display: inline-block !important;
+    }
+
 }
 
 
@@ -1053,12 +1060,12 @@ img[height]{
     .clearfix;
 }
 
-    .how-it-works p {
-        font-size: 1.15rem;
+    .how-it-works__step {
+        margin-bottom: 3rem;
     }
 
-    .how-it-works__step {
-        margin-bottom: 15rem;
+    .how-it-works p {
+        font-size: 1.15rem;
     }
 
 
@@ -1081,10 +1088,6 @@ img[height]{
 }
 
 .screens__front {
-    position: relative;
-    z-index: 200;
-    right: 3rem;
-    width: 90%;
 
     -webkit-box-shadow: 2px 0 5px rgba(0,0,0,.25), 5px 0 5px rgba(0,0,0,.15);
        -moz-box-shadow: 2px 0 5px rgba(0,0,0,.25), 5px 0 5px rgba(0,0,0,.15);
@@ -1093,9 +1096,6 @@ img[height]{
 }
 
     .screens__front--rev {
-        right: 0;
-        left: 3rem;
-
     -webkit-box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
        -moz-box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
             box-shadow: -2px 0 5px rgba(0,0,0,.25), -5px 0 5px rgba(0,0,0,.15);
@@ -1103,11 +1103,7 @@ img[height]{
     }
 
 .screens__back {
-    position: absolute;
-    right: -3rem;
-    bottom: 1rem;
-    z-index: 100;
-    width: 80%;
+    display: none;
 
     -webkit-box-shadow: 1px 0 3px rgba(0,0,0,.25), 2px 0 5px rgba(0,0,0,.15);
        -moz-box-shadow: 1px 0 3px rgba(0,0,0,.25), 2px 0 5px rgba(0,0,0,.15);
@@ -1116,8 +1112,6 @@ img[height]{
 }
 
     .screens__back--rev {
-        right: 0;
-        left: -3rem;
 
     -webkit-box-shadow: -1px 0 3px rgba(0,0,0,.25), -2px 0 5px rgba(0,0,0,.15);
        -moz-box-shadow: -1px 0 3px rgba(0,0,0,.25), -2px 0 5px rgba(0,0,0,.15);
@@ -1133,6 +1127,48 @@ img[height]{
         .screens__back;
     }
     */
+
+@media only screen and (min-width: 700px) {
+    .how-it-works__step {
+        margin-bottom: 9rem;
+    }
+}
+
+
+@media only screen and (min-width: 880px) {
+    .how-it-works__step {
+        margin-bottom: 15rem;
+    }
+
+    .screens__front {
+        position: relative;
+        z-index: 200;
+        right: 3rem;
+        width: 90%;
+    }
+
+    .screens__front--rev {
+        right: 0;
+        left: 3rem;
+    }
+    
+    .screens__back {
+        display: block;
+        position: absolute;
+        right: -3rem;
+        bottom: 1rem;
+        z-index: 100;
+        width: 80%;
+    }
+
+    .screens__back--rev {
+        right: 0;
+        left: -3rem;
+    }
+}
+
+
+
 
 /*
 *
