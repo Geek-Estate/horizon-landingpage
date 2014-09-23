@@ -33,4 +33,4 @@ Ability to Charge Monthly / Yearly Membership Dues | No | Yes | Yes
 Member Transaction Fees | $4.99 | $.99 | None
 Member Finder by Location | No | No | Yes
 
-<a href="http://www.horizonapp.co/hospitality-network-contact/" class="btn btn--full">Contact</a>
+<a href="mailto:support@horizonapp.co" class="btn btn--full">Contact</a>
