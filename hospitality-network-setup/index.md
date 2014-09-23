@@ -19,18 +19,77 @@ Benefits to upgrading to Premium or Enterprise?
 	<li>Easily pull a list of all members within X miles of a specific city</li>
 </ul>
 
-## Pricing
+<h2 class="text-center">Pricing</h2>
 
-Package | Free | Premium ($50 per month) | Enterprise (Contact)
-Public Groups | Unlimited | Unlimited | Unlimited
-Public Members | 10,000 | Unlimited | Unlimited
-Private Groups | 1 | 5 | Unlimited
-Private Members | 50 | 5,000 | Unlimited
-Member authentication | FB Groups | FB Groups, Email Whitelist | FB Groups, Email Whitelist
-Master / Subgroups | No | Yes | Yes
-Integrated Donations for 501c3's | No | Yes | Yes
-Ability to Charge Monthly / Yearly Membership Dues | No | Yes | Yes
-Member Transaction Fees | $4.99 | $.99 | None
-Member Finder by Location | No | No | Yes
+<table class="pricing-table margin-b">
+  <tbody>
+    <tr>
+      <th>Package</th>
+      <th>Free</th>
+      <th>Premium<br>($50 per month)</th>
+      <th>Enterprise<br>(Contact)</th>
+    </tr>
+    <tr>
+      <td>Public Groups</td>
+      <td>Unlimited</td>
+      <td>Unlimited</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Public Members</td>
+      <td>10,000</td>
+      <td>Unlimited</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Private Groups</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Private Members</td>
+      <td>50</td>
+      <td>5,000</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Member authentication</td>
+      <td>FB Groups</td>
+      <td>FB Groups, Email Whitelist</td>
+      <td>FB Groups, Email Whitelist</td>
+    </tr>
+    <tr>
+      <td>Master / Subgroups</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Integrated Donations for 501c3’s</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Ability to Charge Monthly / Yearly Membership Dues</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Member Transaction Fees</td>
+      <td>$4.99</td>
+      <td>$.99</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Member Finder by Location</td>
+      <td>No</td>
+      <td>No</td>
+      <td>Yes</td>
+    </tr>
+  </tbody>
+</table>
 
 <a href="mailto:support@horizonapp.co" class="btn btn--full">Contact</a>

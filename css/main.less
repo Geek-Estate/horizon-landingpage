@@ -419,6 +419,34 @@ img[height]{
     max-width:none;
 }
 
+/*
+*
+* Tables
+*
+*/
+
+td, th {
+    font-size: .85rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    border: 1px solid #d9d9d9;
+}
+
+@media only screen and (min-width: 65rem) { 
+    .pricing-table {
+        width: 62rem;
+        margin-left: -10.833333333rem;
+    }
+}
+
+
+.pricing-table tr td:nth-child(n+2), .pricing-table tr th:nth-child(n+2) {
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
 
 /*
 *
