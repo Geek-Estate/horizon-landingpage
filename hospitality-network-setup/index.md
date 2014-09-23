@@ -8,7 +8,7 @@ Horizon facilitates community members coming together in person to share convers
 
 How do we do it?
 
-By enabling community members to find each other by location and exchange hospitality within a highly trusted environment.
+Horizon is a hospitality exchange mobile platform for established trusted communities providing members the ability to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
 Benefits to upgrading to Premium or Enterprise?
 
@@ -16,7 +16,7 @@ Benefits to upgrading to Premium or Enterprise?
 	<li>Allow members to donate directly to your organization</li>
 	<li>Charge monthly or yearly membership dues</li>
 	<li>Easily pull a list of all members within X miles of a specific city</li>
-	<li>Easily pull a list of all members within X miles of a specific city</li>
+	<li>Allow members to host each other in a private, trusted environment</li>
 </ul>
 
 <h2 class="text-center">Pricing</h2>
@@ -25,9 +25,9 @@ Benefits to upgrading to Premium or Enterprise?
   <tbody>
     <tr>
       <th>Package</th>
-      <th>Free</th>
-      <th>Premium<br>($50 per month)</th>
-      <th>Enterprise<br>(Contact)</th>
+      <th>Basic</th>
+      <th>Premium</th>
+      <th>Enterprise</th>
     </tr>
     <tr>
       <td>Public Groups</td>
@@ -86,10 +86,18 @@ Benefits to upgrading to Premium or Enterprise?
     <tr>
       <td>Member Finder by Location</td>
       <td>No</td>
-      <td>No</td>
       <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Pricing</td>
+      <td>Free</td>
+      <td>Contact</td>
+      <td>Contact</td>
     </tr>
   </tbody>
 </table>
+
+Don't see functionality you are interested in? Email us below to see if it's on our roadmap.
 
 <a href="mailto:support@horizonapp.co" class="btn btn--full">Contact</a>
