@@ -4,11 +4,7 @@ title: Setup Your Own Premium Hospitality Network
 date: 2014-08-16
 author: Drew Meyers
 ---
-Horizon facilitates community members coming together in person to share conversations, stories, knowledge, jokes, and experiences. Everyone who has built community before knows putting people together in person is the only way to build community. Community does NOT exist without in person interactions, conversations, and experiences.
-
-How do we do it?
-
-Horizon is a hospitality exchange mobile platform for established trusted communities providing members the ability to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
+Horizon is allows members the ability to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
 Benefits to upgrading to Premium or Enterprise?
 
@@ -37,7 +33,7 @@ Benefits to upgrading to Premium or Enterprise?
     </tr>
     <tr>
       <td>Public Members</td>
-      <td>10,000</td>
+      <td>Unlimited</td>
       <td>Unlimited</td>
       <td>Unlimited</td>
     </tr>
@@ -56,8 +52,8 @@ Benefits to upgrading to Premium or Enterprise?
     <tr>
       <td>Member authentication</td>
       <td>FB Groups</td>
-      <td>FB Groups, Email Whitelist</td>
-      <td>FB Groups, Email Whitelist</td>
+      <td>FB Groups, Email Whitelist, LinkedIn</td>
+      <td>FB Groups, Email Whitelist, LinkedIn</td>
     </tr>
     <tr>
       <td>Master / Subgroups</td>
@@ -92,7 +88,7 @@ Benefits to upgrading to Premium or Enterprise?
     <tr>
       <td>Pricing</td>
       <td>Free</td>
-      <td>Contact</td>
+      <td>$50 per month<br>(Beta Pricing)</td>
       <td>Contact</td>
     </tr>
   </tbody>
