@@ -86,10 +86,10 @@ Benefits to upgrading to Premium or Enterprise?
       <td>Yes</td>
     </tr>
     <tr>
-      <td>Pricing</td>
-      <td>Free</td>
-      <td>$50 per month<br>(Beta Pricing)</td>
-      <td>Contact</td>
+      <th>Pricing</th>
+      <th>Free</th>
+      <th>$50 per month<br>(Beta Pricing)</th>
+      <th>Contact</th>
     </tr>
   </tbody>
 </table>

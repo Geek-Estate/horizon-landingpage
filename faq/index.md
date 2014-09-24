@@ -18,9 +18,13 @@ author: Drew Meyers
 
 **A:** A community or group in which the majority of the members reside in the same geographic area. You can still use our offering to easily see faces of everyone in the group, but the request stay functionality won't be relevant if everyone lives in the same area.
 
-**Q: How are you different than Couchsurfing?**
+**Q: Horizon is NOT...**
 
-**A:** Couchsurfing is a single hospitality exchange network (the largest, but not the only), while Horizon is a mobile hospitality exchange technology platform. We are focused on building the best technology to enable hospitality exchanges to take place among members of any existing trusted community. [Longer version](http://www.horizonapp.co/blog/couchsurfing-differences/).
+**A:** Couchsurfing or AirBnB. 
+
+Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](http://www.horizonapp.co/blog/couchsurfing-differences/).
+
+AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by hosting or renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice.
 
 **Q: How are the counts of cities and countries on my home screen calculated?**
 
