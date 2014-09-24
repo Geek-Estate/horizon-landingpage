@@ -4,6 +4,14 @@ title: Frequently Asked Questions
 date: 2014-09-12
 author: Drew Meyers
 ---
+**Q: What is Horizon?**
+
+**A:** Horizon helps travelers find a place to stay in new places with people they already trust.
+
+**Q: What is a community?**
+
+**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or groups which users are affiliated with such as a fraternity or university alumni association. 
+
 **Q: What type of communities is Horizon for?**
 
 **A:** Any community in which members desire to connect in person. Examples include service organizations, religious organizations, professional trade associations, and alumni associations. The ideal community has a large geographic diversity of members.
@@ -16,7 +24,7 @@ author: Drew Meyers
 
 **Q: What type of community is not ideal?**
 
-**A:** A community or group in which the majority of the members reside in the same geographic area. You can still use our offering to easily see faces of everyone in the group, but the request stay functionality won't be relevant if everyone lives in the same area.
+**A:** A community in which the majority of the members reside in the same geographic area.
 
 **Q: Horizon is NOT...**
 
@@ -38,7 +46,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- Horizon is a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. If you are a member of a community on the enterprise plan, then all your transactions will be waived for stays with other members of that specific community.
 
-**Q: I love Horizon's ability to build community and increase donations, and want it to exist for my non profit organization, college, or university -- but desire a branded version. Can we create a white labeled solution?**
+**Q: I love Horizon's ability to build community and increase donations, and want it to exist for my non profit organization, college, or university. Can we create a branded solution?**
 
 **A:** Yes. [Contact us for details](mailto:support@horizonapp.co)
 

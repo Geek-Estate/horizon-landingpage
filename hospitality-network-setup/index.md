@@ -20,7 +20,7 @@ Benefits to upgrading to Premium or Enterprise?
 <table class="pricing-table margin-b">
   <tbody>
     <tr>
-      <th>Package</th>
+      <th>Features</th>
       <th>Basic</th>
       <th>Premium</th>
       <th>Enterprise</th>
