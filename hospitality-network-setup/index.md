@@ -15,7 +15,7 @@ Benefits to upgrading to Premium or Enterprise?
 	<li>Allow members to host each other in a private, trusted environment</li>
 </ul>
 
-<h2 class="text-center">Pricing</h2>
+<h2 class="text-center">Packages</h2>
 
 <table class="pricing-table margin-b">
   <tbody>
