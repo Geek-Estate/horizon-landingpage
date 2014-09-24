@@ -4,7 +4,7 @@ title: Setup Your Own Premium Hospitality Network
 date: 2014-08-16
 author: Drew Meyers
 ---
-Horizon is allows members the ability to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
+Horizon allows members to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
 Benefits to upgrading to Premium or Enterprise?
 
