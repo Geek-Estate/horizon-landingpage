@@ -24,7 +24,7 @@ author: Drew Meyers
 
 **Q: What type of community is not ideal?**
 
-**A:** A community in which the majority of the members reside in the same geographic area.
+**A:** A purely local community in which the vast majority of the members reside in the same geographic area.
 
 **Q: Horizon is NOT...**
 
@@ -42,9 +42,13 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **A:** Extend an invite to request stay at your home to those you already trust. There is certainly no requirement to reciprocate, but extending an invitation to your own home to others is the best way to get them to open their home to you, and increase the coverage of potential places to stay in unique cities and countries all across the globe.
 
+**Q: Why is the "Request Stay" button not available on all profiles?
+
+**A:** The request stay button is controlled per person or per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or they may have kids. Regardless of whether they have the request stay button enabled, you can still contact trusted connections for travel advice, coffee, or a meal.
+
 **Q: Why do I have to pay service fees?**
 
-**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- Horizon is a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. If you are a member of a community on the enterprise plan, then all your transactions will be waived for stays with other members of that specific community.
+**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- Horizon is a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), then all your transactions will be waived for stays with other members of that specific community.
 
 **Q: I love Horizon's ability to build community and increase donations, and want it to exist for my non profit organization, college, or university. Can we create a branded solution?**
 

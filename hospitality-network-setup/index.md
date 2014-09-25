@@ -75,7 +75,7 @@ Benefits to upgrading to Premium or Enterprise?
     </tr>
     <tr>
       <td>Member Transaction Fees</td>
-      <td>$4.99</td>
+      <td>$2.99</td>
       <td>$.99</td>
       <td>None</td>
     </tr>
@@ -89,11 +89,11 @@ Benefits to upgrading to Premium or Enterprise?
       <th>Pricing</th>
       <th>Free</th>
       <th>$50 per month<br>(Beta Pricing)</th>
-      <th>Contact</th>
+      <th>Variable</th>
     </tr>
   </tbody>
 </table>
 
-Don't see functionality you are interested in? Email us below to see if it's on our roadmap.
+If you're interested in any of the above packages for your community, please send us an email. If there is functionality you are interested in not listed, ask us whether it's on our product roadmap.
 
 <a href="mailto:support@horizonapp.co" class="btn btn--full">Contact</a>
