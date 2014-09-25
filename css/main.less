@@ -1196,7 +1196,106 @@ td, th {
 }
 
 
+/*
+*
+* Profile View
+*
+*/
 
+.profile {
+    position: relative;
+    color: #fff;
+
+
+    background-image: url('/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+    min-height: 100%;
+    .clearfix;
+}
+
+    .profile .site-header {
+        position: relative;
+        z-index: 100;
+    }
+
+    .profile .mobile-menu-button {
+        color: #fff;
+        text-shadow: 0 1px 2px rgba(0,0,0,.25);
+    }
+
+
+.profile-card {
+    position: absolute;
+    top: 0;
+    width: 35rem;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 560px) {
+    .profile-card {
+        position:relative;
+        top: 2rem;
+        margin: 0 auto;
+        margin-bottom: 6rem;
+    }
+}
+
+.profile-photo {
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 560px) {
+    .profile-photo {
+        margin-left: -2.5rem;
+        width: 40rem;
+        max-width: none;
+    }
+}
+
+.profile-bio {
+        padding: .5rem;
+        font-size: .85rem;
+        line-height: 1.25;
+        background-color: #999;
+        text-align: center;   
+}
+
+@media only screen and (min-width: 560px) {
+    .profile-bio {
+        position: relative;
+        margin-top: -9rem;
+        height: 9rem;
+        background-color: rgba(31,31,31,.6);
+        overflow: hidden;
+    }
+}
+
+
+
+.btn--contact, .btn--donate {
+    border-radius: 0;
+    text-shadow: none;
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.25rem;
+    line-height: 4;
+    height: 5rem;
+    letter-spacing: 0;
+}
+
+.btn--contact {
+    background-color: #666;
+}
+
+.btn--donate {
+    background-color: #333;
+
+}
 
 /*
 *
