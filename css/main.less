@@ -943,11 +943,28 @@ td, th {
 
     @media only screen and (min-width: 700px) {
         .supporter__bio {
-            height: 18.5rem;
+            height: 16rem;
         }
     }
 
+    
+    @media only screen and (min-width: 501px) {
+        .supporter__bio img {
+            width: 70%;
+        }
+    }
 
+    @media only screen and (min-width: 700px) {
+        .supporter__bio img {
+            width: 100%;
+        }
+    }
+
+    @media only screen and (min-width: 900px) {
+        .supporter__bio {
+            height: 18.5rem;
+        }
+    }
 
 
 /*
@@ -1211,7 +1228,7 @@ td, th {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
+
     min-height: 100%;
     .clearfix;
 }
