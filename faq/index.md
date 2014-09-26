@@ -32,7 +32,7 @@ author: Drew Meyers
 
 Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](http://www.horizonapp.co/blog/couchsurfing-differences/).
 
-AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by hosting or renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice.
+AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice.
 
 **Q: How are the counts of cities and countries on my home screen calculated?**
 
@@ -42,7 +42,11 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **A:** Extend an invite to request stay at your home to those you already trust. There is certainly no requirement to reciprocate, but extending an invitation to your own home to others is the best way to get them to open their home to you, and increase the coverage of potential places to stay in unique cities and countries all across the globe.
 
-**Q: Why is the "Request Stay" button not available on all profiles?
+**Q: Why do only some of my Facebook friends show up?**
+
+**A:** Two potential reasons. First, we only display friends we can associate with a specific locations - some people do not fill out their "lives in" field on Facebook, or have it restricted so other sites cannot access it. Second, Facebook's API only returns your friends that are also using the Horizon app.
+
+**Q: Why is the "Request Stay" button not available on all profiles?**
 
 **A:** The request stay button is controlled per person or per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or they may have kids. Regardless of whether they have the request stay button enabled, you can still contact trusted connections for travel advice, coffee, or a meal.
 
