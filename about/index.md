@@ -4,7 +4,6 @@ title: About
 date: 2014-05-16
 author: Drew Meyers
 ---
-
 It’s no secret, every traveler wants a friend in every city they visit. Trusted friends, and insider information, is the lifeblood of amazing travel experiences. Two people with shared passions and experiences meeting eye-to-eye in the same room and forming real relationships is where life's magical moments stem from.
 
 Finding those amazing connections is a horribly inefficient process. [We see a better way](/blog/what-horizon-dream/).
@@ -24,3 +23,7 @@ In short, we’re the travel community that gives a damn about making the world 
 ## What's with the name?
  
 As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together.
+
+## Questions?
+
+Check our [frequently asked questions](http://www.horizonapp.co/faq/).
