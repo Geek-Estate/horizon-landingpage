@@ -1277,6 +1277,35 @@ td, th {
     }
 }
 
+.profile-name {
+    position: relative;
+    padding-top: .2rem;
+    background-color: #999;
+    margin: 0;
+    text-align: center;
+}
+
+@media only screen and (min-width: 560px) {
+    .profile-name {
+        position: absolute;
+        top: 0;
+        font-size: 1.75rem;
+        padding-top: 1rem;
+        padding-bottom: .5rem;
+        width: 100%;
+        text-align: center;
+        background-color: rgba(0,0,0,.6);
+        background: -webkit-gradient(linear, left top, right top, from(rgba(0,0,0,.6)), to(rgba(0,0,0,0)));
+        background: -webkit-linear-gradient(top, rgba(0,0,0,.6), rgba(0,0,0,0));
+        background: -moz-linear-gradient(top, rgba(0,0,0,.6), rgba(0,0,0,0));
+        background: -o-linear-gradient(top, rgba(0,0,0,.6), rgba(0,0,0,0));
+        background: -ms-linear-gradient(top, rgba(0,0,0,.6), rgba(0,0,0,0));
+        background: linear-gradient(top, rgba(0,0,0,.6), rgba(0,0,0,0));
+        
+    }
+}
+
+
 .profile-bio {
         padding: .5rem;
         font-size: .85rem;
@@ -1290,7 +1319,7 @@ td, th {
         position: relative;
         margin-top: -9rem;
         height: 9rem;
-        background-color: rgba(31,31,31,.6);
+        background-color: rgba(31,31,31,.7);
         overflow: hidden;
     }
 }
