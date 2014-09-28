@@ -18,7 +18,7 @@ The goal we set out to solve is, and always has been, <a href="http://blog.ohhey
 
 I got to thinking -- where are the communities I belong to in my life? How do they interact with me?
 
-Well, duh, they are all my email inbox in the form of newsletters. Communities most definitely currently have zero presence on my phone.
+Well, duh, they are all my email inbox in the form of newsletters. Communities currently have zero presence on my phone.
 
 What if we could PUSH all those email newsletters out of your inbox and into a simple, clean reading experience away to consume them on your own terms? In the process, add location aware community directories for every newsletter you read allowing you to discover other like minded people nearby. Basically, MyBlogLog (<a href="http://www.drewmeyersinsights.com/2006/11/20/if-i-were-the-ceo-of-mybloglog-this-would-be-my-strategy/">I was a massive fan</a>) for email communities in a mobile world...meaning location is enabled by default. With a big splash of Google Reader thrown on top.
 
@@ -31,7 +31,7 @@ Before I dive into the concept, take a step back and think about the downsides t
 - Conversations (no comments)
 - Community
 
-## How "Push" Would it Work
+## How "Push" Would Work
 
 The core idea is an elegant mobile reader for email newsletters, with a social layer on top to show who is reading what (both email lists and individual newsletters). Those newsletters would never show up in your inbox unless you explicitly indicated you wanted them in both your inbox and the app.
 
