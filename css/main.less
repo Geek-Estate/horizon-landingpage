@@ -1067,7 +1067,13 @@ td, th {
     animation: fadeInSlideLeft 1.5s 1;
 }
 
+.demo__video {
+    display: none;
+}
+
+@media only screen and (min-width: 1028px) {
     .demo__video {
+        display: block;
         background-color: transparent;
         position: absolute;
         top: 0;
@@ -1075,6 +1081,8 @@ td, th {
         padding-left: 8.5%;
         padding-right: 7.5%;
     }
+}
+
 
 
 .partner-logos {
