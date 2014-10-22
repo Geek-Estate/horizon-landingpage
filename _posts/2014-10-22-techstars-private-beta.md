@@ -9,11 +9,11 @@ It's been a busy week for Horizon. On Monday, we submitted our application to <a
 
 Early this morning, we announced our private beta for members of the <a href="http://www.horizonapp.co/startup-chile">Start-Up Chile community</a> (<a href="http://www.prweb.com/releases/2014/10/prweb12261758.htm">press release</a>).
 
-Don't know what Horizon is or <a href="http://www.horizonapp.co/how-it-works/">how it works</a>? Watch this quick product demo video showing our beta:
+Don't know what Horizon is or <a href="http://www.horizonapp.co/how-it-works/">how it works</a>? Here's a quick product demo video:
 
 <p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/-3uLvqyOYPM' frameborder='0' allowfullscreen></iframe></div></p>
 
-If you are not a Start-Up Chile entrepreneur, but interested in being one of our first beta testers - please leave your email below and we'll let you know when the app is ready for broader use.
+If you are not a Start-Up Chile entrepreneur, but interested in being one of our first beta testers - please leave your email below and we'll let you know when the app is ready for broader testing.
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
