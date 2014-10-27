@@ -15,7 +15,7 @@ A few reasons...
 
 <strong>Single user utility</strong>. In prior hospitality networks, there was zero single user utility if it had no members in the specific city someone was searching for. Everyone has a mini hospitality network -- their friends and family, and friends of friends. Geolocating existing friends, and friends of friends unlocks some value to everyone in a travel scenario (either researching or in destination).
 
-<strong>Built upon existing communities</strong>. Trusted reputations, brands, and communities take years and years to be built. The world doesn't actually need more trust networks and reputation systems to increase overall trust; the ones already in place need to be better utilized. Of course, "trusted" means something different to everyone. We're enabling you to define what trusted means to you, by selecting the people and communities you trust. Some of these communities, such as <a href="http://www.horizonapp.co/couchsurfing/">Couchsurfing</a> and <a href="http://www.horizonapp.co/bewelcome">BeWelcome</a>, were specifically setup as hospitality exchange networks. Others, are simply communities where and hospitality exchange happens to be exchanged between its members from time to time (such as [Sigma Phi Epsilon](http://www.horizonapp.co/sigma-phi-epsilon)).
+<strong>Built upon existing communities</strong>. Trusted reputations, brands, and communities take years and years to build. The world doesn't actually need more trust networks and reputation systems to increase overall trust; the ones already in place need to be better utilized. Of course, "trusted" means something different to everyone. We're enabling you to define what trusted means to you, by selecting the people and communities you trust. Some of these communities, such as <a href="http://www.horizonapp.co/couchsurfing/">Couchsurfing</a> and <a href="http://www.horizonapp.co/bewelcome">BeWelcome</a>, were specifically setup as hospitality exchange networks. Others, are simply communities where and hospitality exchange happens to be exchanged between its members from time to time (such as [Sigma Phi Epsilon](http://www.horizonapp.co/sigma-phi-epsilon)).
 
 <strong>Consumer comfortability to strangers</strong>. A bigger percentage of people are now comfortable with Facebook, and have more friends than they did 4 or 5 years ago. Couchsurfing has proved there is a segment that is willing to accommodate total strangers. AirBnB has proved that population increases when you add financial incentives into the picture. We believe the population willing to provide accommodation can be increased by giving them control over who they trust, and 
 
@@ -36,7 +36,7 @@ Our goal, is to provide the technology for any existing community to enable a ho
     </div>
     <div class="grid__item one-whole desk-one-third">
       <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="TravelbyGiving" />
+      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
     </div>
   </div><!-- end grid -->
 </div>
