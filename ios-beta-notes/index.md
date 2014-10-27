@@ -7,9 +7,10 @@ author: Drew Meyers
 Please help by testing the following scenarios:
 
 - Find a friend of a friend, or someone who shares a common group, abroad
-- Filter your facegrid by one of the communities you care about, and browse its group members by location
+- Filter your facegrid by one of the groups to see members by location
 - Click to individual profiles to see your common friend(s) or group(s)
-- Use settings to indicate which community members you are interested in spending more time in person with (by hosting at your house), and what your accommodation arrangement is if they decide to visit.
+- In Settings, turn off and on stay requests for groups whose members you're willing to host
+- In Settings, set your accommodation text
 - Contact people by clicking "contact" (which will redirect you to that users Facebook profile)
 
 Some product context prior to testing:
