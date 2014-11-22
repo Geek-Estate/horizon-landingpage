@@ -25,11 +25,13 @@ And, of course, unless you've been on another planet for the past month, you kno
 
 Why not provide hospitality?
 
-If you've ever hosted friends, family, you know it's not socially acceptable to accept money from your friends when they stay at your house. But the concept of a house gift - beers, a fifth, a bottle of wine, a meal, or even appetizers and h'orderves - is part of the social contract that goes along with staying at someone's home.
+If you've ever hosted friends, family, you know it's not socially acceptable to accept money from your friends when they stay at your house. But the concept of a house gift - beers, a fifth, a bottle of wine, a meal, or even appetizers and h'orderves - is part of the social contract that goes along with staying in someone's home.
 
 Replace the traditional "house gift", with a donation to charity. Let's face it. While we all appreciate a bottle of wine or a fifth, we are not the ones in need of the $15 or $20 it would cost to buy those for ourselves. The 2.8 billion who live on less than $2 a day are.
 
 <em>Travel by giving</em>.
+
+Note: If you're traveling to Santiago, Chile & care about Kiva, <a href="http://www.horizonapp.co/drewmeyers/">we're testing the concept out</a>.
 
 Interested in providing accommodation to others to raise money for charity? We'd love to speak with you...
 
