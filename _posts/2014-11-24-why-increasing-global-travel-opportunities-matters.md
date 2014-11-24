@@ -22,11 +22,11 @@ It's my personal belief that community is the only way to truly change behavior 
 
 There is no doubt, [traveling changes people](http://www.thecausemopolitan.com/the-impact-of-traveling-abroad). <a href="http://www.drewmeyersinsights.com/2007/12/19/life-away-from-the-us/">My perspective on life completely changed once I saw poverty with my own eyes</a>. Sure, I had seen clips of poverty on TV, and articles in the New York Times -- but poverty is impossible to ignore once you experience a glimpse into the everyday lives of the billions that live on less than $2 a day.
 
-From my experience, those who travel are exponentially more likely to spend their lives working on projects that reduce inequalities in the world rather than simply maximizing income in life. People who experience different places, people, and cultures and realize they live privileged lives contribute more to society over time. 
+From my experience, those who travel are exponentially more likely to work on projects that reduce inequalities in the world rather than simply maximizing income. People who experience different places, people, and cultures and realize [they live privileged lives](http://www.drewmeyersinsights.com/2007/09/20/if-this-doesnt-hit-you-like-a-rock-i-dont-know-what-will/) contribute more to society over time. 
 
 ## Proof? 
 
-A trip to Africa ultimately led to the creation of [Gates Foundation](http://www.gatesfoundation.org/), one of the largest foundations on earth <em>[Wikipedia](http://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)</em>. The following quote is from Melinda Gates during a [Ted Talk with Bill](http://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done) talking about their first trip to Africa in 1993:
+A trip to Africa ultimately led to the creation of [Gates Foundation](http://www.gatesfoundation.org/), one of the largest foundations on earth <em>([Wikipedia](http://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations))</em>. The following quote is from Melinda Gates during a [Ted Talk with Bill](http://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done) talking about their first trip to Africa in 1993:
 
 > In this trip we really went to see the animals and to see the Savannah (…) But what really touched us actually, were the people. And the extreme poverty. We started asking ourselves questions. Does it have to be like this? And at the end of the trip we went on a walk in the beach (…) and it was really there when we said, what can we do? and how can we go about it?
 
