@@ -32,9 +32,13 @@ A trip to Africa ultimately led to the creation of [Gates Foundation](http://www
 
 I originally found the quote (and video) via [an article on Medium by Diego Saez-Gil](https://medium.com/@dsaezgil/the-transformational-power-of-travel-evidence-55e50cc22d9b). Curious about the impact? Read Bill Gates' [2014 annual letter](http://annualletter.gatesfoundation.org/).
 
-## Unlocking Opportunities via Hospitality Exchange
+## Unlocking Travel Opportunities via Hospitality Exchange
 
-The best way to experience the culture of the destination you're visiting – staying with a friend or trusted local – happens to be the least expensive means to get out and explore the world. Of course, most people don't have friends to stay with in every city and country around the world. That's precisely the problem hospitality exchanges were created to alleviate. We believe millions of travel opportunities can be unlocked by lowering accommodation costs through increasing the use of hospitality exchanges, enabling a broader pool of people to experience the vast world we live in with their own two eyes. I've already written about the [challenges hospitality exchanges have faced historically](http://www.horizonapp.co/blog/hospitality-networks-failed/), and why we think [Horizon is poised to succeed where so many failed](http://www.horizonapp.co/blog/horizon-approach-hospitality-exchange/). 
+The best way to experience the culture of the destination you're visiting – staying with a friend or trusted local – happens to be the least expensive means to get out and explore the world. Of course, most people don't have friends to stay with in every city and country around the world. That's precisely the problem hospitality exchanges were created to alleviate. There is a reason Couchsurfing has an amazingly strong community: they have facilitated in person connections and experiences every single day of the year for the past decade. Facilitating in person experiences is the only tried and proven community building strategy in existence. [Community building via hospitality exchange](http://www.horizonapp.co/blog/community-building-hospitality-exchanges/) is the best community building tool imaginable, since staying in someone's home is the most intimate relationship possible aside from actually sleeping with someone.
+
+That said, the vast majority of the world is not a member of the Couchsurfing community -- and never will be. It's 10 million strong, but there are 7 billion people on planet earth.
+
+We believe millions of travel opportunities can be unlocked by lowering accommodation costs through increasing hospitality exchange among the communities they already belong to, enabling a broader pool of people to experience the vast world we live in with their own two eyes. I've already written about the [challenges hospitality exchanges have faced historically](http://www.horizonapp.co/blog/hospitality-networks-failed/), and why we think [Horizon is poised to succeed where so many failed](http://www.horizonapp.co/blog/horizon-approach-hospitality-exchange/). 
 
 Do you believe what I believe? If so, we'd love you to join us.
 
