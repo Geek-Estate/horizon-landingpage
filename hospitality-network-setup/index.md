@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Setup Your Own Premium Hospitality Network
+title: Location Aware Community Engagement Platform
 date: 2014-08-16
 author: Drew Meyers
 ---
-Horizon allows members to connect and host one another during members' travels. In return for free accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
+Horizon allows members to find other trusted community members by location, with the option to host one another during members' travels. In return for accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
 Benefits to upgrading to Premium or Enterprise?
 
