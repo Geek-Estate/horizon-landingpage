@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Location Aware Community Engagement Platform
+title: Community Engagement Platform
 date: 2014-08-16
 author: Drew Meyers
 ---
@@ -13,6 +13,7 @@ Benefits to upgrading to Premium or Enterprise?
 	<li>Charge monthly or yearly membership dues</li>
 	<li>Easily pull a list of all members within X miles of a specific city</li>
 	<li>Allow members to host each other in a private, trusted environment</li>
+  <li>Find your most passionate community members</li>
 </ul>
 
 <h2 class="text-center">Packages</h2>
@@ -75,7 +76,7 @@ Benefits to upgrading to Premium or Enterprise?
     </tr>
     <tr>
       <td>Member Transaction Fees</td>
-      <td>$2.99</td>
+      <td>$3.99</td>
       <td>$.99</td>
       <td>None</td>
     </tr>
