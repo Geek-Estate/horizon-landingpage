@@ -68,7 +68,7 @@ Do you believe what I believe? If so, we'd love you to join us.
   
  <!--End mc_embed_signup--> 
 
-<em>1: For that haven't seen it, you can watch the whole Bill and Melinda Ted video below:</em>
+<em>1: For those who haven't seen it, you can watch the whole Bill and Melinda Ted video below:</em>
 
 <div align="center"><iframe src="https://embed-ssl.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
