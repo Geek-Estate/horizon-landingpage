@@ -11,7 +11,7 @@ Since [arriving middle of July](http://www.horizonapp.co/blog/startup-chile-jour
 
 #### Community ####
 
-Start-Up Chile prides themselves as being the largest and most diverse startup community in the world, and I'd say it's true. The Santiago community is certainly a major selling point. Regardless of your interests, there are always people to hang out with and activities or meetups to attend. Those that have traveled abroad (or moved), know that what you want upon arrival in a foreign city is a friendly face (as [I've written about on Tnooz](http://www.tnooz.com/article/can-we-get-to-the-holy-grail-of-travel/)). That absolutely exists for anyone in the Start-Up Chile community arriving in Chile. 
+Start-Up Chile prides themselves as being the largest and most diverse startup community in the world, and I'd say it's true. The Santiago community is certainly a major selling point. Regardless of your interests, there are always people to hang out with and activities or meetups to attend. Those that have traveled (or moved) abroad, know that what you want upon arrival in a foreign city is a friendly face (as [I've written about on Tnooz](http://www.tnooz.com/article/can-we-get-to-the-holy-grail-of-travel/)). That absolutely exists for anyone in the Start-Up Chile community arriving in Chile. 
 
 The long term consumer win we are going after with Horizon? [Mirroring that community on demand](http://www.horizonapp.co/blog/what-horizon-dream/), for every city in the world across every trusted community. The starting point is [enabling that for anyone in the Start-Up Chile community](http://www.horizonapp.co/startup-chile).
 
