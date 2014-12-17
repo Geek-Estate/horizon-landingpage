@@ -4,7 +4,7 @@ title: Costs and Fees
 date: 2014-09-12
 author: Drew Meyers
 ---
-After completing a stay with Horizon, you’ll be prompted to make a donation to Kiva in lieu of the typical house gift. We believe that donating on your host’s behalf is a lot more impactful to the world than the impact of the bottle of wine or case of beer is to your host. We hope you agree!
+After completing a stay with Horizon, you’ll be prompted to make a donation in lieu of the typical house gift. We believe that donating to a great cause on your host’s behalf is more impactful to the world than the impact of the bottle of wine or case of beer is to your host. We hope you agree!
 
 Although we would like 100% of these donations to go to non profit organizations, there are some costs which we cannot get around:
 
