@@ -35,9 +35,11 @@ The government's solution?
 
 Launch a U.S. Study Abroad Office under the Bureau of Educational & Cultural Affairs (overseen by State Department). Sure, this may help. But, I assure you, a formal "office" will not make more students venture overseas. Students need to speak with more past students who have studied abroad. They need Their friends need to be convinced. Few students will go on their own. We need a larger community of people.
 
-It's my firm belief <em>community</em> is the only thing that changes people's behavior, in any aspect of life. I happen to believe [hospitality exchange is one of best forms of community building](http://www.horizonapp.co/blog/community-building-hospitality-exchanges/) in existence (because staying in someone's home forms the most intimate possible relationship in the shortest amount of time without sleeping with someone). The two largest obstacles to travel are, of course, time and money. Hospitality exchange addresses both.
+It's my firm belief <em>community</em> is the only thing that changes people's behavior, in any aspect of life. I happen to believe [hospitality exchange is one of best forms of community building](http://www.horizonapp.co/blog/community-building-hospitality-exchanges/) in existence (because staying in someone's home forms the most intimate possible relationship in the shortest amount of time without sleeping with someone). The largest obstacles to traveling are, time, money, and lack of friends to go & spend time with (community). It's no secret having [a friendly face wherever you go is the holy grail of travel](http://www.tnooz.com/article/can-we-get-to-the-holy-grail-of-travel/). Hospitality exchange delivers that, while addressing cost in a massive way.
 
-This is not an either or scenario. There can, should, and will be multiple strategies to grow the pool of students who study abroad. [Horizon](http://www.horizonapp.co/how-it-works) is just one tool in the study abroad quiver. Of course, I think it's a pretty damn good one.
+This is not an either or scenario. There can, should, and will be multiple strategies to grow the pool of students who study abroad. But all of them come back to building community.
+
+[Horizon](http://www.horizonapp.co/how-it-works) is just one tool in the quiver. Of course, it goes without saying I think it's a pretty damn good one.
 
 If you agree, we've love you to join our beta...
 
