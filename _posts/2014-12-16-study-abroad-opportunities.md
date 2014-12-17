@@ -1,15 +1,15 @@
 ---
 layout: post
-title: America's Strategy to Increase Study Abroad: Community is the Only Solution
-date: 2014-09-05
+title: Community is the Only Solution to Growing Study Abroad Opportunities
+date: 2014-12-17
 categories: blog
 author: Drew Meyers
 ---
-I've read many of the summaries of the recent [White House Travel Blogger Summit](http://www.whitehouse.gov/blog/2014/12/15/white-house-hosts-travel-blogger-summit-study-abroad-and-global-citizenship) in Washington DC - including articles by [Kara Williams](http://thevacationgals.com/reflections-white-house-travel-blogger-summit-global-citizenship-study-abroad/), [Colleen Lanin}(http://travelmamas.com/study-abroad-because-white-house-travel-blogger-summit/), [Beth Santos](http://www.travelgogirl.com/blog/2014/12/12/studyabroadbecause-matters-much-putin-isis/), [Mehdy Ghannad](http://www.huffingtonpost.com/mehdy-ghannad/travel-bloggers-attack-th_b_6320792.html), and [Geraldine](http://www.everywhereist.com/the-white-house-wants-you-to-travel/).
+I've read many of the summaries of the recent [White House Travel Blogger Summit](http://www.whitehouse.gov/blog/2014/12/15/white-house-hosts-travel-blogger-summit-study-abroad-and-global-citizenship) in Washington DC - including articles by [Kara Williams](http://thevacationgals.com/reflections-white-house-travel-blogger-summit-global-citizenship-study-abroad/), [Colleen Lanin](http://travelmamas.com/study-abroad-because-white-house-travel-blogger-summit/), [Beth Santos](http://www.travelgogirl.com/blog/2014/12/12/studyabroadbecause-matters-much-putin-isis/), [Mehdy Ghannad](http://www.huffingtonpost.com/mehdy-ghannad/travel-bloggers-attack-th_b_6320792.html), and [Geraldine](http://www.everywhereist.com/the-white-house-wants-you-to-travel/).
 
-![](/assets/US-WhiteHouse-Logo-400x272.png)
+<p align="center"><img src="/assets/US-WhiteHouse-Logo-400x272.png"></p>
 
-There is clear consensus: <strong>More Americans should study abroad.</strong>.
+There is clear consensus: <strong>More Americans should study abroad.</strong>
 
 50% of students go into college with expectations of studying abroad. Fewer than 10% actually do it. There's a big disconnect in those numbers.
 
