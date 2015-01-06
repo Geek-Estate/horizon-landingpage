@@ -18,11 +18,11 @@ author: Drew Meyers
 
 **Q: Which communities show up?**
 
-**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon as filters are ones we've spefically white listed as visible.
+**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon as filters are ones we've specifically made visible.
 
 **Q: I want Horizon for my Facebook community. How do I enable that?**
 
-**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them.
+**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. We'll turn on additional filters with
 
 Interested in additional features or analytics for your community? Read up on our premium offering.
 <a href="http://www.horizonapp.co/hospitality-network-setup/" class="btn btn--full">Learn More</a>
