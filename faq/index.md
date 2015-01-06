@@ -6,7 +6,7 @@ author: Drew Meyers
 ---
 **Q: What is Horizon?**
 
-**A:** Horizon helps travelers find a place to stay in new places with people they already trust.
+**A:** Horizon helps travelers find a place to stay in places with people they already trust.
 
 **Q: What is a community?**
 
@@ -16,10 +16,15 @@ author: Drew Meyers
 
 **A:** Any community in which members desire to connect in person. Examples include service organizations, religious organizations, professional trade associations, and alumni associations. The ideal community has a large geographic diversity of members.
 
-**Q: I want Horizon for my community. How do I get started?**
+**Q: Which communities show up?**
 
-**A:** A successful hospitality network requires pre-existing trust within the community. Submit your request to add a private, trusted hospitality exchange for your community by getting 20 people from the community to sign up and indicate their interest in having Horizon's mobile offering available to them.
+**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon as filters are ones we've spefically white listed as visible.
 
+**Q: I want Horizon for my Facebook community. How do I enable that?**
+
+**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them.
+
+Interested in additional features or analytics for your community? Read up on our premium offering.
 <a href="http://www.horizonapp.co/hospitality-network-setup/" class="btn btn--full">Learn More</a>
 
 **Q: What type of community is not ideal?**
@@ -36,7 +41,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: How are the counts of cities and countries on my home screen calculated?**
 
-**A:** The counts on your home screen are unique countries & cities where you have either a facebook friend, friend of a friend, or a common group member.
+**A:** The counts on your home screen are unique countries & cities where you have either a facebook friend, friend of a friend, or a common group member that has logged into Horizon.
 
 **Q: How do I expand my possible places to stay?**
 
@@ -44,15 +49,19 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: Why do only some of my Facebook friends show up?**
 
-**A:** Two potential reasons. First, we only display friends we can associate with a specific locations - some people do not fill out their "lives in" field on Facebook, or have it restricted so other sites cannot access it. Second, Facebook's API only returns your friends that are also using the Horizon app.
+**A:** Two potential reasons. First, we only display friends we can associate with a specific locations - some people do not fill out their "lives in" field on Facebook, or have it restricted so other sites cannot access it. Second, Facebook's Graph API 2.0 only returns your friends that are also using the Horizon app.
 
-**Q: Why is the "Request Stay" button not available on all profiles?**
+**Q: Why are accommodation details not available on all profiles?**
 
-**A:** The request stay button is controlled per person or per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or they may have kids. Regardless of whether they have the request stay button enabled, you can still contact trusted connections for travel advice, coffee, or a meal.
+**A:** Visibility of accommodation details is controlled per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or may have kids. Regardless of whether they have the request stay button enabled, you can still contact trusted connections for travel advice, coffee, or a meal.
 
-**Q: Why do I have to pay service fees?**
+**Q: How do I edit my profile?**
 
-**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- Horizon is a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), then all your transactions will be waived for stays with other members of that specific community.
+**A:** The profile photo, name, and bio are all pulled via the Facebook API, with no edit capability. Your accommodation details is the only piece of information currently editable (via settings). We plan on making more of the profile customizable, but haven't prioritized that work yet.
+
+**Q: Why do I have to pay service fees when I donate?**
+
+**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- Horizon is a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), all your transactions will be waived for stays with other members of that specific community.
 
 **Q: I love Horizon's ability to build community and increase donations, and want it to exist for my non profit organization, college, or university. Can we create a branded solution?**
 
