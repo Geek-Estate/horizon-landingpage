@@ -8,7 +8,7 @@ After completing a stay with Horizon, you have the option to make a donation in 
 
 Although we would like 100% of these donations to go to non profit organizations, there are some costs which we cannot get around:
 
-- Credit Card Processing Fees (powered by Stripe) - 2.9% + $0.30. This is the standard transaction fee that card processors charge any organization which accepts Debit or Credit Cards.
+- Credit Card Processing Fees (<em>[powered by Stripe](https://stripe.com/us/pricing)</em>) - 2.9% + $0.30. This is the standard transaction fee that card processors charge any organization which accepts Debit or Credit Cards. The [same fees apply to donations made using Paypal](https://www.paypal.com/webapps/mpp/paypal-fees) to support@horizonapp.co.
 - Horizon Service Fee of $3.99 - Horizon is a for profit organization focused on unlocking travel opportunities & raising money for great causes. This fee goes toward paying our team and keeping the lights on. 
 
 While these fees may seem high, they are actually less than the 15% - 30% costs that a charity typically incurs to bring in donations.

@@ -10,7 +10,7 @@ author: Drew Meyers
 
 **Q: How does it work?**
 
-**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once inside the app you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. Hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups. After your stay, you'll have the option to say thank you by making a donation. [More](http://www.horizonapp.co/how-it-works/).
+**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. After your stay (if they accept), you'll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups. [Learn more](http://www.horizonapp.co/how-it-works/).
 
 ### Donations ###
 
@@ -22,11 +22,11 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I'm in favor of saying thank you with a donation, but why do I have to donate to Kiva?**
 
-**A:** You don't. If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure we have our system and processes are airtight with one charity before we worry about making it work with others.
+**A:** You don't. If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure our system and process are airtight with one charity before we worry about making it work with others.
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
-**A:** In order to enable more to experience the power of cultural exchange, and increase total donations to great causes in the process. We plan on tracking your overall impact, which includes donations made traveling as well as those resulting from hosting others. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
+**A:** In order to enable more to experience the power of cultural exchange, and increase total donations to great causes in the process. In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
 
 **Q: Why do I have to pay credit card processing fees?**
 
