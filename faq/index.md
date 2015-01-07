@@ -10,9 +10,7 @@ author: Drew Meyers
 
 **Q: How does it work?**
 
-**A:** Login with your Facebook account, indicate the groups you are interested in meeting in . Find a connection in the city you wish to travel to. Ask them whether they are available to host during the time
-
-<a href="http://www.horizonapp.co/how-it-works/" class="btn btn--full">Learn More</a>
+**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once inside the app you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. Hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups. After your stay, you'll have the option to say thank you by making a donation. [More](http://www.horizonapp.co/how-it-works/).
 
 ### Donations ###
 
@@ -36,7 +34,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Why is Horizon supporting Kiva?**
 
-**A:** One of Horizon's co-founders, Drew Meyers, has been a microfinance supporter since [learning about Kiva in 2007](http://www.drewmeyersinsights.com/2007/04/08/kivaorg-loans-that-change-lives-using-web-20-concepts/). He and his friend Jerry have run a microfinance blog ([myKRO.org](http://www.mykro.org)) since 2008. Finding other [microfinance advocates while traveling](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/) is one of the core pain points Drew experienced while traveling that ended up leading to the creation of Horizon. Additionally, one of our advisors, Sloane Davidson, served as a Kiva Fellow (KF8) in the Philippines.
+**A:** One of Horizon's co-founders, Drew Meyers, has been a microfinance supporter since [learning about Kiva in 2007](http://www.drewmeyersinsights.com/2007/04/08/kivaorg-loans-that-change-lives-using-web-20-concepts/). He and his friend Jerry co-founded a microfinance blog ([myKRO.org](http://www.mykro.org)) since 2008. Beyond that, finding other [microfinance advocates while traveling](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/) is one of the core pain points Drew experienced while traveling that ended up leading to the creation of Horizon. Additionally, one of our advisors, Sloane Davidson, served as a Kiva Fellow (KF8) in the Philippines.
 
 ### Communities ###
 
@@ -56,8 +54,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. We'll turn on additional groups containing at least 20 members.
 
-Interested in additional features or analytics for your community? Read up on our premium offering.
-<a href="http://www.horizonapp.co/hospitality-network-setup/" class="btn btn--full">Learn More</a>
+Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
 **Q: What type of community is not ideal?**
 
