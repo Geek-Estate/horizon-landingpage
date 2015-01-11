@@ -41,7 +41,7 @@ This is not an either or scenario. There can, should, and will be multiple strat
 
 [Horizon](http://www.horizonapp.co/how-it-works) is just one tool in the quiver. Of course, it goes without saying I think it's a pretty damn good one.
 
-If you agree, we've love you to join our beta...
+If you agree, we'd love you to join our beta...
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
