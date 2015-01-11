@@ -20,6 +20,10 @@ author: Drew Meyers
 
 If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), all your transactions will be waived for stays with other members of that specific community.
 
+**Q: How much do I have to donate?**
+
+**A:** You don't HAVE to donate anything, as donations are optional. In our test groups, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
+
 **Q: I'm in favor of saying thank you with a donation, but why do I have to donate to Kiva?**
 
 **A:** You don't. If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure our system and process are airtight with one charity before we worry about making it work with others.
@@ -93,6 +97,10 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 **Q: How do I edit my profile?**
 
 **A:** The profile photo, name, and bio are all pulled from Facebook, with no edit capability. Your accommodation details is the only piece of information currently editable (via settings). We plan on making more of the profile customizable, but haven't prioritized that work yet.
+
+**Q: I notice I can email people directly from the app - can they also email me?**
+
+**A:** Any person that can see you in the app, can email you. If you don't want members of specific groups to have the ability to contact you, de-select those groups in your group visibility settings. Horizon Public is a public group anyone using Horizon can enable, all other groups are based upon membership in specific Facebook groups. Over time, we will build in-app messaging and put additional privacy controls in place.
 
 ### Charities ###
 
