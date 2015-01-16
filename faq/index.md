@@ -22,11 +22,11 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: How much do I have to donate?**
 
-**A:** You don't HAVE to donate anything, as donations are optional. In our test groups, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
+**A:** In our test groups, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
 
-**Q: I'm in favor of saying thank you with a donation, but why do I have to donate to Kiva?**
+**Q: I'm in favor of saying thank you with a donation, but I'd like to donate to an organization other than Kiva. How do I do that?**
 
-**A:** You don't. If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure our system and process are airtight with one charity before we worry about making it work with others.
+**A:** If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure our process is airtight with one charity before we worry about making it work across a wide range of charities.
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
