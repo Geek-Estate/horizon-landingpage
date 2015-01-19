@@ -10,7 +10,11 @@ author: Drew Meyers
 
 **Q: How does it work?**
 
-**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. After your stay (if they accept), you'll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups. [Learn more](http://www.horizonapp.co/how-it-works/).
+**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. After your stay (if they accept), you'll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
+
+**Q: What's with the name?
+ 
+**A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together.
 
 ### Donations ###
 
@@ -24,17 +28,13 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **A:** In our test groups, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
 
-**Q: I'm in favor of saying thank you with a donation, but I'd like to donate to an organization other than Kiva. How do I do that?**
-
-**A:** If you would like to say thanks to your host by donating to another charity, you are more than welcome to do so though you'll have to donate directly via their website. The long term plan is to give any host the ability to raise money for their favorite charity, directly from the Horizon platform. That said, we need to ensure our process is airtight with one charity before we worry about making it work across a wide range of charities.
-
 **Q: Why should I donate through Horizon rather than donating direct?**
 
 **A:** In order to enable more to experience the power of cultural exchange, and increase total donations to great causes in the process. In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
 
 **Q: Why do I have to pay credit card processing fees?**
 
-**A:** We wish it wasn't so, but processing credit card transactions isn't free. Exact details can be found on our [costs and fees page](http://www.horizonapp.co/costs-fees).
+**A:** Please see our [costs and fees page](http://www.horizonapp.co/costs-fees).
 
 **Q: Why is Horizon supporting Kiva?**
 
@@ -52,17 +52,13 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Which communities are available?**
 
-**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon as filters are ones we've specifically made visible.
+**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon are ones we've specifically made visible.
 
 **Q: I want Horizon for my Facebook community. How do I enable that?**
 
 **A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. We'll turn on additional groups containing at least 20 members.
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
-
-**Q: What type of community is not ideal?**
-
-**A:** A purely local community in which the vast majority of the members reside in the same geographic area.
 
 **Q: Horizon is NOT...**
 
@@ -92,7 +88,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: Why are accommodation details not available on all profiles?**
 
-**A:** Visibility of accommodation details is controlled per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or may have kids. Regardless of whether they have the request stay button enabled, you can still contact trusted connections for travel advice, coffee, or a meal.
+**A:** Visibility of accommodation details is controlled per community from your settings. Please realize different people have different living situations. Some have an extra bedroom, or couch - while others live in a tiny studio. Some have a significant other who isn't a huge fan of house guests, or may have kids. Regardless of whether they have made their accommodation details visible, you can still contact trusted connections for travel advice, coffee, or a meal.
 
 **Q: How do I edit my profile?**
 
@@ -106,8 +102,8 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: I work for a 501(c)(3) charity, and would like to enable travelers to donate directly from Horizon. How do I do so?**
 
-**A:** [Please get in touch](mailto:support@horizonapp.co), and we'll get back to you with further details.
+**A:** [Please get in touch](mailto:info@horizonapp.co), and we'll get back to you with further details.
 
 **Q: I love Horizon's ability to strengthen community and increase donations, and want it to exist for my non profit organization, college, or university. Can we create a branded solution?**
 
-**A:** Yes. [Contact us for details](mailto:support@horizonapp.co)
+**A:** Yes. [Contact us for details](mailto:info@horizonapp.co)

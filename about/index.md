@@ -16,10 +16,6 @@ Our mission is to increase access to travel opportunities by enabling shared hos
 
 In short, we’re the travel community that gives a damn about making the world a better place — and means it.
 
-## What's with the name?
- 
-As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together.
-
 ## Questions?
 
 Check our [frequently asked questions](http://www.horizonapp.co/faq/).
