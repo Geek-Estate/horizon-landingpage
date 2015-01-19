@@ -8,7 +8,7 @@ It’s no secret, every traveler wants a friend in every city they visit. Truste
 
 Finding those amazing connections is a horribly inefficient process. [We see a better way](/blog/what-horizon-dream/).
 
-We facilitate hospitality exchanges among communities. We enable you to host your trusted network which includes friends and family, friends of theirs, and members of the associations and affinity groups you belong to.
+We facilitate hospitality exchanges among communities. We enable you to host your trusted network which includes friends and family, friends of theirs, and members of the associations and affinity groups you belong to. After your stay (if they accept), you'll have the option to say thank you by making a donation.
 
 ## Mission
 
