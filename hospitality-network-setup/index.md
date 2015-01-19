@@ -6,7 +6,7 @@ author: Drew Meyers
 ---
 Horizon allows members to find other trusted community members by location, with the option to host one another during members' travels. In return for accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
-Benefits to upgrading to Premium or Enterprise?
+Your community can use Horizon free of charge, but there are numerous benefits to upgrading to Enterprise:
 
 <ul>
 	<li>Allow members to donate directly to your organization</li>
@@ -23,12 +23,10 @@ Benefits to upgrading to Premium or Enterprise?
     <tr>
       <th>Features</th>
       <th>Basic</th>
-      <th>Premium</th>
       <th>Enterprise</th>
     </tr>
     <tr>
       <td>Public Groups</td>
-      <td>Unlimited</td>
       <td>Unlimited</td>
       <td>Unlimited</td>
     </tr>
@@ -36,60 +34,55 @@ Benefits to upgrading to Premium or Enterprise?
       <td>Public Members</td>
       <td>Unlimited</td>
       <td>Unlimited</td>
-      <td>Unlimited</td>
     </tr>
     <tr>
       <td>Private Groups</td>
-      <td>1</td>
-      <td>5</td>
+      <td>Unlimited (beta)</td>
       <td>Unlimited</td>
     </tr>
     <tr>
       <td>Private Members</td>
-      <td>50</td>
-      <td>5,000</td>
+      <td>Unlimited (beta)</td>
       <td>Unlimited</td>
     </tr>
     <tr>
       <td>Member authentication</td>
       <td>FB Groups</td>
       <td>FB Groups, Email Whitelist, LinkedIn</td>
-      <td>FB Groups, Email Whitelist, LinkedIn</td>
     </tr>
     <tr>
       <td>Master / Subgroups</td>
       <td>No</td>
       <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Analytics</td>
+      <td>No</td>
       <td>Yes</td>
     </tr>
     <tr>
       <td>Integrated Donations for 501c3’s</td>
       <td>No</td>
       <td>Yes</td>
-      <td>Yes</td>
     </tr>
     <tr>
       <td>Ability to Charge Monthly / Yearly Membership Dues</td>
       <td>No</td>
       <td>Yes</td>
-      <td>Yes</td>
     </tr>
     <tr>
       <td>Member Transaction Fees</td>
       <td>$3.99</td>
-      <td>$.99</td>
       <td>None</td>
     </tr>
     <tr>
       <td>Member Finder by Location</td>
       <td>No</td>
       <td>Yes</td>
-      <td>Yes</td>
     </tr>
     <tr>
       <th>Pricing</th>
       <th>Free</th>
-      <th>Free<br>(Beta Pricing)</th>
       <th>Free<br>(Beta Pricing)</th>
     </tr>
   </tbody>
