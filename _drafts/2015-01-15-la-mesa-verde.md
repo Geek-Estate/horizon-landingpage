@@ -10,7 +10,7 @@ If I had to sum up our Start-Up Chile experience in 3 words:
 
 > La Mesa Verde
 
-Our apartment was passed from Bureo Skateboards ([a start-up I'm a huge fan of](http://geekestateblog.com/power-story-telling-bureo-skateboards/)) to us in the middle of July.
+Our apartment was passed from (Bureo Skateboards)[http://geekestateblog.com/power-story-telling-bureo-skateboards/] (a start-up I'm a huge fan of) to us in the middle of July.
 
 You see, our apartment has literally zero awesome furniture. There are two pinks lounge chairs, that appear so soft and cushy when you look at them - yet when you sit down, are immediately greeted with a stiff wood board to the tailbone. We have two wood benches. Oh yeah, we have a few decent chairs. 4 to be exact, and then 3 when the legs caved on one of them. We splurged and bought an air mattress a month ago prior to an out-of-towners visit.
 
