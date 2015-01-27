@@ -34,6 +34,8 @@ To me, La Mesa Verde is the definition of our Santiago community.
 
 PS: For anyone in Generation 12 arriving in a couple weeks, our apartment is available for rent starting February 3rd. We'd love to hand it to another Start-Up Chile team to continue the tradition. [Get in touch if you're interested](mailto:drew@horizonapp.co).
 
+We’d love you to join our beta…
+
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
