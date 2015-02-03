@@ -19,7 +19,7 @@ We believe a more connected travel experience is a better travel experience. Ama
 
 We believe finding those people who share your passions, beliefs, and experiences by location is [incredibly inefficient at best](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/).
 
-We believe people who explore the world's vast array of cultures and realize they are a privileged minority live a more fulfilling life than those who don't. If you read [this post start to finish](http://www.drewmeyersinsights.com/2007/09/20/if-this-doesnt-hit-you-like-a-rock-i-dont-know-what-will/), and fail to grasp that you lead a privileged life, then you might as well stop reading now and continue perusing some of the hundreds of thousands of cat and dog photos.
+We believe people who explore the world's vast array of cultures and realize they are a privileged minority live a more fulfilling life than those who don't. Read [this post start to finish](http://www.drewmeyersinsights.com/2007/09/20/if-this-doesnt-hit-you-like-a-rock-i-dont-know-what-will/) if you fail to grasp that you lead a privileged life.
 
 We believe the earlier the broadening of horizons begins in one's life, the better. 
 
