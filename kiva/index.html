@@ -1,185 +1,350 @@
 ---
-layout: default
-title: Kiva
-date: 2014-05-16
-author: Drew Meyers
+layout: blank
 ---
-<div class="page">
+<link rel="stylesheet" href="//d3q6uu7asevdsg.cloudfront.net/1.2/css/link_texting.min.css">
+<style>
+
+  .product-hunt {
+    color: #fff;
+    background-image: url('/product-hunt/img/ph-bg-3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    .clearfix;
+  }
+
+    .product-hunt .mobile-menu-button {
+        color: #fff;
+    }
+
+  .welcome--ph {
+    font-size: 2rem;
+    line-height: 1.2; 
+    font-weight: 900; 
+    letter-spacing: -2px;
+  }
+
+  @media only screen and (min-width: 700px) {
+    .product-hunt {
+      margin-bottom: -3rem;
+    }
+    .welcome--ph {
+      font-size: 3.7rem; 
+    }
+    .info--ph {
+      font-size: 1.1rem;
+      margin-bottom: 6rem;
+    }
+    .wrapper--ph {
+      position: absolute; /* Parent must have position: relative */
+      top: 50%;
+      left: 50%;
+
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+  }
+
+  .install-btn {
+    display: block;
+    background-color: #00ccca;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 1.5em;
+    line-height: 1.5;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    width: 16rem;
+
+    margin-bottom: 3rem;
+  }
+
+  .install-btn:visited {
+    color: #fff;
+  }
+  .install-msg, .download-msg {
+      background-color: rgba(0,0,0,.35);
+      line-height: 1.25;
+      display: none;
+  }
+
+  .download-msg {
+    font-size: 1rem;
+    padding: ;
+  }
+
+  .install-linktext {
+    display: none;
+  }
+
+  .input-text-link {
+      border: 1px solid rgba(255,255,255,.75);
+      background: rgba(255,255,255,.3);
+      width: 20rem;
+      height: 3rem;
+      color: #fff;
+  }
+
+  .input-text-link::-webkit-input-placeholder {
+      color: #fff;
+      font-weight: 300;
+  }
+
+  .input-text-link:-moz-placeholder { /* Firefox 18- */
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .input-text-link::-moz-placeholder {  /* Firefox 19+ */
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .input-text-link:-ms-input-placeholder {  
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .screen-info {
+    background: #000;
+    height: 0;
+    padding-top: 24%;
+    padding-bottom: 35.17%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2rem;
+    line-height: 1.25;
+  }
+    .screen-info--1 {
+      background-color: #555;
+      background-image: url('/product-hunt/img/screen-bg-1.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--2 {
+      background-color: #444;
+      background-image: url('/product-hunt/img/screen-bg-2.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--3 {
+      background-color: #333;
+      background-image: url('/product-hunt/img/screen-bg-3.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--4 {
+      background-color: #222;
+      background-image: url('/product-hunt/img/screen-bg-4.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--5 {
+      background-color: #111;
+      background-image: url('/product-hunt/img/screen-bg-5.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+  .screen-image {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+    box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+  }
+
+  @media only screen and (min-width: 700px) {
+    .screen-image {
+      margin: 0;
+      box-shadow: none;
+      width: 100%;
+    }
+
+  }
+</style>
+
+<div class="product-hunt">
+
+  <header class="site-header">
+
     <div class="wrapper">
-        <div class="grid">
-            <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
-
-                <img class="center-margins margin-b" src="/assets/kiva-logo.png">
-                <h1 class="post__title margin-0">Kiva</h1>
-                <h2 class="center-text">Global Hospitality Network</h2>
-                    <div class="post__content">
-                        <p>Kiva is a worldwide community with a mission to connect people through lending to alleviate poverty. Part of that community is the hundreds of passionate volunteers within the Fellows and Intern networks, all of whom have spent a considerable amount of time furthering the Kiva movement.
-                        </p>
-                        
-                        </p>Horizon offers a seamless way to find other trusted Kiva alumni based on location, with the initial focus of enabling hospitality exchanges in travel scenarios.</p>
-
-                        <h3>Benefits</h3>
-                        <ul>
-                            <li>Free and/or cheap places to stay with Kiva alumni across the globe</li>
-                            <li>Unlock secrets from locals</li>
-                            <LI>Rich social experiences and networking opportunities with those who believe in the power of microfinance and micro enterprise</LI>
-                            <LI>The opportunity to say thanks by donating back to Kiva to empower more micro entrepreneurs around the globe</LI>
-                        </ul>
-                        
-                        <p>More in person experiences and friendships mean a stronger Kiva community for generations to come.</p>
-
-                    </div><!-- end post content -->
-
-            </div><!-- end grid item -->
-        </div><!-- end grid -->
+      <div class="grid">
+        <div class="grid__item one-half desk-one-fifth">
+          <h1 class="logo"><a href="/"><img src="/assets/logo-white.png" alt="Horizon"></a></h1>
+        </div>
+        <div class="grid__item one-half">
+          <a class="mobile-menu-button desk-hide"><span class="hidden">Menu</span></a>
+        </div>
+      </div><!-- end grid -->
     </div><!-- end wrapper -->
 
-    <div class="container container--bg">
-        <div class="wrapper">
-            <div class="grid grid--padded">
-                <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">      
-                     <!-- Begin MailChimp Signup Form -->
-                     <h2>We Need Your Help</h2>
-                     <div id="mc_embed_signup">
-                     <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                       
-                     <div class="mc-field-group">
-                       <div class="grid grid--tight">
-                         <div class="grid__item one-whole desk-two-thirds">
-                           <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email to try the beta">
-                         </div>
-                         <div class="grid__item one-whole desk-one-third">
-                           <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-                           <input type="hidden" name="FILTER" id="FILTER" value="Kiva" />
-                         </div>
-                       </div><!-- end grid -->
-                     </div>
-                     <div id="mce-responses" class="clear">
-                      <div class="response" id="mce-error-response" style="display:none"></div>
-                      <div class="response" id="mce-success-response" style="display:none"></div>
-                     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                      <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-                         
-                     </form>
-                     </div><!--End mc_embed_signup-->
-                 </div><!-- end grid item -->
-            </div><!-- end grid -->
-        </div><!-- end wrapper -->
-    </div><!-- end container -->        
+  </header>
+
+  <div class="wrapper wrapper--ph">
+    <div class="grid grid--padded">
+      <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
+        <h1 class="welcome--ph">Welcome Kivans!</h1>
+        <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay. To find other Kivans, make sure you’re part of one of the Facebook groups: <a href="https://www.facebook.com/groups/255069421238347/">Kiva Interns</a> or <a href="https://www.facebook.com/groups/245868335467716/">Kiva Fellows</a>.</p>
+        <a class="install-btn js-install-btn" href="itms-services://?action=download-manifest&url=https://s3.amazonaws.com/horizonapp.co/Horizon.plist"><div class="install-btn__logo">Install iOS Beta</div></a>
+
+        <div class="install-linktext">
+
+            <div class="linkTexting_oq3j39q0">
+              <div class="linkTextingInner_oq3j39q0" style="width: 100%">
+                <input class="linkTextingInput_oq3j39q0 input-text-link" type="tel" id="numberToText_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8"></input>
+                <button style="background-color: #00ccca; color: #ffffff; border-radius: 2px; line-height: 3rem; height: 3rem; width: 10rem;" class="linkTextingButton_oq3j39q0 btn" type="button" onclick="sendLink_linkTexting_oq3j39q0('53024c30-ce02-498c-8e87-40e0135508d8')" id="sendButton_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8">Text me a link</button>
+                <div class="linkTextingError_oq3j39q0" id="linkTextingError_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8" style="display:none;"></div>
+                <div style="opacity: .9;" class="type-small">(or open this page on your iPhone - powered by <a href="https://www.linktexting.com/">LinkTexting</a>)</div>
+              </div>
+            </div>
+        </div>
+
+        <div class="install-btn download-msg">Check your homescreen,<br> the app is now downloading.</div>
+      
+      </div>
+    </div>
+  </div>
+
+</div> <!-- end home section -->
+
+<div class="container--bg">
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--1"><span>Search cities and countries for people connected to you</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Search cities and countries for people connected to you</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-grid.jpg" alt="">
+      </div> 
+
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Ask for a place to crash on your next trip</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-shannon.jpg" alt="">
+      </div>   
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--2"><span>Ask for a place to crash on your next trip</span></div>
+      </div>  
+
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--3"><span>Choose the groups you trust</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Choose the groups you trust</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-groups.jpg" alt="">
+      </div>
+ 
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+      
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Select the accommodations you can offer guests</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-settings.jpg" alt="">
+      </div>  
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--4"><span>Select the accommodations you can offer guests</span></div>
+      </div> 
+    </div><!-- end grid -->
+
+    <div class="grid grid--full">
+      
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--5"><span>Raise money for charities</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Raise money for charities</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-donate.jpg" alt="">
+      </div>  
+
+    </div><!-- end grid -->
+
+  <div class="wrapper">
+    <div class="grid">
+      <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
         
-        <div class="wrapper type-small hidden">
-            <div class="grid grid--padded">
-                <div class="grid__item one-whole">
-                    <h2 class="text-center margin-0">Supporters</h2>
-                </div>
-            </div><!-- end grid -->
-
+        <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup" style="margin-bottom: 6rem; margin-top: 6rem;">
+          <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            
+          <div class="mc-field-group">
             <div class="grid grid--tight">
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/zach-meissner.jpg" alt=""><br>
-                        <strong>Zach Meissner</strong><br>
-                        <em>WA Beta, '04</em>
-                        <p>WA Beta alumni President. VP at Pacific Capital Resource Group.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/sigep_bm_logo.png" alt=""><br>
-                        <strong>Ryan Rastetter</strong><br>
-                        <em>WA Beta, '02</em>
-                        <p>National Director of Expansion, WA Beta AVC President.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/eric-lord.jpg" alt=""><br>
-                        <strong>Eric Lord</strong><br>
-                        <em>WA Beta, '93</em>
-                        <p>15 year volunteer for WA Beta. Financial Advisor at Wells Fargo.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/sigep_bm_logo.png" alt=""><br>
-                        <strong>Steve Ruttner</strong><br>
-                        <em>WA Beta, '73</em>
-                        <p>District Governor (Dist. 24) and 35 year volunteer with Sigeps.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/henry-shim.jpg" alt=""><br>
-                        <strong>Henry Shim</strong><br>
-                        <em>WA Beta, '00</em>
-                        <p>Social Chair 2002-2003. Vice President of Dimension Properties.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/bryce-giesler.jpg" alt=""><br>
-                        <strong>Bryce Giesler</strong><br>
-                        <em>TN Alpha, '75</em>
-                        <p>AVC VP - Texas Delta at Sigma Phi Epsilon.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/jerry-ostradicky.jpg" alt=""><br>
-                        <strong>Jerry Ostradicky</strong><br>
-                        <em>WA Beta, '02</em>
-                        <p>Social Chair 2003-2004. Director, Advertising Operations at Zillow.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/terry-youmans.jpg" alt=""><br>
-                        <strong>Terry Youmans</strong><br>
-                        <em>Penn Omega Upsilon, '01</em>
-                        <p>Brotherhood Educator and VP Alumni Board.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/julius-danek.jpg" alt=""><br>
-                        <strong>Julius Danek</strong><br>
-                        <em>Cal Beta Alpha, UC Irvine, '12</em>
-                        <p>Econ Major, now at MIT for a Masters of Finance.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/zach-brewer.jpg" alt=""><br>
-                        <strong>Zachary Brewer</strong><br>
-                        <em>Texas MU, Texas A&amp;M, '98</em>
-                        <p>Rush Chair, VP Member Development, Alumni Board President.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/sigma-phi-epsilon/corbyn-payne.jpg" alt=""><br>
-                        <strong>Corbyn Payne</strong><br>
-                        <em>TN Theta, MTSU, '98</em>
-                        <p>TN Theta President 2011. Currently Business Accounts Manager, AT&amp;T.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/149/051/2061c3f.jpg" alt=""><br>
-                        <strong>Collin Page</strong><br>
-                        <em>WA Beta, '01</em>
-                        <p>VP of Finance 2002-04. Territory Manager, ACE Private Risk Services.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="https://media.licdn.com/mpr/mpr/shrink_240_240/p/4/005/06b/01e/37f79ec.jpg" alt=""><br>
-                        <strong>Michael Catudal</strong><br>
-                        <em>NH Gamma, 09</em>
-                        <p>UNH SEC Alumni President, Account Manager at WinterWyman.</p>
-                    </div>
-                </div>
-
+              <h3 class="text-center margin-b">Receive updates on Horizon’s progress</h3>
+              <div class="grid__item one-whole desk-two-thirds">
+                <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email…">
+              </div>
+              <div class="grid__item one-whole desk-one-third">
+                <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
+                <input type="hidden" name="FILTER" id="FILTER" value="SneakPeek" />
+              </div>
             </div><!-- end grid -->
-    </div><!-- end wrapper -->
-</div><!-- end page -->
+          </div>
+          <div id="mce-responses" class="clear">
+           <div class="response" id="mce-error-response" style="display:none"></div>
+           <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+           <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
+              
+          </form>
+          </div>
+            
+         <!--End mc_embed_signup--> 
+      </div>
+
+    </div><!-- end grid -->
+  </div><!-- end wrapper -->
+</div><!-- end container -->
+
+
+<!-- Mobile Detection & Link Texting -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script type="text/javascript" src="//d3q6uu7asevdsg.cloudfront.net/1.2/js/link_texting.min.js"></script>
+      <script>
+      var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+      function downloadMessage() {
+          $('.install-btn').css('display','none');
+          $('.download-msg').css('display','block');
+      }
+      if (!iOS) {
+          $('.install-btn').css('display','none');
+          $('.install-linktext').css('display', 'block');
+          }
+      $('.js-install-btn').click(function(){
+          setTimeout(downloadMessage,2000);
+      });
+      </script>
+
+      <!-- Google Analytics -->
+      <script>
+          (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+          function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+          e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+          e.src='//www.google-analytics.com/analytics.js';
+          r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+          ga('create','UA-51448023-1');ga('send','pageview');
+      </script>
+
+{% include footer.html %}
