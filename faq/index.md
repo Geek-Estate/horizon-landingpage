@@ -12,7 +12,7 @@ author: Drew Meyers
 
 **A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. After your stay (if they accept), you'll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
 
-**Q: What's with the name?
+**Q: What's with the name?**
  
 **A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together.
 
@@ -20,13 +20,13 @@ author: Drew Meyers
 
 **Q: Why do I have to pay service fees when I donate?**
 
-**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- we are operating a business, not a charity. Great technology requires significant investment in order to maintain the current platform, and continue to innovate with new tools to facilitate in person relationships. 
+**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- we are operating a business, not a charity. Great technology requires significant investment to continue to innovate with new tools to facilitate in person relationships. 
 
 If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), all your transactions will be waived for stays with other members of that specific community.
 
 **Q: How much do I have to donate?**
 
-**A:** In our test groups, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
+**A:** In our early testing, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
@@ -56,7 +56,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I want Horizon for my Facebook community. How do I enable that?**
 
-**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. We'll turn on additional groups containing at least 20 members.
+**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them.
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
@@ -84,7 +84,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: Why do only some of my Facebook friends show up?**
 
-**A:** Two potential reasons. First, we only display friends we can associate with a specific locations - some people do not fill out their "lives in" field on Facebook, or have it restricted so other sites cannot access it. Second, Facebook's Graph API 2.0 only returns your friends that are also using the Horizon app.
+**A:** Two reasons. First, we only display friends we can associate with a specific locations - some people do not fill out their "lives in" field on Facebook, or have it restricted so other sites cannot access it. Second, Facebook's Graph API 2.0 only returns your friends that are also using the Horizon app.
 
 **Q: Why are accommodation details not available on all profiles?**
 
