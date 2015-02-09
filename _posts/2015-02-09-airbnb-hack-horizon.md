@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The AirBnB Hack that Helped Inspire the Formation of Horizon
+title: The AirBnB Hack that Helped Inspire Horizon
 date: 2015-02-09
 categories: blog
 author: Drew Meyers
@@ -13,7 +13,7 @@ AirBnB isn't built for finding an amazing host; it's built for finding a unique 
 
 When in solo travel scenarios (but not when traveling in a group), I hack AirBnB everytime I use it...
 
-My primary search criteria is an interesting host profile. Price is a consideration -- I'm not going to book a place to stay with a cool host if their room is $300 a night -- but within a range, I'm seeking a host with whom I share something in common. Someone I will have something to talk about with. I browse host profile after host profile in the city I'm planning to visit, and try to remember which ones seem most interesting by leaving them open in new tabs. I review each one, and narrow it down to a few. If they work in the travel or real estate industries, are involved with microfinance, or I can somehow tell they're socially conscious individuals. I always prefer hosts with whom I have a shared friend, given they are then more likely to give me a discount, or go a little out of their way to ensure I have an amazing time in their beloved city. 
+My primary search criteria is an interesting host profile. Price is a consideration -- I'm not going to book a place to stay with a cool host if their room is $300 a night -- but within a range, I'm seeking a host with whom I share something in common. I browse host profile after host profile in the city I'm planning to visit, and bookmark the ones who seem most interesting by leaving them open in new tabs. I review each one, and narrow it down to a few. If they work in the travel or real estate industries, are involved with microfinance, or I can somehow tell they're socially conscious individuals -- they move to the top of my list. I always prefer hosts with whom I have a shared friend, given they are then more likely to give me a discount, or go a little out of their way to ensure I have an amazing time in their beloved city. 
 
 My stay with the Morris' was by far my best AirBnB experience. It had nothing to do with the specifics of accommodations, and everything to do with the connection with the people. We built Horizon for those who place more importance on the connection and friendship, than on details of accommodation.
 
