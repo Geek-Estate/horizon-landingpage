@@ -16,20 +16,20 @@ author: Will Moyer
 	</div>
 
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="assets/horizon-logo-black.png" alt="">
-		<a class="type-small" href="assets/horizon-logo-black.png">Horizonal Logo Black</a>
+		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="/brand/img/horizon-logo-black.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-logo-black.png">Horizonal Logo Black</a>
 	</div>
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #666; padding: 1.5rem;" src="assets/horizon-logo-white.png" alt="">
-		<a class="type-small" href="assets/horizon-logo-white.png">Horizonal Logo White</a>
+		<img style="background-color: #666; padding: 1.5rem;" src="/brand/img/horizon-logo-white.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-logo-white.png">Horizonal Logo White</a>
 	</div>
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="assets/horizon-logo-black-square.png" alt="">
-		<a class="type-small" href="assets/horizon-logo-black-square.png">Square Logo Black</a>
+		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="/brand/img/horizon-logo-black-square.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-logo-black-square.png">Square Logo Black</a>
 	</div>
 	<div class="grid__item one-half">
-		<img style="background-color: #666; padding: 1.5rem;" src="assets/horizon-logo-white-square.png" alt="">
-		<a class="type-small" href="assets/horizon-logo-white-square.png">Square Logo White</a>
+		<img style="background-color: #666; padding: 1.5rem;" src="/brand/img/horizon-logo-white-square.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-logo-white-square.png">Square Logo White</a>
 	</div>
 </div>
 
@@ -85,12 +85,12 @@ author: Will Moyer
 	</div>
 
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="assets/horizon-icon-square.png" alt="">
-		<a class="type-small" href="assets/horizon-icon-square.png">Square Icon</a>
+		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="/brand/img/horizon-icon-square.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-icon-square.png">Square Icon</a>
 	</div>
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="assets/horizon-icon-rounded.png" alt="">
-		<a class="type-small" href="assets/horizon-icon-rounded.png">Rounded Icon</a>
+		<img style="background-color: #f2f2f2; padding: 1.5rem;" src="/brand/img/horizon-icon-rounded.png" alt="">
+		<a class="type-small" href="/brand/img/horizon-icon-rounded.png">Rounded Icon</a>
 	</div>
 </div>
 
@@ -101,17 +101,17 @@ author: Will Moyer
 	</div>
 
 	<div class="grid__item one-whole margin-b">
-		<img style="background-color: #f2f2f2;" src="assets/horizon-logo-16x9.jpg" alt="">
-		<a class="type-small" href="assets/horizon-logo-16x9.jpg">Banner Image</a>
+		<img style="background-color: #f2f2f2;" src="/brand/img/horizon-logo-16x9.jpg" alt="">
+		<a class="type-small" href="/brand/img/horizon-logo-16x9.jpg">Banner Image</a>
 	</div>
 	<div class="grid__item one-whole margin-b">
-		<img style="background-color: #f2f2f2;" src="assets/horizon-iphone-6-mockup.jpg" alt="">
-		<a class="type-small" href="assets/horizon-iphone-6-mockup.jpg">iPhone 6 Mockup</a>
+		<img style="background-color: #f2f2f2;" src="/brand/img/horizon-iphone-6-mockup.jpg" alt="">
+		<a class="type-small" href="/brand/img/horizon-iphone-6-mockup.jpg">iPhone 6 Mockup</a>
 	</div>
 
 	<div class="grid__item one-whole margin-b">
-		<img style="background-color: #f2f2f2;" src="assets/horizon-poster.jpg" alt="">
-		<a class="type-small" href="assets/horizon-poster.pdf">Poster</a>
+		<img style="background-color: #f2f2f2;" src="/brand/img/horizon-poster.jpg" alt="">
+		<a class="type-small" href="/brand/img/horizon-poster.pdf">Poster</a>
 	</div>
 </div>
 
@@ -122,7 +122,7 @@ author: Will Moyer
 	</div>
 
 	<div class="grid__item one-half margin-b">
-		<img src="assets/horizon-home-screenshot.jpg" alt="">
+		<img src="/brand/img/horizon-home-screenshot.jpg" alt="">
 		<a class="type-small" href="assets/horizon-home-screenshot.jpg">Home Screenshot</a>
 	</div>
 
