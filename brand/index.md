@@ -20,7 +20,7 @@ author: Will Moyer
 		<a class="type-small" href="/brand/img/horizon-logo-black.png">Horizonal Logo Black</a>
 	</div>
 	<div class="grid__item one-half margin-b">
-		<img style="background-color: #666; padding: 1.5rem;" src="/brand/img/horizon-logo-white.png" alt="">
+		<img style="background-color: #4D4D4D; padding: 1.5rem;" src="/brand/img/horizon-logo-white.png" alt="">
 		<a class="type-small" href="/brand/img/horizon-logo-white.png">Horizonal Logo White</a>
 	</div>
 	<div class="grid__item one-half margin-b">
@@ -28,7 +28,7 @@ author: Will Moyer
 		<a class="type-small" href="/brand/img/horizon-logo-black-square.png">Square Logo Black</a>
 	</div>
 	<div class="grid__item one-half">
-		<img style="background-color: #666; padding: 1.5rem;" src="/brand/img/horizon-logo-white-square.png" alt="">
+		<img style="background-color: #4D4D4D; padding: 1.5rem;" src="/brand/img/horizon-logo-white-square.png" alt="">
 		<a class="type-small" href="/brand/img/horizon-logo-white-square.png">Square Logo White</a>
 	</div>
 </div>
