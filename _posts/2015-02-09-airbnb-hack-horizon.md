@@ -9,7 +9,7 @@ AirBnB started as a paid version of Couchsurfing back in 2008, though have succe
 
 The value proposition in the beginning, at least to me, was the time savings of not going back and forth with 5, 10, or even 15 potential hosts on Couchsurfing trying to find someone to take me in. With AirBnB, I could just pay the fee and bypass that entire process.
 
-AirBnB isn't built for finding an amazing host; it's built for finding a unique place to stay. Particularly when traveling solo, I could care less about the specific details of where I'm staying. I'll sleep on a couch, blow up mattress (airbed), or even a foam mat on the floor (I've done it) -- if it means spending time with a friend or meeting an awesome connection.
+AirBnB isn't built for finding an amazing host; it's built for finding a unique place to stay. Particularly when traveling solo, I could not care less about the specific details of where I'm staying. I'll sleep on a couch, blow up mattress (airbed), or even a foam mat on the floor (I've done it) -- if it means spending time with a friend or meeting an awesome connection.
 
 When in solo travel scenarios (but not when traveling in a group), I hack AirBnB everytime I use it...
 
