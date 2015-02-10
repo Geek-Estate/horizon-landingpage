@@ -10,7 +10,7 @@ author: Drew Meyers
 
 **Q: How does it work?**
 
-**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting in person with. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. After your stay (if they accept), you'll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
+**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting with in person. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
 
 **Q: What's with the name?**
  
@@ -20,7 +20,7 @@ author: Drew Meyers
 
 **Q: Why do I have to pay service fees when I donate?**
 
-**A:** While we are passionate beyond belief about enabling community wherever you are, raising money for great causes, and [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/) -- we are operating a business, not a charity. Great technology requires significant investment to continue to innovate with new tools to facilitate in person relationships. 
+**A:** We are passionate about enabling you to connect to community wherever you go and raising money for great causes; the intersection of these two things we like to call [travel by giving](http://www.horizonapp.co/blog/travel-by-giving/). We feel the best way to sustainably facilitate these two things is through operating Horizon as a for-profit business. Using technology that allows us to provide great experiences to the largest number of people requires significant investment, upkeep, and innovation as new technologies arise. 
 
 If you are a member of a community on the [enterprise plan](http://www.horizonapp.co/hospitality-network-setup/), all your transactions will be waived for stays with other members of that specific community.
 
@@ -30,7 +30,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
-**A:** In order to enable more to experience the power of cultural exchange, and increase total donations to great causes in the process. In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
+**A:** By all means, donate in whatever way you prefer! We have paired charitable giving with In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
 
 **Q: Why do I have to pay credit card processing fees?**
 
@@ -44,7 +44,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: What is a community?**
 
-**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or groups which users are affiliated with such as a fraternity or university alumni association. 
+**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or groups which users are affiliated with such as a fraternity or university alumni association.
 
 **Q: What type of communities is Horizon for?**
 
@@ -72,7 +72,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: I don't want to login with a Facebook account - what are my options?**
 
-**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends, friends of friends, and common group members. We understand their are privacy considerations for some people, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
+**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends, friends of friends, and common group members. We understand that users have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
 
 **Q: How are the counts of cities and countries on my home screen calculated?**
 
