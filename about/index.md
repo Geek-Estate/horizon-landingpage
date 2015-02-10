@@ -16,6 +16,12 @@ Our mission is to increase access to travel opportunities by enabling shared hos
 
 In short, we’re the travel community that gives a damn about making the world a better place — and means it.
 
+## Press
+
+Please send inquires to [press@horizonapp.co](mailto:press@horizonapp.co)
+
+[Brand assets can be found here](/brand/).
+
 ## Questions?
 
-Check our [frequently asked questions](http://www.horizonapp.co/faq/).
+Check our [frequently asked questions](/faq/).

@@ -30,7 +30,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
-**A:** By all means, donate in whatever way you prefer! We have paired charitable giving with In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers's impact here](http://www.horizonapp.co/drewmeyers).
+**A:** By all means, donate in whatever way you prefer! We have paired charitable giving with In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers' impact here](http://www.horizonapp.co/drewmeyers).
 
 **Q: Why do I have to pay credit card processing fees?**
 
