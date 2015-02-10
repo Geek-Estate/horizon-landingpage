@@ -17,7 +17,7 @@ My primary search criteria is an interesting host profile. Price is a considerat
 
 My stay with the Morris' was by far my best AirBnB experience. It had nothing to do with the specifics of accommodations, and everything to do with the connection with the people. We built Horizon for those who place more importance on the connection and friendship, than on details of accommodation.
 
-Do you hack AirBnB to same way I do? If so, we'd love to have you as part of our beta...
+Do you hack AirBnB the same way I do? If so, we'd love to have you as part of our beta...
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
