@@ -19,7 +19,7 @@ A few reasons...
 
 <strong>Technology / Monetary Transactions</strong>. One of the major challenges hospitality networks have faced is technology. They've all relied on volunteers building their own web technology - with no money changing hands, no resources exist to invest in a consumer friendly mobile or web experience consumers will actually use. Another challenge is signal to noise with fielding and sending requests for accommodation. Adding a financial transaction to bookings addresses both of these, as it both enables money to be invested into technology and reduces the number of people who waste hosts' time with inquiries that are not serious in nature.
 
-<strong>Operated as a Business</strong>. Horizon is not a charity. This is a business (with a deep social mission), aiming to shift some of the massive amounts of money that goes into hospitality to amazing causes such as [Kiva](http://www.kiva.org) and [Pencils of Promise](http://pencilsofpromise.org/) -- and enabling travel opportunities, cultural exchange, community, and friendships in the process.
+<strong>Operated as a Business</strong>. Horizon is not a charity. This is a business (with a deep social mission), aiming to shift some of the massive amounts of money spent on hospitality to amazing causes such as [Kiva](http://www.kiva.org) and [Peace Corps](http://www.peacecorps.gov/) -- and enabling travel opportunities, cultural exchange, community, and friendships in the process.
 
 Interested in being one of our first beta testers, or [Horizon powering hospitality exchange for a specific community you are involved with](http://www.horizonapp.co/hospitality-network-setup/)? Leave your email below.
 
