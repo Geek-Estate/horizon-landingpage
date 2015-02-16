@@ -19,7 +19,7 @@ He goes by the name of Pocket. A few details to share:
 
 > I'm an passionate startup entrepreneur from LA who moved to NYC and I’m making my way back to the East Coast. My background is scattered in marketing (Zaarly), product (Pinbooster), some development, and consulting (SparkConnect). I believe that meeting passionate people who are building things is as important as actually building them.
 
-More info on Pocket: [About.me](http://about.me/pocket) | [Facebook](https://www.facebook.com/p0cket) | [Twitter](https://twitter.com/p0cket)
+More info on Pocket: [About.me](http://about.me/pocket), [Facebook](https://www.facebook.com/p0cket), and [Twitter](https://twitter.com/p0cket)
 
 He's spent some time in New York, but headed back to the Bay Area next week for an internship. Are you in San Francisco area? Are you willing to host Pocket for a few nights in February or March? If so, please [send me an email](mailto:drew@horizonapp.co) or find Pocket on Horizon and send him a message.
 
