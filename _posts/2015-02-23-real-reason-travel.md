@@ -22,3 +22,5 @@ Therefore, you will realize what you truly desire is not this destination, and n
 With this new mindset you can leave the endless cycle of ups and down, highs and lows, or desire and monotony. Your dream spot will then become more than just a place you want to see; it will evolve into yet another adventure where you will be able to appreciate life and the endless elegance of the world. In turn, both the culmination and completion of any trip you experience from that point forward will be seen through eyes of appreciation, not depression, and your day to day life will be filled with happiness, not desire. 
 
 My challenge to you: take a step back, think for a moment, and ask yourself "why?" Only then you will be ready start your "shift" towards appreciating the present...and the best news is you can start today, in whatever place you happen to be at this very moment.
+
+<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>

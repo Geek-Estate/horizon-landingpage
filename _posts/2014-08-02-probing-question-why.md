@@ -23,3 +23,5 @@ I didn't have an answer. As it turns out, "connecting" for the sake of "connecti
 That single probing question led us down a completely different path...which ultimately resulted in the new private hospitality exchange app we are working on now (we are close to a finished MVP).
 
 It goes without saying, but I'll say it anyway. Thank you for probing, Taylor.
+
+<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>
