@@ -21,7 +21,7 @@ He goes by the name of Pocket. A few details to share:
 
 More info on Pocket: [About.me](http://about.me/pocket), [Facebook](https://www.facebook.com/p0cket), and [Twitter](https://twitter.com/p0cket)
 
-He's spent some time in New York, but headed back to the Bay Area next week to work on building a start-up. Are you in San Francisco area? Are you willing to host Pocket for a few nights in February or March? If so, please [send me an email](mailto:drew@horizonapp.co) or find Pocket on Horizon and send him a message.
+He's spent some time in New York, but headed back to the Bay Area next week to work on building a start-up. Are you in San Francisco area? Are you willing to host Pocket for a few nights in February or March? If so, please [send me an email](mailto:drew@horizonapp.co) or [find Pocket on Horizon and send him a message](http://www.horizonapp.co/pocket/).
 
 Interested in [hosting](/why-host/) or traveling? Please join our beta:
 
