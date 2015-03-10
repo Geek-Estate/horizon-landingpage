@@ -1,7 +1,7 @@
 Subject: Welcome to Horizon
 
 Body: 
-Welcome to Horizon! When arriving in a new city, you likely desire to meet a friendly face; you want community. Staying with a friend or trusted connection is the most effective way to experience community while traveling. We built Horizon for those who place more importance on the connection and friendship, than on the details of accommodation.
+Welcome to Horizon! When arriving in a new city, you probably want to meet a friendly face. Staying with a friend or trusted connection is the most effective way to experience community while traveling. We built Horizon for those who place more importance on the connection and friendship, than on the details of accommodation.
 
 We believe life's magical moments don't happen staring at your screen, and the power of community to change lives.
 
