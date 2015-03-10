@@ -48,7 +48,7 @@ author: Will Moyer
 
 	<div class="grid__item one-third margin-b">
 		<div style="background-color: #00ccca; width: 100%; height: 0; padding-bottom: 100%;"></div>
-		<span class="type-small">#00CCA</span>
+		<span class="type-small">#00CCCA</span>
 	</div>
 
 	<div class="grid__item one-third margin-b">
