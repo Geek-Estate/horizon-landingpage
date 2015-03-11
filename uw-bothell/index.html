@@ -1,115 +1,332 @@
+
 ---
-layout: default
-title: University of Washington, Bothell
-date: 2014-05-16
-author: Drew Meyers
+layout: blank
 ---
-<div class="page">
+<link rel="stylesheet" href="//d3q6uu7asevdsg.cloudfront.net/1.2/css/link_texting.min.css">
+<style>
+
+  .product-hunt {
+    color: #fff;
+    background-image: url('/product-hunt/img/ph-bg-3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    .clearfix;
+  }
+
+    .product-hunt .mobile-menu-button {
+        color: #fff;
+    }
+
+  .welcome--ph {
+    font-size: 2rem;
+    line-height: 1.2; 
+    font-weight: 900; 
+    letter-spacing: -2px;
+  }
+
+  @media only screen and (min-width: 700px) {
+    .product-hunt {
+      margin-bottom: -3rem;
+    }
+    .welcome--ph {
+      font-size: 3.7rem; 
+    }
+    .info--ph {
+      font-size: 1.1rem;
+      margin-bottom: 6rem;
+    }
+    .wrapper--ph {
+      position: absolute; /* Parent must have position: relative */
+      top: 50%;
+      left: 50%;
+
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+  }
+
+  .install-btn {
+    display: block;
+    background-color: #00ccca;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 1.5em;
+    line-height: 1.5;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    width: 16rem;
+
+    margin-bottom: 3rem;
+  }
+
+  .install-btn:visited {
+    color: #fff;
+  }
+  .install-msg, .download-msg {
+      background-color: rgba(0,0,0,.35);
+      line-height: 1.25;
+      display: none;
+  }
+
+  .download-msg {
+    font-size: 1rem;
+    padding: ;
+  }
+
+  .install-linktext {
+    display: none;
+  }
+
+  .input-text-link {
+      border: 1px solid rgba(255,255,255,.75);
+      background: rgba(255,255,255,.3);
+      width: 20rem;
+      height: 3rem;
+      color: #fff;
+  }
+
+  .input-text-link::-webkit-input-placeholder {
+      color: #fff;
+      font-weight: 300;
+  }
+
+  .input-text-link:-moz-placeholder { /* Firefox 18- */
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .input-text-link::-moz-placeholder {  /* Firefox 19+ */
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .input-text-link:-ms-input-placeholder {  
+     color: #fff;
+     font-weight: 300;  
+  }
+
+  .screen-info {
+    background: #000;
+    height: 0;
+    padding-top: 24%;
+    padding-bottom: 35.17%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2rem;
+    line-height: 1.25;
+  }
+    .screen-info--1 {
+      background-color: #555;
+      background-image: url('/product-hunt/img/screen-bg-1.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--2 {
+      background-color: #444;
+      background-image: url('/product-hunt/img/screen-bg-2.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--3 {
+      background-color: #333;
+      background-image: url('/product-hunt/img/screen-bg-3.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--4 {
+      background-color: #222;
+      background-image: url('/product-hunt/img/screen-bg-4.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .screen-info--5 {
+      background-color: #111;
+      background-image: url('/product-hunt/img/screen-bg-5.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+  .screen-image {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+    box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+  }
+
+  @media only screen and (min-width: 700px) {
+    .screen-image {
+      margin: 0;
+      box-shadow: none;
+      width: 100%;
+    }
+
+  }
+</style>
+
+<div class="product-hunt">
+
+  <header class="site-header">
+
     <div class="wrapper">
-        <div class="grid">
-            <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
-
-                <img class="center-margins margin-b" src="/assets/UW-Bothell-Logo.jpg">
-                <h1 class="post__title margin-0" hidden>UW Bothell</h1>
-                <h2 class="center-text">Global Alumni Hospitality Network</h2>
-                    <div class="post__content">
-                        <p>UW Bothell is community of over 12,000 alumni, within the broader University of Washington alumni community.
-                        </p>
-
-                        <p>How do you tap into the UWB alumni community in travel scenarios? Horizon's UW Bothell Hospitality Network allows you to find other alumni based on location, with the main focus of exchanging hospitality in travel scenarios. Even if you aren't in need of a place to sleep, you can reach out for travel tips, or a meal/coffee/drink.</p>
-
-                        <h3>Why Use Horizon?</h3>
-                        <ul>
-                            <li>Search your Facebook friends, and UW alumni in one place</li>
-                            <li>Control over which people & groups have ability to request a stay with you</li>
-                            <LI>Networking opportunities</LI>
-                            <li>Have amazing social experiences, with knowledgeable locals</li>
-                            <li>Cultural exchange</li>
-                        </ul>
-
-                        <p>Horizon's <a href="/mission">core mission</a> is to increase access to travel opportunities worldwide by enabling shared hospitality among trusted contacts and communities; providing free or cheap accommodation and cultural experiences not otherwise available to them.</p>
-                        
-                        <p>More in person experiences and friendships mean a stronger UW Bothell community for generations to come.</p>
-
-                        <p class="text-right">
-                            <img style="width:200px; margin-right:-50px;" src="/assets/drew-sig.png"><br>
-                            <strong>Drew Meyers</strong><br>
-                            <span>Co-Founder, Horizon</span><br>
-                            <em>UW Bothell, Class of 2002</em>
-                        </p>
-
-                    </div><!-- end post content -->
-
-            </div><!-- end grid item -->
-        </div><!-- end grid -->
+      <div class="grid">
+        <div class="grid__item one-half desk-one-fifth">
+          <h1 class="logo"><a href="/"><img src="/assets/logo-white.png" alt="Horizon"></a></h1>
+        </div>
+        <div class="grid__item one-half">
+          <a class="mobile-menu-button desk-hide"><span class="hidden">Menu</span></a>
+        </div>
+      </div><!-- end grid -->
     </div><!-- end wrapper -->
 
-    <div class="container container--bg">
-        <div class="wrapper">
-            <div class="grid grid--padded">
-                <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">      
-                     <!-- Begin MailChimp Signup Form -->
-                     <h2>We Need Your Help</h2>
-                     <div id="mc_embed_signup">
-                     <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                       
-                     <div class="mc-field-group">
-                       <div class="grid grid--tight">
-                         <div class="grid__item one-whole desk-two-thirds">
-                           <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email to try the beta">
-                         </div>
-                         <div class="grid__item one-whole desk-one-third">
-                           <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-                           <input type="hidden" name="FILTER" id="FILTER" value="UWBothell" />
-                         </div>
-                       </div><!-- end grid -->
-                     </div>
-                     <div id="mce-responses" class="clear">
-                      <div class="response" id="mce-error-response" style="display:none"></div>
-                      <div class="response" id="mce-success-response" style="display:none"></div>
-                     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                      <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-                         
-                     </form>
-                     </div><!--End mc_embed_signup-->
-                 </div><!-- end grid item -->
-            </div><!-- end grid -->
-        </div><!-- end wrapper -->
-    </div><!-- end container -->        
+  </header>
+
+  <div class="wrapper wrapper--ph">
+    <div class="grid grid--padded">
+      <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
+        <h1 class="welcome--ph">Welcome UW Bothell!</h1>
+        <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay. To find other UW Bothell alumni, make sure you’re part of the Facebook group: <a href="https://www.facebook.com/groups/288486451341048/">UW Bothell</a>.</p>
+        <a class="js-install-btn" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
+
+        <div class="install-linktext">
+
+            <div class="linkTexting_oq3j39q0">
+              <div class="linkTextingInner_oq3j39q0" style="width: 100%">
+                <input class="linkTextingInput_oq3j39q0 input-text-link" type="tel" id="numberToText_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8"></input>
+                <button style="background-color: #00ccca; color: #ffffff; border-radius: 2px; line-height: 3rem; height: 3rem; width: 10rem;" class="linkTextingButton_oq3j39q0 btn" type="button" onclick="sendLink_linkTexting_oq3j39q0('53024c30-ce02-498c-8e87-40e0135508d8')" id="sendButton_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8">Text me a link</button>
+                <div class="linkTextingError_oq3j39q0" id="linkTextingError_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8" style="display:none;"></div>
+                <div style="opacity: .9;" class="type-small">(or open this page on your iPhone - powered by <a href="https://www.linktexting.com/">LinkTexting</a>)</div>
+              </div>
+            </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div> <!-- end home section -->
+
+<div class="container--bg">
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--1"><span>Search cities and countries for people connected to you</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Search cities and countries for people connected to you</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-grid.jpg" alt="">
+      </div> 
+
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Ask for a place to crash on your next trip</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-casey.jpg" alt="">
+      </div>   
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--2"><span>Ask for a place to crash on your next trip</span></div>
+      </div>  
+
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--3"><span>Choose the groups you trust</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Choose the groups you trust</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-groups.jpg" alt="">
+      </div>
+ 
+    </div><!-- end grid -->
+    <div class="grid grid--full">
+      
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Select the accommodations you can offer guests</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-settings.jpg" alt="">
+      </div>  
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--4"><span>Select the accommodations you can offer guests</span></div>
+      </div> 
+    </div><!-- end grid -->
+
+    <div class="grid grid--full">
+      
+      <div class="grid__item one-whole desk-three-fourths desk-show">
+        <div class="screen-info screen-info--5"><span>Raise money for charities</span></div>
+      </div> 
+      <div class="grid__item one-whole desk-one-fourth">
+        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Raise money for charities</p>
+        <img class="screen-image" src="/product-hunt/img/horizon-screen-donate.jpg" alt="">
+      </div>  
+
+    </div><!-- end grid -->
+
+  <div class="wrapper">
+    <div class="grid">
+      <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
         
-        <div class="wrapper type-small" hidden>
-            <div class="grid grid--padded">
-                <div class="grid__item one-whole">
-                    <h2 class="text-center margin-0">Supporters</h2>
-                </div>
-            </div><!-- end grid -->
-
+        <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup" style="margin-bottom: 6rem; margin-top: 6rem;">
+          <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            
+          <div class="mc-field-group">
             <div class="grid grid--tight">
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/uw-bothell/sean-marsh.jpg" alt=""><br>
-                        <strong>Sean Marsh</strong><br>
-                        <em>Temple, 1999 & SPU, 2006</em>
-                        <p>Director of Alumni Relations, University of Washington Bothell.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="/uw-bothell/tiffany-kirk.jpg" alt=""><br>
-                        <strong>Tiffany Kirk</strong><br>
-                        <em>2010 & 2014</em>
-                        <p>Alumni Engagement Manager, University of Washington Bothell.</p>
-                    </div>
-                </div>
-                <div class="grid__item one-half desk-one-fifth">
-                    <div class="supporter__bio text-center">
-                        <img class="margin-sb" src="http://www.horizonapp.co/assets/team-drew-meyers.jpg" alt=""><br>
-                        <strong>Drew Meyers</strong><br>
-                        <em>2005</em>
-                        <p>Co-Founder, Horizon.</p>
-                    </div>
-                </div>
-
+              <h3 class="text-center margin-b">Receive updates on Horizon’s progress</h3>
+              <div class="grid__item one-whole desk-two-thirds">
+                <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email…">
+              </div>
+              <div class="grid__item one-whole desk-one-third">
+                <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
+                <input type="hidden" name="FILTER" id="FILTER" value="uwbothell" />
+              </div>
             </div><!-- end grid -->
-    </div><!-- end wrapper -->
-</div><!-- end page -->
+          </div>
+          <div id="mce-responses" class="clear">
+           <div class="response" id="mce-error-response" style="display:none"></div>
+           <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+           <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
+              
+          </form>
+          </div>
+            
+         <!--End mc_embed_signup--> 
+      </div>
+
+    </div><!-- end grid -->
+  </div><!-- end wrapper -->
+</div><!-- end container -->
+
+
+<!-- Mobile Detection & Link Texting -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script type="text/javascript" src="//d3q6uu7asevdsg.cloudfront.net/1.2/js/link_texting.min.js"></script>
+      <script>
+      var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+      if (!iOS) {
+          $('.js-install-btn').css('display','none');
+          $('.install-linktext').css('display', 'block');
+          }
+      </script>
+
+{% include footer.html %}
