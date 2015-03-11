@@ -4,6 +4,7 @@ title: Travel by Giving (via Hospitality Networks)
 date: 2014-08-29
 categories: blog
 author: Drew Meyers
+image: travel-by-giving-cover.jpg
 ---
 People do all sorts of things to raise money for charity. Just a few examples...
 
