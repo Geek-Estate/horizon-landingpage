@@ -16,7 +16,9 @@ author: Drew Meyers
 
 <p>If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at <a href="mailto:webmaster@ohheyworld.com">webmaster@ohheyworld.com</a>.</p>
 
-<h4 class="epsilon">Controllers of Personal Information</h4><p>Any personal information provided to or to be gathered by ohheyworld is controlled primarily by Oh Hey World, Inc., 3143 East Lake Sammamish Sh Lane SE, Sammamish, WA 98075.</p>
+<h4 class="epsilon">Controllers of Personal Information</h4>
+
+<p>Any personal information provided to or to be gathered by ohheyworld is controlled primarily by Oh Hey World, Inc., 3143 East Lake Sammamish Sh Lane SE, Sammamish, WA 98075.</p>
 
 <p>DEFINITIONS</P>
 
