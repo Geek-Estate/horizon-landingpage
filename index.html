@@ -18,12 +18,27 @@ layout: blank
         color: #fff;
     }
 
+
+  .wrapper--ph {
+      position: absolute; /* Parent must have position: relative */
+      top: 50%;
+      left: 50%;
+
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
   .welcome--ph {
     font-size: 1.72rem;
     line-height: 1.2; 
     font-weight: 700; 
     letter-spacing: -2px;
   }
+
+
 
   @media only screen and (min-width: 700px) {
     .product-hunt {
@@ -37,17 +52,7 @@ layout: blank
       font-size: 1.1rem;
       margin-bottom: 3rem;
     }
-    .wrapper--ph {
-      position: absolute; /* Parent must have position: relative */
-      top: 50%;
-      left: 50%;
 
-      -webkit-transform: translate(-50%, -50%);
-      -moz-transform: translate(-50%, -50%);
-      -o-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
   }
 
   .install-btn {
@@ -204,7 +209,7 @@ layout: blank
       <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
         <h1 class="welcome--ph">Stay With Someone You Trust</h1>
         <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay.</p>
-        <a class="js-install-btn" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
+        <a class="js-install-btn" style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
 
         <div class="install-linktext">
 
@@ -213,7 +218,7 @@ layout: blank
                 <input class="linkTextingInput_oq3j39q0 input-text-link" type="tel" id="numberToText_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8"></input>
                 <button style="background-color: #00ccca; color: #ffffff; border-radius: 2px; line-height: 3rem; height: 3rem; width: 10rem;" class="linkTextingButton_oq3j39q0 btn" type="button" onclick="sendLink_linkTexting_oq3j39q0('53024c30-ce02-498c-8e87-40e0135508d8')" id="sendButton_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8">Text me a link</button>
                 <div class="linkTextingError_oq3j39q0" id="linkTextingError_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8" style="display:none;"></div>
-                <div style="opacity: .9;" class="type-small">(or open this page on your iPhone - powered by <a href="https://www.linktexting.com/">LinkTexting</a>)</div>
+                <div style="opacity: .9;" class="type-small">View in <a href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4">App Store</a> &#9992; Hosts can try our <a href="https://api.horizonapp.co/">beta web app</a>.</div>
               </div>
             </div>
         </div><!-- end link-text -->
