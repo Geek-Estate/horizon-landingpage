@@ -4,7 +4,7 @@ title: Share Horizon
 date: 2015-03-25
 author: Drew Meyers
 ---
-We'd love your help sharing Horizon with people and communities you believe can benefit from the simplest way to find trusted people by location:
+We'd love your help sharing Horizon with people and communities you believe Horizon would resonate well with:
 
 <strong>Example Tweet 1:</strong>
 
@@ -25,7 +25,8 @@ If you don't have an iOS device and interested/willing to host people who belong
 Would anyone in this group be interested in couchsurfing with other group members while traveling (or just meeting up for drinks/coffee)?
 
 I recently found Horizon which enables hospitality exchange inside any existing community, and this is one of the first Facebook communities they've turned on.
-<a href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8">https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8</a>
+
+App Store: <a href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8">https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8</a>
 
 If you don't have an iOS device: <a href="http://api.horizonapp.co">http://api.horizonapp.co</a> (currently accounts for host side only)
 
