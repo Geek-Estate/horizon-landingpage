@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Community Engagement Platform
+title: We Enable Your Members to Meet in Person
 date: 2014-08-16
 author: Drew Meyers
 ---
+It's impossible to meet other community members if you don't know where they are.
+
 Horizon allows members to find other trusted community members by location, with the option to host one another during members' travels. In return for accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
 Your community can use Horizon free of charge, but there are numerous benefits to upgrading to Enterprise:

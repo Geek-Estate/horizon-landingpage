@@ -16,6 +16,10 @@ Our mission is to increase access to travel opportunities by enabling shared hos
 
 In short, we’re the travel community that gives a damn about making the world a better place — and means it.
 
+## Spread the Word
+
+We'd love your help sharing Horizon with people and communities you believe it would resonate with. [Examples posts can be found here](/share/).
+
 ## Press
 
 Please send inquires to [press@horizonapp.co](mailto:press@horizonapp.co)
