@@ -30,7 +30,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
-**A:** By all means, donate in whatever way you prefer! We have paired charitable giving with In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting. You can see a sample profile with [co-founder Drew Meyers' impact here](http://www.horizonapp.co/drewmeyers).
+**A:** By all means, donate in whatever way you prefer! We have paired travel and charitable giving with Kiva. In the future, we plan to track your overall impact, which includes donations made traveling as well as those resulting from hosting.
 
 **Q: Why do I have to pay credit card processing fees?**
 
@@ -56,7 +56,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I want Horizon for my Facebook community. How do I enable that?**
 
-**A:** Share the app with other members, and get 20 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them.
+**A:** Share the app with other members, and get 15 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. [Examples social media posts can be found here](/share/).
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
@@ -64,9 +64,9 @@ Interested in additional features or analytics for your community? [Read up on o
 
 **A:** Couchsurfing or AirBnB. 
 
-Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](http://www.horizonapp.co/blog/couchsurfing-differences/).
+Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](/blog/couchsurfing-differences/).
 
-AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice.
+AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice. [Longer version](/blog/horizon-different-airbnb/)
 
 ### Product Specifics ###
 
