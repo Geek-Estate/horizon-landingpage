@@ -32,30 +32,4 @@ Simple. People that give a shit. About anything. About everything.
 
 Like Virtual Results and Zillow, and every other successful company, we’re building a “Give a Shit” culture at Horizon. If you fall in that bucket and love travel, join us in this next journey to broaden your <em>horizon</em> by signing up for the upcoming BETA.
 
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email to try the beta">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup-->
-
-<em>PS: The reason I read Dave's post at all? One of my co-founders, Eric, sent it to me while on vacation in Florida. Yea, I'd say the fact that he was thinking about this while on the beach with his wife...is a pretty good indicator he gives a shit.</em>
+<em>Update:</em> We're now on the app store.

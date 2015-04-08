@@ -12,5 +12,3 @@ Why do I mention this now? As a result of reading [Modern Nomads: Why the Smarte
 <iframe width="560" height="315" src="//www.youtube.com/embed/ynZZYlxqMW8" frameborder="0" allowfullscreen></iframe>
 
 Do you have a case of wanderlust?
-
-<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>

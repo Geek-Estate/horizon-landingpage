@@ -14,5 +14,3 @@ Couchsurfing is a single global hospitality exchange network ([the largest, but 
 If you are an active member of the Couchsurfing community, you largely trust other couchsurfers. If you're not a member of Couchsurfing (the vast majority of the world), you likely don't. That said, you do trust friends, and friends of friends in some cases. You trust others in professional associations, service organizations, and alumni groups to which you belong. We put you in control over which people and communities you are willing to host.
 
 If you really think about it, everyone on the planet (that travels) couchsurfs. Most just happen to stay with trusted individuals rather than strangers. Horizon enables those you trust to discover the fact you are interested in accommodating them next time they pass through town, book a stay, and say thanks by [donating back to their favorite charity](http://www.horizonapp.co/blog/travel-by-giving/).
-
-<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>

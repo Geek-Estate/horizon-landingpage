@@ -40,33 +40,7 @@ That said, the vast majority of the world is not a member of the Couchsurfing co
 
 We believe millions of travel opportunities can be unlocked by lowering accommodation costs through increasing hospitality exchange among the communities they already belong to, enabling a broader pool of people to experience the vast world we live in with their own two eyes. I've already written about the [challenges hospitality exchanges have faced historically](http://www.horizonapp.co/blog/hospitality-networks-failed/), and why we think [Horizon is poised to succeed where so many failed](http://www.horizonapp.co/blog/horizon-approach-hospitality-exchange/). 
 
-Do you believe what I believe? If so, we'd love you to join us.
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup--> 
+Do you believe what I believe?
 
 <em>1: For those who haven't seen it, you can watch the whole Bill and Melinda Ted video below:</em>
 

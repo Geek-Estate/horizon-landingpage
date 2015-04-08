@@ -40,31 +40,3 @@ It's my firm belief <em>community</em> is the only thing that changes people's b
 This is not an either or scenario. There can, should, and will be multiple strategies to grow the pool of students who study abroad. But all of them come back to building community.
 
 [Horizon](http://www.horizonapp.co/how-it-works) is just one tool in the quiver. Of course, it goes without saying I think it's a pretty damn good one.
-
-If you agree, we'd love you to join our beta...
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup--> 

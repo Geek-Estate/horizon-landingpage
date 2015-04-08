@@ -41,30 +41,4 @@ It's government money, so there is bureacracy related to getting the money reimb
 
 For those with an early stage company (or even idea), willing to pack up your life, and fly halfway across the world for $35k - I highly recommend you [apply to the program](http://www.startupchile.org/application-process-not-open-yet/). Feel free to [Tweet](http://www.twitter.com/drewmeyers/) or email me (drew at horizonapp dot co) with any specific questions.
 
-Do you believe [unlocking travel opportunities matters](http://www.horizonapp.co/blog/why-increasing-global-travel-opportunities-matters/)? If so, we'd love you to join our beta...
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup--> 
+Do you believe [unlocking travel opportunities matters](http://www.horizonapp.co/blog/why-increasing-global-travel-opportunities-matters/)?
