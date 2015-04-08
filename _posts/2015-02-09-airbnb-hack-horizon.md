@@ -17,31 +17,4 @@ My primary search criteria is an interesting host profile. Price is a considerat
 
 My stay with the Morris' was by far my best AirBnB experience. It had nothing to do with the specifics of accommodations, and everything to do with the connection with the people. We built Horizon for those who place more importance on the connection and friendship, than on details of accommodation.
 
-Do you hack AirBnB the same way I do? If so, we'd love to have you as part of our beta...
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="BlogPost" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup--> 
-
+Do you hack AirBnB the same way I do?

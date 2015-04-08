@@ -91,5 +91,3 @@ In hindsight, I'm glad no one gave us money to build this product as we've since
 Think "Push" would work? Want to build it? Between <a href="https://github.com/cloudspace/iOS-EasyReader">Cloudspace's iOS EasyReader</a> (RSS reader) and <a href="https://github.com/oh-hey-world/ohheyworld-platform">Oh Hey World</a> (location sharing + member directories), you should have all the open source code you need to be on your merry way.
 
 Merry Coding!
-
-<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>

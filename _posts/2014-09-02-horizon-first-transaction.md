@@ -35,29 +35,3 @@ Kiva received a total donation $129.97, of which headquarters received $29.97 to
 Cheap accommodation, money to grow 4 businesses, supporting a great cause (Kiva), new friendships, and critical translation help -- a win-win, all the way around. 
 
 Interested in providing accommodation to others to raise money for charity, aka "[Travel by Giving](http://www.horizonapp.co/blog/travel-by-giving/)"? We'd love to speak with you...
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-  
-<div class="mc-field-group">
-  <div class="grid grid--tight">
-    <div class="grid__item one-whole desk-two-thirds">
-      <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email...">
-    </div>
-    <div class="grid__item one-whole desk-one-third">
-      <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-      <input type="hidden" name="FILTER" id="FILTER" value="TravelbyGiving" />
-    </div>
-  </div><!-- end grid -->
-</div>
-<div id="mce-responses" class="clear">
- <div class="response" id="mce-error-response" style="display:none"></div>
- <div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
- <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-    
-</form>
-</div>
-  
- <!--End mc_embed_signup--> 

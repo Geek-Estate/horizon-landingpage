@@ -35,5 +35,3 @@ The grind has included working on the following concepts in some capacity (many 
 It took us 2+ years to learn the ins and outs of the travel industry, but feel we've finally figured out the right product and go to market strategy: facilitating private hospitality exchange networks among existing trusted communities (service & religious orgs, alumni associations, fraternities/sororities, etc). We've proved revenue viability on a flat service fee + optional donation model, and [raised over $550 for Kiva using our house in Santiago as a test](http://www.horizonapp.co/drewmeyers/).
 
 What has your grind consisted of?
-
-<p align="center"><em><a href="https://twitter.com/gethorizonapp">Follow us on Twitter</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=horizonapp/GCAe">subscribe to future posts via email</a>.</em></p>
