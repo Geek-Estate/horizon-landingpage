@@ -22,11 +22,3 @@ Hosting Gary altered my perspective. His stay reminded me of why I loved Colorad
 Following his month vacation to the states, Gary told me Colorado was his favorite place, topping even NYC and Las Vegas. To make it even sweeter, we took Gary up on his offer and my wife and I stayed with him for a week in Cape Town and had an equally specialized local experience. 
 
 So there you have it. You don’t always have to leave home to travel. Hosting brings the world to you, and allows you to be the representative of your own culture, language, and customs. It generates relationships that build your global connectivity and you never know what can come from it! Traveling is a two-way street. You are either the host or the visitor, and with the Horizon community, you can travel all year round.
-
-Ready to try it? Download using your iPhone/iPad: 
-
-<a href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8" class="btn btn--full">Get the App</a>
-
-No iPhone/iPad? Try the web app:
-
-<a href="http://api.horizonapp.co" class="btn btn--full">Login</a>
