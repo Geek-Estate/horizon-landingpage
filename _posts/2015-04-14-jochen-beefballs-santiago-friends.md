@@ -5,7 +5,7 @@ date: 2015-04-14
 categories: blog
 author: Drew Meyers
 ---
-Jochen from [LetsMake](http://letsmake.com) is a fellow member of Start-Up Chile generation 10. He arrived from San Francisco several weeks late due to having to finish another accelerator, [Tumml](https://angel.co/tumml), and crashed with us for two strints covering a total of 7 weeks.
+Jochen from [LetsMake](http://letsmake.com) is a fellow member of Start-Up Chile generation 10. He arrived from San Francisco several weeks late due to having to finish another accelerator, [Tumml](https://angel.co/tumml), and crashed with us for two stints covering a total of 7 weeks.
 
 <p align="center"><img src="/assets/blog-jochen-solopuc.jpg"></p>
 
@@ -15,8 +15,8 @@ Every member of our community in Santiago made an appearance at [La Mesa Verde](
 
 <p align="center"><img src="/assets/blog-jochen-crewatbeach-chile.jpg"></p>
 
-Over the course of our time living (and traveling) together, we grew to love him for five primary things: "Selfie Time" (he has since purchased a true selfie stick, so is really trouble now), his amazing potato salad, his beef balls (he is one of the owners of [Berlin Beef Balls](https://www.facebook.com/bouletten)), "Maurice" the television star (in a prior life, he was the host of a German television show and went by the name of Maurice Senegal), and his near perfect command of the English language which was littered with pop culture references and off-color jokes (this use of language was even better when it *wasn't* perfect and his native German shined through). From September until December, we kept hearing about his famous beef balls in Berlin. But we never experienced them for ourselves. Finally, in Uruguay over Christmas, Jochen made us all his famous Beef Balls. They were fabulously delicious.
+Over the course of our time living (and traveling) together, we grew to love him for five primary things: "Selfie Time" (he has since purchased a true selfie stick, so is really trouble now), his amazing potato salad, his beef balls (one of owners of [Berlin Beef Balls](https://www.facebook.com/bouletten)), "Maurice" the television star (in a prior life, he was the host of a German television show and went by the name of Maurice Senegal), and his near perfect command of the English language which was littered with pop culture references and off-color jokes (this use of language was even better when it *wasn't* perfect and his native German shined through). From September until December, we kept hearing about his famous beef balls in Berlin. But we never experienced them for ourselves. Finally, in Uruguay over Christmas, Jochen made us all his famous Beef Balls. They were fabulously delicious.
 
 <p align="center"><img src="/assets/blog-jochen-beefballs.jpg"></p>
 
-Will and I initially met Jochen because he needed a roof over his head; we now are extremely close friends. Thank you Jochen, for both your friendship and your support of Horizon (and Kiva by way of your donations) -- and, for finally showing us the beef ball magic.
+Will and I initially met Jochen because he needed a roof over his head; we now are extremely close friends. Thank you Jochen, for both your friendship and your support of Horizon (and Kiva by way of your donations) -- and, for finally showing us beef ball magic.
