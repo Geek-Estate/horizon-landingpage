@@ -8,7 +8,7 @@ author: Drew Meyers
 
 In 2005, MyBlogLog was the first real "community" platform that I can remember existing. Of course, blog communities existed prior to MyBlogLog, primarily in blog comments. But if you didn't leave comments, no one knew about your existence (everyone knows most people don't contribute content). MBL brought transparency to the faces of those reading specific blogs.
 
-<p align="center"><img src="/assets/colophon-mybloglog.jpg"></p>
+<p align="center"><img src="http://www.horizonapp.co//assets/colophon-mybloglog.jpg"></p>
 
 Those who knew me back in 2006, remember [I was a massive supporter of MyBlogLog](http://www.drewmeyersinsights.com/2006/11/20/if-i-were-the-ceo-of-mybloglog-this-would-be-my-strategy/). In fact, I was [actually an official advisor back in the day](http://whoisandrewwee.com/blogging/whoisandrewweecom-inducted-into-mybloglog-advisors-and-the-social-inner-circle/).
 
