@@ -11,7 +11,7 @@ Fortunately, you're not entirely out of luck. Today, we shipped [version 1.2 to 
 
 From the groups screen, you'll see a new "Add a Group" call to action:
 
-<p align="center"><img src="/assets/blog-add-group-ios.PNG"></p>
+<p align="center"><img src="/assets/blog-add-group-screen.PNG"></p>
 
 <em>Note:</em> In [our web app](https://api.horizonapp.co/), you'll see a similar option on the [groups page](https://api.horizonapp.co/groups).
 
