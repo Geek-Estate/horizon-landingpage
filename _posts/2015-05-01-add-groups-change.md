@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Way to Join Horizon Communities: Unlock Codes
+title: A New Way to Join Horizon Communities - Unlock Codes
 date: 2015-05-01
 categories: blog
 author: Drew Meyers
