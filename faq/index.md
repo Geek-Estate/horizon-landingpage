@@ -10,7 +10,7 @@ author: Drew Meyers
 
 **Q: How does it work?**
 
-**A:** Login with your Facebook account, then indicate the groups whose members you are interested in connecting with in person. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and shared groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
+**A:** Login with your Facebook account, then join groups whose members you are interested in connecting with in person using group unlock codes. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
 
 **Q: What's with the name?**
  
@@ -44,7 +44,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: What is a community?**
 
-**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or groups which users are affiliated with such as a fraternity or university alumni association.
+**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or group which users are affiliated with such as a fraternity or university alumni association.
 
 **Q: What type of communities is Horizon for?**
 
@@ -52,11 +52,11 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Which communities are available?**
 
-**A:** Communities are currently tied to Facebook groups. Beyond the "Horizon Public" group which anyone can join, the only communities that show up inside Horizon are ones we've specifically made visible.
+**A:** Beyond the "Horizon Public" group which anyone can join, the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
 
-**Q: I want Horizon for my Facebook community. How do I enable that?**
+**Q: I want Horizon for my community. How do I enable that?**
 
-**A:** Share the app with other members, and get 15 people from the Facebook group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. [Examples social media posts can be found here](/share/).
+**A:** Ask. Share the app with other members, and get 10 people from the group to sign up and indicate their interest in having Horizon's hospitality exchange offering available to them. [Example social media posts can be found here](/share/).
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
@@ -72,7 +72,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: I don't want to login with a Facebook account - what are my options?**
 
-**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends, friends of friends, and common group members. We understand that users have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
+**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends and friends of friends. We understand that users have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
 
 **Q: How are the counts of cities and countries on my home screen calculated?**
 
@@ -96,7 +96,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: I notice I can email people directly from the app - can they also email me?**
 
-**A:** Any person that can see you in the app, can email you. If you don't want members of specific groups to have the ability to contact you, de-select those groups in your group visibility settings. Horizon Public is a public group anyone using Horizon can enable, all other groups are based upon membership in specific Facebook groups. Over time, we will build in-app messaging and put additional privacy controls in place.
+**A:** Any person that can see you in the app, can email you. If you don't want members of specific groups to have the ability to contact you, de-select those groups in your group visibility settings. Horizon Public is a public group anyone using Horizon can enable, all other groups are based upon membership in specific Facebook groups. In-app messaging is on the way, and additional privacy controls are planned.
 
 ### Charities ###
 
