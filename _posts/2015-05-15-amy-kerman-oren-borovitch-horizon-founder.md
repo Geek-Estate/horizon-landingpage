@@ -17,6 +17,6 @@ Here are a few thoughts from Amy...
 
 When the two random Canadians (Oren and his wife Melissa) came for drinks at [La Mesa Verde](http://www.horizonapp.co/blog/la-mesa-verde/) prior to a house party, little did we know it would change the future of our company. Amy, Oren, Melissa, Will, and I - along with many friends - partied together, with absolutely zero expectation of a future professional realtionship. Over the course of the night, I came to realize Oren had background in startups, and proceeded to tell him a little bit about what we'd been working on the past few years (Oh Hey World and now Horizon). Oren and I discussed the business over coffee a couple days later before his departure from Santiago, and kept trading emails about progress over the next few weeks while he traveled through Argentina and Colombia. He flew home to Toronto to tie up loose ends, but proceeded to get right back on a flight to Santiago (on his own dime) and spent all of December and January living and working with Will and I in Santiago. 
 
-The goal of his two months with us was to determine whether he was a good fit for our team. The fact that I'm writing this blog post toda proves the answer was yes. 
+The goal of his two months with us was to determine whether he was a good fit for our team. The fact that I'm writing this blog post today proves the answer was yes. 
 
 Thank you Amy, for your support as well as for leading us to an important member of the Horizon family.
