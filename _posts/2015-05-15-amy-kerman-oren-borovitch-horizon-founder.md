@@ -9,7 +9,7 @@ I've written about [our first paid customer](http://www.horizonapp.co/blog/horiz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWHTpAVp0v4" frameborder="0" allowfullscreen></iframe>
 
-Here's a few thoughts from Amy...
+Here are a few thoughts from Amy...
 
 > After working as a Product Manager at Intuit, Inc. for 4 years, I decided to take a sabbatical in 2014 to travel the world. 8 months into the trip, I landed in Santiago with plans to stay with Drew and Will (who I'd never officially met) as one of Horizon's first "customers". I'd stayed with friends of friends once before, while in Myanmar, and it had worked out great. It was on this visit that I introduced Drew and Will to Oren. I'd met him and his wife a couple weeks earlier in a hostel courtyard in San Pedro de Atacama, Chile. Our paths kept crossing as we made our way south, ultimately running into each other again on a walking tour of Santiago. The walking tour led to happy hour, which led to an impromptu dinner (and after-dinner house party) with Drew, Will and some friends. I'm thrilled that this chance encounter not only led to great friendships, but a growing professional relationship and it's a perfect representation of what Horizon stands for - bringing great, like-minded people together in a new place. 
 
