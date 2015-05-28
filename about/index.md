@@ -18,7 +18,7 @@ In short, we’re the travel community that gives a damn about making the world 
 
 ## Spread the Word
 
-We'd love your help sharing Horizon with people and communities you believe it would resonate with. [Examples posts can be found here](/share/).
+We'd love your help sharing Horizon with people and communities you believe it would resonate with. [Example social media posts can be found here](/share/).
 
 ## Press
 
