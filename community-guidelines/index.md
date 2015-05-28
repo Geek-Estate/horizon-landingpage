@@ -10,20 +10,20 @@ Want more? Here are a few of the dos and don'ts:
 
 ## Do (aka Good)
 
-Give a damn
-Encourage others
-Be helpful
-Stay relevant
-Be your true self
-<a href="http://en.wikipedia.org/wiki/Golden_Rule">Think Golden Rule</a>
-Report inappropriate behavior & content
+- Give a damn
+- Encourage others
+- Be helpful
+- Stay relevant
+- Be your true self
+- <a href="http://en.wikipedia.org/wiki/Golden_Rule">Think Golden Rule</a>
+- Report inappropriate behavior & content
 
 ## Don't (aka Bad)     
 
-Waste people’s time
-Spam
-Put people down - debate ideas, not people
-Share misinformation
+- Waste people’s time
+- Spam
+- Put people down - debate ideas, not people
+- Share misinformation
 
 ## Bottom Line   
 
