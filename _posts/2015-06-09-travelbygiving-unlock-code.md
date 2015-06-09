@@ -12,7 +12,7 @@ House gifts are great, but I think we all know none of us "need" traditional hou
 
 Horizon is all about bringing those with a shared passion, affinity, or experience together in the physical world. If [#travelbygiving](https://twitter.com/search?q=%23travelbygiving) resonates with you, you may join the community on Horizon using the following unlock code:
 
-> #travelbygiving2015
+> travelbygiving2015
 
 What does being a member mean?
 
@@ -28,4 +28,4 @@ Those who have done it, know there's something therapeutic about giving. There's
 
 <em>**Note 1:</em> There is a corresponding Facebook group to interact with each other: [https://www.facebook.com/groups/784762184921858/](https://www.facebook.com/groups/784762184921858/)
 
-<em>** Note 2:</em> We recently [shared a few other unlock codes](http://www.horizonapp.co/blog/group-codes-available/).
+<em>**Note 2:</em> We recently [shared a few other unlock codes](http://www.horizonapp.co/blog/group-codes-available/).
