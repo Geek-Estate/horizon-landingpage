@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #travelbygiving - For Those Who Seek to Make a Difference While Traveling
+title: Travel by Giving - For Those Who Seek to Make a Difference While Traveling
 date: 2015-06-09
 categories: blog
 author: Drew Meyers
