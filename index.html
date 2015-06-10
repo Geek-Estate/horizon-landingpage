@@ -194,6 +194,39 @@ title: Private Hospitality Exchange for Communities
     }
 
   }
+
+  .groups {
+    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+    -webkit-flex-wrap: wrap;
+   flex-wrap: wrap;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding: 3rem 0;
+  }
+
+  .groups h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .groups p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .group__logo {
+    padding: 0 1.5rem;
+    margin-bottom: 1.5rem;
+    width: 16.666666667%;
+    min-width: 10rem;
+  }
+
 </style>
 
 <div class="product-hunt">
@@ -227,7 +260,7 @@ title: Private Hospitality Exchange for Communities
 
 </div> <!-- end home section -->
 
-<div class="container--bg">
+<div class="container">
     <div class="grid grid--full">
 
       <div class="grid__item one-whole desk-three-fourths desk-show">
@@ -285,38 +318,28 @@ title: Private Hospitality Exchange for Communities
     </div><!-- end grid -->
 
   <div class="wrapper">
-    <div class="grid">
-      <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
-        
-        <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup" style="margin-bottom: 6rem; margin-top: 6rem;">
-          <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            
-          <div class="mc-field-group">
-            <div class="grid grid--tight">
-              <h3 class="text-center margin-b">Receive updates on Horizon’s progress</h3>
-              <div class="grid__item one-whole desk-two-thirds">
-                <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email…">
-              </div>
-              <div class="grid__item one-whole desk-one-third">
-                <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-                <input type="hidden" name="FILTER" id="FILTER" value="HomePage2" />
-              </div>
-            </div><!-- end grid -->
-          </div>
-          <div id="mce-responses" class="clear">
-           <div class="response" id="mce-error-response" style="display:none"></div>
-           <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-           <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-              
-          </form>
-          </div>
-            
-         <!--End mc_embed_signup--> 
+    <div class="groups">
+      <h3>Being Used By Members Of</h3>
+      <div class="group__logo"> 
+       <img src="/assets/start-up-chile-logo.png" alt="Startup Chile">
+      </div>      
+      <div class="group__logo"> 
+       <img src="/assets/kiva-logo.png" alt="Kiva">
+      </div>      
+      <div class="group__logo"> 
+       <img src="/assets/sig-ep-logo.jpg" alt="Sig Ep">
+      </div>      
+      <div class="group__logo"> 
+       <img src="/assets/hult-logo.png" alt="Hult">
       </div>
-
-    </div><!-- end grid -->
+      <div class="group__logo"> 
+       <img src="/assets/AIESEC-logo.png" alt="AIESEC">
+      </div>
+      <div class="group__logo"> 
+       <img src="/assets/npca-logo.jpg" alt="NPCA">
+      </div>
+      <p>To set up your group, <a href="info@horizonapp.co">email us</a>.</p>
+    </div><!-- end group -->
   </div><!-- end wrapper -->
 </div><!-- end container -->
 
