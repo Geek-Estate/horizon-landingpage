@@ -22,7 +22,7 @@ That said, we'll make it a bit easier by providing a few unlock codes for public
 - [Hospitality Club](http://www.hospitalityclub.org/): hc2015
 - [Product Hunt](http://www.producthunt.com): #ph2015
 - Seahawks 12: gohawks12
-- Travel by Giving: #travelbygiving2015
+- Travel by Giving: travelbygiving2015
 - [Travel Startups Intl](https://www.facebook.com/groups/travel.startups.intl/): travelstartups2015
 - [TrustRoots](https://www.trustroots.org/): trustroots
 - [Warm Showers](https://www.warmshowers.org/): warmshowers2015
