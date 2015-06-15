@@ -14,7 +14,7 @@ I recently came upon Horizon which enables hospitality exchange inside any exist
 
 App Store: <a href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8">https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8</a>
 
-If you don't have an iOS device: <a href="http://api.horizonapp.co">http://api.horizonapp.co</a> (currently accounts for host side only)
+If you don't have an iOS device: <a href="http://api.horizonapp.co">http://api.horizonapp.co</a>
 
 <em>**Note if you would like to create another group, please send an email to the team at info@horizonapp.co.</em>
 
