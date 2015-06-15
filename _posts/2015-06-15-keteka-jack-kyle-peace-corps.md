@@ -9,12 +9,12 @@ Jack Fishl and Kyle Wiggins are two travel founders from Generation 11 of Start-
 
 <p align="center"><img src="/assets/blog-keteka-nlogo.png"></p>
 
-I was originally introduced to Jack and Kyle by Start-Up Chile's director of acceleration, [Luke Ball](https://www.linkedin.com/pub/luke-ball/2a/a86/208), shortly after they arrived in Santiago as part of Generation 11 (we were Generation 10). As I mentioned before, [Start-Up Chile is a great program for founders in the travel vertical](http://www.horizonapp.co/blog/Start-Up-Chile-leading-travel-incubator-world/) - which is why Luke connected us. We didn't get to spend an immense amount of time together in Santiago, but like so many others we met, Jack and Kyle did make an appearance at [La Mesa Verde](http://www.horizonapp.co/blog/la-mesa-verde/) for an evening of food and drinks.
+I was originally introduced to Jack and Kyle by Start-Up Chile's director of acceleration, [Luke Ball](https://www.linkedin.com/pub/luke-ball/2a/a86/208), shortly after they arrived in Santiago as part of Generation 11 (we were Generation 10). As I mentioned before, [Start-Up Chile is a great program for founders in the travel vertical](http://www.horizonapp.co/blog/Start-Up-Chile-leading-travel-incubator-world/) - which is why Luke connected us.
 
 <p align="center"><img src="/assets/blog-keteka-founders.jpg"></p>
 <p align="center"><em>​The Keteka founders (Kyle Wiggins, Claudio Castor, and Jack Fischl)</em></p>
 
-One of the reasons I got along so well with them is they are both Returned Peace Corps Volunteers (RPCVs). I contemplated applying to the Peace Corps in 2005 after I graduated from University of Washington, and again several years ago following [my departure from Zillow](http://www.drewmeyersinsights.com/2010/01/26/its-time-for-the-next-chapter/). I didn't end up going down that path, instead deciding to travel on my own and then start a start-up (Oh Hey World / Horizon). That said, I have spoken to numerous RPCVs and have shared a common life value set (& addiciton to travel) with all of them.
+We didn't get to spend an immense amount of time together in Santiago, but like so many others we met, Jack and Kyle did make an appearance at [La Mesa Verde](http://www.horizonapp.co/blog/la-mesa-verde/) for an evening of food and drinks. One of the reasons I got along so well with them is they are both Returned Peace Corps Volunteers (RPCVs). I contemplated applying to the Peace Corps in 2005 after I graduated from University of Washington, and again several years ago following [my departure from Zillow](http://www.drewmeyersinsights.com/2010/01/26/its-time-for-the-next-chapter/). I didn't end up going down that path, instead deciding to travel on my own and then start a start-up (Oh Hey World / Horizon). That said, I have spoken to numerous RPCVs and have shared a common life value set (& addiciton to travel) with all of them.
 
 <p align="center"><img src="/assets/NPCA-logo_RGB_72dpi_lg.jpg"></p>
 
@@ -40,4 +40,4 @@ Have you stayed with or hosted other RPCVs during your travels?
 
 > I’ve stayed with PCVs/RPCVs many times while travelling, and have hosted many PCVs/RPCVs as well. In fact, when I backpacked from the south of Peru to the north of Colombia, I planned my trip around meeting up with and staying with PCVs. They were always extremely helpful and fun to hang out with. Piece of advice - if you’re staying with an active Peace Corps Volunteer, remember that they are extremely poor, so be sure to chip in on the groceries! Also, they appreciate even the smallest gift - it will make their day.
 
-<em>PS:</em> If you are a PCV or RPCV reading this and interested in utilizing Horizon on your travels, send us an email at info@horizonapp.co and we'll provide you the Peace Corps unlock code.
+<em>PS:</em> If you are a PCV or RPCV reading this and interested in utilizing Horizon on your travels, send us an email at [info@horizonapp.co](mailto:info@horizonapp.co) and we'll provide you the Peace Corps unlock code.
