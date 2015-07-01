@@ -9,7 +9,7 @@ A number of amazing people stayed at our humble Santiago abode, [La Mesa Verde](
 
 Ben and Kevin (left and center in photo below) stayed with us at our house in Santiago for about a week in early November (I haven’t met David (far right) as he never visited during my time in Chile). They were both incredibly easy going, amazing house guests and the type of guys you just can't help but to enjoy their company. We had quite a "gas bill" issue to resolve upon the end of our lease (it was Ben's name on all the paperwork), and they were amazing to deal with throughout that ordeal as well.
 
-<p align="center"><img src="/assets/blog-BureoTeam-300x167.jpg"></p>
+<p align="center"><img src="/assets/blog-bureo-team-large.jpeg"></p>
 
 Though there are many great companies that have gone through Start-Up Chile -- many of which we got a behind the scenes look at during our time in Santiago -- my favorite company of the bunch?
 
