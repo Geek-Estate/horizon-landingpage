@@ -7,7 +7,7 @@ author: Drew Meyers
 ---
 A number of amazing people stayed at our humble Santiago abode, [La Mesa Verde](http://www.horizonapp.co/blog/la-mesa-verde/). [Jochen](http://www.horizonapp.co/blog/jochen-beefballs-santiago-friends/), [Henry](http://www.horizonapp.co/blog/horizon-first-transaction/), and [Amy](http://www.horizonapp.co/blog/amy-kerman-oren-borovitch-horizon-founder/) are three. Two others were Ben Kneppers and Kevin Ahearn from [Bureo Skateboards](http://www.bureoskateboards.com/). In fact, they secured an extremely special place in the Horizon journey the minute they agreed to sublet their apartment to us. Without them, La Mesa Verde never would have been a "thing" (in our story), or the Wednesday tradition that bound our community together throughout our 6 months.
 
-Ben and Kevin (left and center in photo below) stayed with us at our house in Santiago for about a week in early November (I haven’t met David (far right) as he never visited during my time in Chile). They are both incredibly easy going, amazing house guests. We had quite a "gas bill" issue to resolve upon the end of our lease (it was Ben's name on all the paperwork), and they were amazing to deal with through that ordeal as well.
+Ben and Kevin (left and center in photo below) stayed with us at our house in Santiago for about a week in early November (I haven’t met David (far right) as he never visited during my time in Chile). They were both incredibly easy going, amazing house guests and the type of guys you just can't help but to enjoy their company. We had quite a "gas bill" issue to resolve upon the end of our lease (it was Ben's name on all the paperwork), and they were amazing to deal with throughout that ordeal as well.
 
 <p align="center"><img src="/assets/blog-BureoTeam-300x167.jpg"></p>
 
@@ -23,6 +23,8 @@ The name ‘Bureo’ comes from the language of the Mapuche, the native Chileans
 A short video...
 
 <iframe src="https://player.vimeo.com/video/91873997" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+How can you not like turning recycled fishing nets into skateboards? Stories don't get much better than that.
 
 They released a second video recently as well...
 
