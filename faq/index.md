@@ -76,9 +76,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: Why does clicking contact open an in-app message sometimes, and opens an email other times?**
 
-**A:** In-app messaging only works if both people have the newest version of the iOS app. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5). For those using the [web app](http://api.horizonapp.co) to find and contact others, you'll always be directed to email.
-
-We'll integrate in-app messaging into our web version as soon as Layer's technology is available for web applications.
+**A:** In-app messaging only works if both people have the newest version of the iOS app. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5). For those using the [web app](http://api.horizonapp.co) to find and contact others, you'll always be directed to email. We'll integrate in-app messaging into our web version as soon as Layer's technology is available for web applications.
 
 **Q: How are the counts of cities and countries calculated?**
 
@@ -99,10 +97,6 @@ We'll integrate in-app messaging into our web version as soon as Layer's technol
 **Q: How do I edit my profile?**
 
 **A:** The profile photo, name, and bio are all pulled from Facebook, with no edit capability. Your accommodation details is the only piece of information currently editable (via settings). We plan on making more of the profile customizable, but haven't prioritized that work yet.
-
-**Q: I notice I can email people directly from the app - can they also email me?**
-
-**A:** Any person that can see you in the app, can email you. If you don't want members of specific groups to have the ability to contact you, de-select those groups in your group visibility settings. Horizon Public is a public group anyone using Horizon can enable, all other groups are based upon gaining entry via a group unlock code. In-app messaging is on the way, and additional privacy controls are planned.
 
 ### Charities ###
 
