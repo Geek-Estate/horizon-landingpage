@@ -1,335 +1,43 @@
 ---
-layout: blank
+layout: default
 title: Peace Corps Hospitality Exchange
+date: 2015-08-10
+author: Drew Meyers
+image: peace-corps-cover.jpg
 ---
-
-<style>
-
-  .product-hunt {
-    color: #fff;
-    background-image: url('/product-hunt/img/ph-bg-3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100%;
-    .clearfix;
-  }
-
-    .product-hunt .mobile-menu-button {
-        color: #fff;
-    }
-
-
-  .wrapper--ph {
-      margin-top: 2rem;
-
-      position: absolute; /* Parent must have position: relative */
-      top: 50%;
-      left: 50%;
-
-      -webkit-transform: translate(-50%, -50%);
-      -moz-transform: translate(-50%, -50%);
-      -o-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-  .welcome--ph {
-    font-size: 1.72rem;
-    line-height: 1.2; 
-    font-weight: 700; 
-    letter-spacing: -2px;
-  }
-
-
-
-  @media only screen and (min-width: 700px) {
-    .product-hunt {
-      margin-bottom: -3rem;
-    }
-
-    .wrapper--ph {
-      margin: 0;
-      padding: 0;
-    }
-
-    .welcome--ph {
-      font-size: 3.55rem; 
-      margin-bottom: .5rem;
-    }
-    .info--ph {
-      font-size: 1.1rem;
-      margin-bottom: 3rem;
-    }
-
-  }
-
-  .install-btn {
-    display: block;
-    background-color: #00ccca;
-    color: #ffffff;
-    text-decoration: none;
-    text-align: center;
-    margin: 0 auto;
-    font-weight: 300;
-    font-size: 1.5em;
-    line-height: 1.5;
-    text-shadow: 0 1px 2px rgba(0,0,0,.1);
-
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
-
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-
-    width: 16rem;
-
-    margin-bottom: 3rem;
-  }
-
-  .install-btn:visited {
-    color: #fff;
-  }
-  .install-msg, .download-msg {
-      background-color: rgba(0,0,0,.35);
-      line-height: 1.25;
-      display: none;
-  }
-
-  .download-msg {
-    font-size: 1rem;
-    padding: ;
-  }
-
-  .install-linktext {
-    display: none;
-  }
-
-  .input-text-link {
-      border: 1px solid rgba(255,255,255,.75);
-      background: rgba(255,255,255,.3);
-      width: 20rem;
-      height: 3rem;
-      color: #fff;
-  }
-
-  .input-text-link::-webkit-input-placeholder {
-      color: #fff;
-      font-weight: 300;
-  }
-
-  .input-text-link:-moz-placeholder { /* Firefox 18- */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link::-moz-placeholder {  /* Firefox 19+ */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link:-ms-input-placeholder {  
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .screen-info {
-    background: #000;
-    height: 0;
-    padding-top: 24%;
-    padding-bottom: 35.17%;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    color: #fff;
-    text-align: center;
-    font-weight: 100;
-    font-size: 2rem;
-    line-height: 1.25;
-  }
-    .screen-info--1 {
-      background-color: #555;
-      background-image: url('/product-hunt/img/screen-bg-1.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--2 {
-      background-color: #444;
-      background-image: url('/product-hunt/img/screen-bg-2.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--3 {
-      background-color: #333;
-      background-image: url('/product-hunt/img/screen-bg-3.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--4 {
-      background-color: #222;
-      background-image: url('/product-hunt/img/screen-bg-4.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--5 {
-      background-color: #111;
-      background-image: url('/product-hunt/img/screen-bg-5.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-  .screen-image {
-    display: block;
-    width: 80%;
-    margin: 0 auto;
-    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-  }
-
-  @media only screen and (min-width: 700px) {
-    .screen-image {
-      margin: 0;
-      box-shadow: none;
-      width: 100%;
-    }
-
-  }
-</style>
-
-<div class="product-hunt">
-
-  <header class="site-header">
-
+<div class="page-cover" style="margin-bottom: 0;">
+  <div class="post__cover">
+    <img src="/assets/{{ page.image }}" alt="{{ page.title }}">
+  </div>
     <div class="wrapper">
-      <div class="grid">
-        <div class="grid__item one-half desk-one-fifth">
-          <h1 class="logo"><a href="/"><img src="/assets/logo-white.png" alt="Horizon"></a></h1>
-        </div>
-        <div class="grid__item one-half">
-          <a class="mobile-menu-button desk-hide"><span class="hidden">Menu</span></a>
-        </div>
-      </div><!-- end grid -->
+        <div class="grid">
+            <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
+                <h1 class="post__title margin-0">Peace Corps + Horizon</h1>
+                <h2 class="center-text">Global Hospitality Network</h2>
+                    <div class="post__content" style="margin: 3rem 0 6rem 0;">
+                        <p>Find Peace Corp members all over the world with Horizon. Horizon uses groups and mutual friends to help you find people and places to stay while traveling. <a href="/">Learn more…</a></p>
+                    </div><!-- end post content -->
+
+            </div><!-- end grid item -->
+        </div><!-- end grid -->
     </div><!-- end wrapper -->
 
-  </header>
-
-  <div class="wrapper wrapper--ph">
-    <div class="grid grid--padded">
-      <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
-        <h1 class="welcome--ph">Welcome Peace Corps Volunteers!</h1>
-        <p class="info--ph">Horizon uses mutual friends and groups you belong to help you find people and places to stay. To find other Peace Corps volunteers, please contact your Peace Corps administrator for an unlock code or <a href="mailto:info@horizonapp.co">email us</a> a link to your LinkedIn. Not a Peace Corps volunteer, but want to be one? Use the group unlock code "futurepc" to join the Future Peace Corps Volunteers community</p>
-        <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
-         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
-         <div>No iPhone? <a href="https://api.horizonapp.co/">Start hosting guests</a>.</div>
-      </div>
-    </div>
-  </div><!-- end wrapper-ph -->
-
-</div> <!-- end home section -->
-
-<div class="container--bg">
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--1"><span>Search cities and countries for people connected to you</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Search cities and countries for people connected to you</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-grid.jpg" alt="">
-      </div> 
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Ask for a place to crash on your next trip</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-casey.jpg" alt="">
-      </div>   
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--2"><span>Ask for a place to crash on your next trip</span></div>
-      </div>  
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--3"><span>Choose the groups you trust</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Choose the groups you trust</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-groups.jpg" alt="">
-      </div>
- 
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Select the accommodations you can offer guests</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-settings.jpg" alt="">
-      </div>  
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--4"><span>Select the accommodations you can offer guests</span></div>
-      </div> 
-    </div><!-- end grid -->
-
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--5"><span>Raise money for charities</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Raise money for charities</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-donate.jpg" alt="">
-      </div>  
-
-    </div><!-- end grid -->
-
-  <div class="wrapper">
-    <div class="grid">
-      <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
-        
-        <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup" style="margin-bottom: 6rem; margin-top: 6rem;">
-          <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            
-          <div class="mc-field-group">
-            <div class="grid grid--tight">
-              <h3 class="text-center margin-b">Receive updates on Horizon’s progress</h3>
-              <div class="grid__item one-whole desk-two-thirds">
-                <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email…">
-              </div>
-              <div class="grid__item one-whole desk-one-third">
-                <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-                <input type="hidden" name="FILTER" id="FILTER" value="peacecorps" />
-              </div>
+    <div class="container container--bg">
+        <div class="wrapper">
+            <div class="grid grid--padded">
+                <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth"> 
+                    <div class="center-text">
+                        <a href="mailto:drew@horizonapp.co?subject=Unlock Peace Corps on Horizon" class="btn btn--full">Get the Peace Corps Unlock Code</a>
+                         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; and &mdash;</div>
+                         <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
+                        <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
+                        <div>No iPhone? <a href="https://api.horizonapp.co/">Try the web app</a>.</div>    
+                    </div>
+                     
+                     
+                 </div><!-- end grid item -->
             </div><!-- end grid -->
-          </div>
-          <div id="mce-responses" class="clear">
-           <div class="response" id="mce-error-response" style="display:none"></div>
-           <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-           <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-              
-          </form>
-          </div>
-            
-         <!--End mc_embed_signup--> 
-      </div>
+        </div><!-- end wrapper -->
+    </div><!-- end container -->        
 
-    </div><!-- end grid -->
-  </div><!-- end wrapper -->
-</div><!-- end container -->
-
-
-<!-- Mobile Detection & Link Texting -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-      <script type="text/javascript" src="//d3q6uu7asevdsg.cloudfront.net/1.2/js/link_texting.min.js"></script>
-      <script>
-      var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
-      if (!iOS) {
-          $('.js-install-btn').css('display','none');
-          $('.install-linktext').css('display', 'block');
-          }
-      </script>
-
-{% include footer.html %}
+</div><!-- end page -->
