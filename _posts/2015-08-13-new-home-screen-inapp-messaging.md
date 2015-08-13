@@ -9,7 +9,7 @@ Since [releasing our iOS app in March](http://www.horizonapp.co/blog/horizon-app
 
 There are two main changes in our newest release: a redesigned interface to browse cities and countries and an in-app messaging system.
 
-We’ve completely redesigned how you look for cities and countries. It‘s now even easier to find a city to visit and hosts to stay with. Upon opening the app, scroll down until you find a city that catches your interest, or search for a specific city or country by clicking the seach box at the top of the screen.
+We’ve completely redesigned how you look for cities and countries. It‘s now even easier to find a city to visit and hosts to stay with. Upon opening the app, scroll down until you find a city that catches your interest, or search for a specific city or country by clicking the search box at the top of the screen.
 
 <p align="center"><img src="/assets/new-home-mockup.jpg"></p>
 
