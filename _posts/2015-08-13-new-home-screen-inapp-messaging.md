@@ -17,7 +17,7 @@ We’ve completely redesigned how you look for cities and countries. It‘s now 
 
 We've received lots of feedback about our lack of in-app messaging. Previously, clicking the contact button from profile view opened an email message. There are two primary downsides to email: privacy and formality. We've addressed those with the ability to have conversations with others directly inside Horizon, and not spill out to your inbox (unless you want it to).
 
-<p align="center"><img src="/assets/blog-version1-5-inapp-messaging.png"></p>
+<p align="center"><img src="/assets/chat-snippet.jpg"></p>
 
 Note: In-app messaging only works if both people have the newest version of the iOS app. If you see "Email Jack" on a profile, it means that either Jack has only previously logged into the web app, or has not upgraded to the latest release (version 1.5). For those using the [web app](http://api.horizonapp.co), you'll still be using email (for now).
 
