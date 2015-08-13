@@ -11,13 +11,13 @@ There are two main changes in our latest version (1.5) now on the App Store: a r
 
 We’ve completely redesigned how you browse cities and countries. It‘s now even easier to find where you can travel to in which you have a potential host to stay with all across the globe. Upon opening the app, scroll down until you find a city that catches your interest, or search for a specific city or country by clicking the seach box at the top of the screen.
 
-[screen shot of new home screen]
+<p align="center"><img src="/assets/blog-version1-5-home-screen.PNG"></p>
 
 <em>*PS: Have a high res photo of your home city that you'd allow us to use to showcase your city (either where you live, or a city you've visited)? Please send it via email to [info@horizonapp.co](mailto:info@horizonapp.co).</em>
 
 We've received lots of feedback about (our lack of) in-app messaging. Previously, clicking the contact button from profile view opened an email message. There are two primary downsides to email: privacy and formality. We've addressed those with the ability to have conversations with others directly inside Horizon, and not spill out to your inbox (unless you want it to).
 
-[screen shot of message dialogue]
+<p align="center"><img src="/assets/blog-version1-5-inapp-messaging.png"></p>
 
 Note: In-app messaging only works if both people have the newest version of the iOS app. If you see "Email Jack" on a profile, it means that either "Jack" has only previously logged into the web app, or has not upgraded to the latest release (version 1.5). For those using the [web app](http://api.horizonapp.co) to find and contact others, you'll always be directed to email. We'll integrate in-app messaging into our web version as soon as Layer's technology is [available for web applications](http://blog.layer.com/announcing-early-access-layer-for-web/) (if you know anyone on their team, please tell them to hurry!).
 
