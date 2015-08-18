@@ -4,6 +4,7 @@ title: An Added Incentive for Members of SigEp to Connect - $100, or $1,000 for 
 date: 2015-08-15
 categories: blog
 author: Drew Meyers
+image: sig-ep-cover.jpg
 ---
 Since [releasing our iOS app in March](http://www.horizonapp.co/blog/horizon-app-store-release/), we've been focused on a few core communities -- [Sigma Phi Epsilon](/sigma-phi-epsilon/) (aka SigEp), which I am a proud member of (WA Beta class of 2002), is one of them. Every two years, Sigma Phi Epsilon hosts the largest national gathering of its members across the nation, the [Grand Chapter Conclave](http://www.sigep.org/conclave2015/). Grand Chapter Conclave was this past week in Nashville, Tennessee. 1,500 undergraduates and alumni from around the country celebrated brotherhood, and delegates considered new legislation and changes to its bylaws that will determine how the Fraternity operates. No doubt, many great connections were made.
 
