@@ -18,7 +18,7 @@ author: Drew Meyers
 
 <h4 class="epsilon">Controllers of Personal Information</h4>
 
-<p>Any personal information provided to or to be gathered by ohheyworld is controlled primarily by Oh Hey World, Inc., 220 2nd Ave S, Suite 410, Seattle, WA 98104.</p>
+<p>Any personal information provided to or to be gathered by ohheyworld is controlled primarily by Oh Hey World, Inc., 220 2nd Ave S, # 410, Seattle, WA 98104.</p>
 
 <p>DEFINITIONS</P>
 
