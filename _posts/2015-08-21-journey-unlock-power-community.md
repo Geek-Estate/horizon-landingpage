@@ -10,4 +10,6 @@ We’re now 3 years into the journey to unlock the hidden power of community. We
 
 <p align="center"><img src="/assets/new-home-mockup.jpg"></p>
 
-I published a summary of the state of the product and business after working on the concept for roughly 18 months (6 of those with [a version on the App Store](https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8)) over [on LinkedIn](https://www.linkedin.com/pulse/18-months-our-2nd-journey-unlock-power-community-drew-meyers) as well as [on Medium](https://medium.com/@drewmeyers/18-months-into-our-2nd-journey-to-unlock-the-power-of-community-d1b46193ea75). Have a read if you're curious as to what's worked, what hasn't, and where we're headed in the future. Thanks for your continued support.
+I published a summary of the state of the product and business after working on the concept for roughly 18 months (6 of those with [a version on the App Store](https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8)) over [on LinkedIn](https://www.linkedin.com/pulse/18-months-our-2nd-journey-unlock-power-community-drew-meyers) as well as [on Medium](https://medium.com/@drewmeyers/18-months-into-our-2nd-journey-to-unlock-the-power-of-community-d1b46193ea75). Have a read if you're curious as to what's worked, what hasn't, and where we're headed in the future. 
+
+Thanks for your continued support.
