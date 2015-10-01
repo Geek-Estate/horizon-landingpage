@@ -32,7 +32,7 @@ Discover trusted people to stay w/ via trusted friends & #community w/ @gethoriz
 
 <strong>Example Tweet 2:</strong>
 
-@gethorizonapp = couchsurfing/airbnb with friends, friends of friends, and communities http://www.horizonapp.co #travelbygiving
+couchsurfing/airbnb with friends, friends of friends, and communities = @gethorizonapp http://www.horizonapp.co #travelbygiving
 
 <strong>Download</strong>
 
