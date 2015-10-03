@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 18 Months into Our 2nd Journey to Unlock the Power of Community
-date: 2015-08-21
+date: 2015-09-21
 categories: blog
 author: Drew Meyers
 image: 2014-08-04-upside-partnership-cover.jpg
