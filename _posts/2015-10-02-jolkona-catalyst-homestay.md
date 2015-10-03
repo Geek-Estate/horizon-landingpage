@@ -11,17 +11,16 @@ author: Drew Meyers
 
 Part of the program involves a homestay with a local member of the Seattle community. These social leaders are dedicated and engaged students and professionals between the ages of 22 and 35, and are all eager to stay with local hosts and experience Seattle culture. They are all self-sufficient. During their stay, they will be busy Monday through Friday from 8:30am – 5pm. There are a select number of evenings with an activity but, for the most part, evenings and weekends they are on their own.
 
-## Jolkona needs your help to place 9 folks.
+## Jolkona needs your help to place 9 social leaders
 
 One-week stay – October 24 – October 31: 1 woman
 
 Three-week stay: October 24 – November 13: 8 guys
 
-## What's are the requirements?
+## What are the requirements?
 
 - Hosts need to have room with a bed, and be within walking distance to public transportation (entrepreneurs will have an ORCA card for their commuting needs)
 - Provide food for breakfast and dinner (you'll receive a stipend to the host family to cover expenses incurred while hosting)
-The entrepreneurs have a full schedule and will spend much of their free time working on their projects or attending workshops
 - A willingness to open your home to an amazing social leader working to change the world
 
 ## What's unique about the opportunity?
