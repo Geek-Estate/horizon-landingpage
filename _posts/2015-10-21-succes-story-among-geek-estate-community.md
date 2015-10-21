@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Success Story Among the Geek Estate Community: Melissa Kwan & Bryan Copley
+title: A Success Story Among the Geek Estate Community - Melissa Kwan & Bryan Copley
 date: 2015-10-21
 categories: blog
 author: Drew Meyers
