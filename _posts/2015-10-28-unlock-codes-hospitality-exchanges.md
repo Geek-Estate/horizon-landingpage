@@ -22,6 +22,6 @@ Below are the unlock codes for groups for hospitality exchanges currently availa
 - [Servas](http://www.servas.org/): servas (note there is a separate code for verified members)
 - [TrustRoots](https://www.trustroots.org/): trustroots
 - [Warm Showers](https://www.warmshowers.org/): warmshowers2015
-- [Workaway](https://www.workaway.info/):: workaway
+- [Workaway](https://www.workaway.info/): workaway
 
 Are there other hospitality exchanges you'd like to exist on Horizon? Email us at [info@horizonapp.co](mailto:info@horizonapp.co) with your requests.
