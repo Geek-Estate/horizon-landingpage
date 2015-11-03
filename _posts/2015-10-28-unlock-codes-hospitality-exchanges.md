@@ -19,6 +19,7 @@ Below are the unlock codes for groups for hospitality exchanges currently availa
 - [Couchsurfing](http://www.couchsurfing.com/): couchsurfing
 - [Helpx](https://www.helpx.net/): helpx
 - [Hospitality Club](http://www.hospitalityclub.org/): hc2015
+- [Indie Couch](https://ludicious.indiecouch.org/): indiecouchinsider
 - [Servas](http://www.servas.org/): servas (note there is a separate code for verified members)
 - [TrustRoots](https://www.trustroots.org/): trustroots
 - [Warm Showers](https://www.warmshowers.org/): warmshowers2015
