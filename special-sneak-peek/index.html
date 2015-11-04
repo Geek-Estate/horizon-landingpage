@@ -1,7 +1,7 @@
 ---
 layout: blank
+title: Horizon - Special Sneak Peek
 ---
-<link rel="stylesheet" href="//d3q6uu7asevdsg.cloudfront.net/1.2/css/link_texting.min.css">
 <style>
 
   .product-hunt {
@@ -18,25 +18,10 @@ layout: blank
         color: #fff;
     }
 
-  .welcome--ph {
-    font-size: 2rem;
-    line-height: 1.2; 
-    font-weight: 900; 
-    letter-spacing: -2px;
-  }
 
-  @media only screen and (min-width: 700px) {
-    .product-hunt {
-      margin-bottom: -3rem;
-    }
-    .welcome--ph {
-      font-size: 3.7rem; 
-    }
-    .info--ph {
-      font-size: 1.1rem;
-      margin-bottom: 6rem;
-    }
-    .wrapper--ph {
+  .wrapper--ph {
+      margin-top: 1.5rem;
+
       position: absolute; /* Parent must have position: relative */
       top: 50%;
       left: 50%;
@@ -47,6 +32,35 @@ layout: blank
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
     }
+
+  .welcome--ph {
+    font-size: 1.72rem;
+    line-height: 1.2; 
+    font-weight: 700; 
+    letter-spacing: -2px;
+  }
+
+
+
+  @media only screen and (min-width: 700px) {
+    .product-hunt {
+      margin-bottom: -3rem;
+    }
+
+    .wrapper--ph {
+      padding: 0;
+      margin: 0;
+    }
+
+    .welcome--ph {
+      font-size: 3.55rem; 
+      margin-bottom: .5rem;
+    }
+    .info--ph {
+      font-size: 1.1rem;
+      margin-bottom: 3rem;
+    }
+
   }
 
   .install-btn {
@@ -179,6 +193,45 @@ layout: blank
     }
 
   }
+
+  .groups {
+    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding: 3rem 0;
+  }
+
+  .groups h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .groups p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .group__logo {
+    padding: 0 1.5rem;
+    margin-bottom: 1.5rem;
+    width: 50%;
+  }
+
+  @media only screen and (min-width: 700px) {
+    .group__logo {
+      width: 16.666666667%;
+    }
+  }
+
 </style>
 
 <div class="product-hunt">
@@ -203,27 +256,16 @@ layout: blank
       <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
         <h1 class="welcome--ph">Welcome Early Supporters!</h1>
         <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay. Please help by letting us know about <a href="mailto:support@horizonapp.co">bugs and sharing feedback</a>.</p>
-        <a class="js-install-btn" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon - Travel and stay with people you trust - Oh Hey World Inc"></a>
-
-        <div class="install-linktext">
-
-            <div class="linkTexting_oq3j39q0">
-              <div class="linkTextingInner_oq3j39q0" style="width: 100%">
-                <input class="linkTextingInput_oq3j39q0 input-text-link" type="tel" id="numberToText_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8"></input>
-                <button style="background-color: #00ccca; color: #ffffff; border-radius: 2px; line-height: 3rem; height: 3rem; width: 10rem;" class="linkTextingButton_oq3j39q0 btn" type="button" onclick="sendLink_linkTexting_oq3j39q0('53024c30-ce02-498c-8e87-40e0135508d8')" id="sendButton_linkTexting_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8">Text me a link</button>
-                <div class="linkTextingError_oq3j39q0" id="linkTextingError_oq3j39q0_53024c30-ce02-498c-8e87-40e0135508d8" style="display:none;"></div>
-                <div style="opacity: .9;" class="type-small">(or open this page on your iPhone - powered by <a href="https://www.linktexting.com/">LinkTexting</a>)</div>
-              </div>
-            </div>
-        </div>
-
+        <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon App - Travel and stay with people you trust - Oh Hey World Inc"></a>
+         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
+         <div>No iPhone? <a href="https://api.horizonapp.co/">Try the web app</a>.</div>
       </div>
     </div>
-  </div>
+  </div><!-- end wrapper-ph -->
 
 </div> <!-- end home section -->
 
-<div class="container--bg">
+<div class="container">
     <div class="grid grid--full">
 
       <div class="grid__item one-whole desk-three-fourths desk-show">
@@ -281,51 +323,36 @@ layout: blank
     </div><!-- end grid -->
 
   <div class="wrapper">
-    <div class="grid">
-      <div class="grid__item one-whole desk-two-thirds desk-push--one-sixth">
-        
-        <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup" style="margin-bottom: 6rem; margin-top: 6rem;">
-          <form action="http://willmoyer.us2.list-manage.com/subscribe/post?u=69a898a29bc2e6a0ae2a83cd9&amp;id=835d9a226b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            
-          <div class="mc-field-group">
-            <div class="grid grid--tight">
-              <h3 class="text-center margin-b">Receive updates on Horizon’s progress</h3>
-              <div class="grid__item one-whole desk-two-thirds">
-                <input type="email" value="" name="EMAIL" class="required email input-text margin-b" id="mce-EMAIL" placeholder="Enter your email…">
-              </div>
-              <div class="grid__item one-whole desk-one-third">
-                <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button btn btn--full margin-b">
-                <input type="hidden" name="FILTER" id="FILTER" value="SneakPeek" />
-              </div>
-            </div><!-- end grid -->
-          </div>
-          <div id="mce-responses" class="clear">
-           <div class="response" id="mce-error-response" style="display:none"></div>
-           <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-           <div style="position: absolute; left: -5000px;"><input type="text" name="b_69a898a29bc2e6a0ae2a83cd9_835d9a226b" tabindex="-1" value=""></div>
-              
-          </form>
-          </div>
-            
-         <!--End mc_embed_signup--> 
+    <div class="groups">
+      <h3>Being Used By Members Of</h3>
+      <div class="group__logo"> 
+       <a href="/startup-chile/"><img src="/assets/start-up-chile-logo.png" alt="Startup Chile"></a>
+      </div>      
+      <div class="group__logo"> 
+       <a href="/kiva/"><img src="/assets/kiva-logo.png" alt="Kiva"></a>
+      </div>      
+      <div class="group__logo"> 
+       <a href="/sigma-phi-epsilon/"><img src="/assets/sig-ep-logo.jpg" alt="SigEp"></a>
+      </div>      
+      <div class="group__logo"> 
+       <img src="/assets/hult-logo.png" alt="Hult">
       </div>
-
-    </div><!-- end grid -->
+      <div class="group__logo"> 
+       <img src="/assets/AIESEC-logo.png" alt="AIESEC">
+      </div>
+      <div class="group__logo"> 
+       <a href="/peace-corps/"><img src="/assets/npca-logo.jpg" alt="NPCA"></a>
+      </div>
+      <div class="group__logo"> 
+       <a href="/peace-corps/"><img src="/assets/npca-logo.jpg" alt="NPCA"></a>
+      </div>
+      <p>To set up your group, <a href="mailto:info@horizonapp.co?subject=Setup-a-group">email us</a>.</p>
+    </div><!-- end group -->
   </div><!-- end wrapper -->
 </div><!-- end container -->
 
 
 <!-- Mobile Detection & Link Texting -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-      <script type="text/javascript" src="//d3q6uu7asevdsg.cloudfront.net/1.2/js/link_texting.min.js"></script>
-      <script>
-      var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
-      if (!iOS) {
-          $('.js-install-btn').css('display','none');
-          $('.install-linktext').css('display', 'block');
-          }
-      </script>
 
 {% include footer.html %}
