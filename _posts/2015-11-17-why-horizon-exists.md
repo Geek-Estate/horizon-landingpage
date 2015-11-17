@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why Horizon is Worth Fighting For
+title: Why Horizon's Worth Fighting For
 date: 2015-11-17
 categories: blog
 author: Drew Meyers
 ---
-It's been a long [18 month journey](http://www.horizonapp.co/blog/journey-unlock-power-community/) (36 months if you include [customer research, validation, and the many concept concepts that went into Oh Hey World](http://www.horizonapp.co/blog/grind-pivot-horizon/)). 
+It's been a long [18 month journey](http://www.horizonapp.co/blog/journey-unlock-power-community/) (36 months if you include [customer research, validation, and prototyping of the many concepts that went into Oh Hey World/Horizon](http://www.horizonapp.co/blog/grind-pivot-horizon/)). 
 
 Why are we still working on it, with no near term financial incentive to do so?
 
