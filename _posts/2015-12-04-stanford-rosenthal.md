@@ -17,6 +17,8 @@ Stanford Rosenthal hosted Pocket (who [I wrote about previously](http://www.hori
 
 The long term goal of [Travel by Giving](http://www.horizonapp.co/blog/travelbygiving-unlock-code/) (currently supporting [Kiva](http://www.kiva.org/)), is to enable any host to raise money for their favorite charity or for the organizations facilitating those stays (such as via a community such as [Peace Corps](http://www.horizonapp.co/peace-corps)). Stanford is excited about the future prospect of raising money for his organization, [Neutralground.com](http://www.neutralground.com/).
 
-Learn more about Stanford: [Twitter.com/stan](https://twitter.com/stan) | [Dribbble.com/Stanford](http://www.dribbble.com/Stanford) | [LinkedIn.com/in/nolastan](https://www.linkedin.com/in/nolastan)
+Learn more about Stanford: 
+
+[Twitter.com/stan](https://twitter.com/stan) | [Dribbble.com/Stanford](http://www.dribbble.com/Stanford) | [LinkedIn.com/in/nolastan](https://www.linkedin.com/in/nolastan)
 
 Thank you for your generosity, Stanford.
