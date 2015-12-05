@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our First Confirmed Host, Post Product Hunt - Stanford Rosenthal
+title: Thank you to Our First Confirmed Host, Post Product Hunt - Stanford Rosenthal
 date: 2015-12-04
 categories: blog
 author: Drew Meyers
@@ -11,7 +11,7 @@ Who is he?
 
 Stanford Rosenthal
 
-<p align="center"><img src="/assets/blog-stanford-rosenthal.jpeg"></p>
+<p align="center"><img src="/assets/blog-stanford-rosenthal.jpg"></p>
 
 Stanford Rosenthal hosted Pocket (who [I wrote about previously](http://www.horizonapp.co/blog/first-product-hunt-stay/)) in the San Francisco Bay area back in February. 
 
