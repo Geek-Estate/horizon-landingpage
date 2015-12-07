@@ -11,7 +11,7 @@ Those of us working on Horizon from Seattle are planning a hackday this coming S
 
 Originally, we were planning to gather at my apartment in Lower Queen Anne, but it's not conducive to seating a group of people all working on computers. Without the previous constraint of space, we can now accommodate friends and others passionate about Horizon's [long term mission of increasing access to travel opportunities via facilitating community](http://www.horizonapp.co/about/).
 
-The Horizon technology stack includes GitHub, Heroku, PostGres, Ruby on Rails, React.JS, Objective C, and Android.
+The Horizon technology stack includes Heroku, PostGres, AWS, Ruby on Rails, React.JS, Objective C, and Android.
 
 What will we be working on?
 
