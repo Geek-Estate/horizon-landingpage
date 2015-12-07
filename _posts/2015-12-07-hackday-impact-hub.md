@@ -17,7 +17,7 @@ What will we be working on?
 
 We have a few priorities on the technology side. The first is adding key functionality (editing host city, search by city, filtering results, etc) to the [web app](http://api.horizonapp.co). The second is the Android app we've recently begun development on. We've also been working on a profile redesign for iOS that needs to be implemented. We also know there is work needed to improve group discovery so travelers and hosts know what groups are available. If you're interested in working on an open source project instead, you are welcome to contribute to the first travel app we built, [Oh Hey World](http://www.ohheyworld.com) ([GitHub repo](https://github.com/oh-hey-world/ohheyworld-platform)).
 
-Finally, if you're not a technologist, that's okay - we can certainly use marketing and community building help to advance the [Travel by Giving](http://www.horizonapp.co/blog/travelbygiving-unlock-code/) concept, currently supporting [Kiva](http://www.kiva.org/)).
+Finally, if you're not a technologist, that's okay - we can certainly use marketing and community building help to advance the [Travel by Giving](http://www.horizonapp.co/blog/travelbygiving-unlock-code/) concept. We're currently supporting [Kiva](http://www.kiva.org/)) but the plan is to enable any host to raise money for their favorite charity.
 
 To recap the exact details:
 
@@ -25,6 +25,7 @@ To recap the exact details:
 - Where: Impact Hub Seattle, 220 2nd Ave South, Seattle, WA
 - When: December 13th from 11 am-8 pm
 - Who: Anyone passionate about travel, community, and social impact
+- Why: [Increasing travel opportunities matters](http://www.horizonapp.co/blog/why-increasing-global-travel-opportunities-matters/)
 
 If you're interested in joining and helping/collaborating with us for a day, please [send me an email](mailto:drew@horizonapp.co). Being in Seattle isn't an absolute necessity to get involved -- if you live elsewhere, but want to collaborate virtually over Slack, Trello, and Skype - I'd love to hear from you.
 
