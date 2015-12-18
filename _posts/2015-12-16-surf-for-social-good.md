@@ -15,3 +15,5 @@ The summit wasn't the end of social good; it was the beginning. An excerpt from 
 > We are reimagining surfing as a force for social good and the next big wave is to launch the [Fair Surf](http://www.fair.surf/) platform — an online and offline experience that facilitates connection, collaboration for impact, the same principles we built the SSG Summit on. This is  more than a summit, it’s a global process for change.
 
 This is a fantastic example of a community coming together to bring real change to the world for those who need it - further proof that community changes lives.
+
+<em>PS: The Fair Surf community on Horizon can be joined with the group unlock code "fairsurfers".</em>
