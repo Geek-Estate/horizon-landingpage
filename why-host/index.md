@@ -9,11 +9,11 @@ Horizon allows members of your trusted communities (academic, professional, soci
 Why host with Horizon?
 
 <ul>
-	<li>Enable friends, family, and community members to discover you have a listing on AirBnB (or other vacation rental website)</li>
+	<li>Enable friends, family, and community members to discover you have a listing on AirBnB (or other vacation rental websites)</li>
 	<li>Rent your room, couch or apartment to someone from your existing trusted network</li>
 	<li>Avoid dealing with inquires from strangers</li>
 	<li>Live with a potential roommate (for a fee) for a few weeks before deciding on whether they are a long term fit</li>
-	<li>Be the "change you want to be in the world", by <a href="http://www.horizonapp.co/blog/travelbygiving-unlock-code/">raising money for your favorite charity</a></li>
+	<li>Be the "change you want to see in the world", by <a href="http://www.horizonapp.co/blog/travelbygiving-unlock-code/">raising money for your favorite charity</a></li>
 </ul>
 
 Other Benefits of Hosting
