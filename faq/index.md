@@ -14,7 +14,11 @@ author: Drew Meyers
 
 **Q: What's with the name?**
  
-**A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together.
+**A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together. The name also alludes to broadening your "horizon" by experiencing the world with your own eyes.
+
+**Q: How do I get Horizon on Android?**
+ 
+**A:** We're working on it! You can [sign up to be a part of the beta here](/android/).
 
 ### Donations ###
 
@@ -52,7 +56,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Which communities are available?**
 
-**A:** Beyond the "Horizon Public" group which anyone can join, the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are a few public unlock codes located [here](/blog/group-codes-available/). If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
+**A:** Beyond the "Horizon Public" group which anyone can join, the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are a few public unlock codes located [here](/blog/group-codes-available/) and [here](/blog/unlock-codes-hospitality-exchanges/). If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
 
 **Q: I want Horizon for my community. How do I enable that?**
 
@@ -66,7 +70,7 @@ Interested in additional features or analytics for your community? [Read up on o
 
 Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](/blog/couchsurfing-differences/).
 
-AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice. [Longer version](/blog/horizon-different-airbnb/)
+AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice. [Longer version](/blog/horizon-different-airbnb/).
 
 ### Product Specifics ###
 
@@ -96,7 +100,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: How do I edit my profile?**
 
-**A:** The profile photo, name, and bio are all pulled from Facebook, with no edit capability. Your accommodation details is the only piece of information currently editable (via settings). We plan on making more of the profile customizable, but haven't prioritized that work yet.
+**A:** The profile photo and name are pulled from Facebook, with no edit capability. You can [edit your bio from the web version here](https://api.horizonapp.co/profile/edit). Your accommodation details is currently editable (via [settings](https://api.horizonapp.co/settings/)). We plan on making more of the profile customizable, but haven't prioritized that work yet.
 
 ### Charities ###
 
