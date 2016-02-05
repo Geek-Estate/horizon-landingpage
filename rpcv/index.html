@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Returned Peace Corps Volunteers Hospitality Exchange
+title: Returned Peace Corps Volunteers Washington DC Hospitality Exchange
 ---
 <style>
 
@@ -20,17 +20,8 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
 
 
   .wrapper--ph {
-      padding-top: 3rem;
+      margin-top: 1.5rem;
 
-      position: absolute; /* Parent must have position: relative */
-      top: 50%;
-      left: 50%;
-
-      -webkit-transform: translate(-50%, -50%);
-      -moz-transform: translate(-50%, -50%);
-      -o-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
     }
 
   .welcome--ph {
@@ -49,6 +40,17 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
 
     .wrapper--ph {
       padding: 0;
+      margin: 0;
+
+      position: absolute; /* Parent must have position: relative */
+      top: 50%;
+      left: 50%;
+
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
     }
 
     .welcome--ph {
@@ -192,6 +194,45 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
     }
 
   }
+
+  .groups {
+    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding: 3rem 0;
+  }
+
+  .groups h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .groups p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .group__logo {
+    padding: 0 1.5rem;
+    margin-bottom: 1.5rem;
+    width: 50%;
+  }
+
+  @media only screen and (min-width: 700px) {
+    .group__logo {
+      width: 16.666666667%;
+    }
+  }
+
 </style>
 
 <div class="product-hunt">
@@ -214,8 +255,8 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
   <div class="wrapper wrapper--ph">
     <div class="grid grid--padded">
       <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
-        <h1 class="welcome--ph">Welcome RPCV!</h1>
-        <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay. To find other Returned Peace Corps Volunteers, ask your local administrator for the unlock code.</p>
+        <h1 class="welcome--ph">Welcome RPCV Washington!</h1>
+        <p class="info--ph">Horizon uses Facebook groups and mutual friends to help you find people and places to stay. To find other Returned Peace Corps Volunteers, ask <a href="mailto:president@rpcvw.org?subject=Setup-a-group">your local administrator</a> for the unlock code.</p>
         <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon App - Travel and stay with people you trust - Oh Hey World Inc"></a>
         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
         <a style="display: block;" href="/android"><img width="185px" src="/assets/google-play-badge.png" alt="Horizon for Android"></a>
@@ -227,7 +268,7 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
 
 </div> <!-- end home section -->
 
-<div class="container--bg">
+<div class="container">
     <div class="grid grid--full">
 
       <div class="grid__item one-whole desk-three-fourths desk-show">
@@ -313,13 +354,5 @@ title: Returned Peace Corps Volunteers Hospitality Exchange
 
 <!-- Mobile Detection & Link Texting -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-      <script type="text/javascript" src="//d3q6uu7asevdsg.cloudfront.net/1.2/js/link_texting.min.js"></script>
-      <script>
-      var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
-      if (!iOS) {
-          $('.js-install-btn').css('display','none');
-          $('.install-linktext').css('display', 'block');
-          }
-      </script>
 
 {% include footer.html %}
