@@ -48,7 +48,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: What is a community?**
 
-**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or group which users are affiliated with such as a fraternity or university alumni association.
+**A:** A community is a trusted network of people, and source of potential hosts to stay with while traveling. Common communities include facebook friends, friends of friends, or group which users are affiliated with such as a fraternity, fellowship, or university alumni association.
 
 **Q: What type of communities is Horizon for?**
 
@@ -80,7 +80,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: Why does clicking contact open an in-app message sometimes, and opens an email other times?**
 
-**A:** In-app messaging only works if both people have the newest version of the iOS app. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5). For those using the [web app](http://api.horizonapp.co) to find and contact others, you'll always be directed to email. We'll integrate in-app messaging into our web version as soon as Layer's technology is available for web applications.
+**A:** In-app messaging only works if both people have the newest version of the iOS app or have recently logged into our web version. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5+).
 
 **Q: How are the counts of cities and countries calculated?**
 
