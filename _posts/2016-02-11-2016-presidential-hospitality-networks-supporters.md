@@ -9,7 +9,7 @@ It's hard to watch or read the news without hearing about the 2016 Presidential 
 
 <p align="center"><img src="/assets/blog-2016-election.jpg"></p>
 
-We know campaign volunteers are some of the most passionate people, as well as incredibly frequent travelers. Some of the campaigns - such as [Hillary's Host a Staffer](https://www.hillaryclinton.com/volunteer/supporter-housing/) and [Bernie Sander's request for housing for staff](https://go.berniesanders.com/page/s/iowa-housing) - have efforts specifically trying to match volunteers/organizers with hosts willing to accommodate them for a few nights. Of course, Horizon was built for exactly that purpose. Thus, we created groups for each of the campaigns that supporters may use if you wish:
+We know campaign volunteers and staff are some of the most passionate people, as well as incredibly frequent travelers. Some of the campaigns - such as [Hillary's Host a Staffer](https://www.hillaryclinton.com/volunteer/supporter-housing/) and [Bernie Sander's request for housing for staff](https://go.berniesanders.com/page/s/iowa-housing) - have setup efforts to match volunteers/organizers/staff with hosts willing to accommodate them for a few nights. Of course, Horizon was built for exactly that purpose. Thus, we created groups for each of the campaigns that supporters may use if you wish:
 
 <strong>Democrats</strong>
 
@@ -42,6 +42,8 @@ Marco Rubio: [https://marcorubio.com/](https://marcorubio.com/)
 Ted Cruz: [https://www.tedcruz.org/](https://www.tedcruz.org/)
 
 > cruz2016
+
+The next states to vote are Nevada and South Carolina. Any supporters in those states willing to take in those on the campaign trail?
 
 If anyone would like a group created for any of the other candidates, we're more than happy to do so. [Please get in touch](mailto:info@horizonapp.co) with the name of the candidate and we'll happily oblige. 
 
