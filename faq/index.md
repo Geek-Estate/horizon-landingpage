@@ -60,7 +60,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I want Horizon for my community. How do I enable that?**
 
-**A:** Ask by [email](mailto:info@horizonapp.co) - send the desire name of the group, and what you want the "unlock code" to be. We're then happy to create a group for you that you may share with other members. [Example social media posts can be found here](/share/).
+**A:** Ask by [email](mailto:info@horizonapp.co) - send the desired name of the group, and what you want the "unlock code" to be. We're then happy to create a group for you that you may share with other members. [Example social media posts can be found here](/share/).
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
