@@ -12,9 +12,13 @@ author: Drew Meyers
 
 **A:** Login with your Facebook account, then join groups whose members you are interested in connecting with in person using group unlock codes. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
 
+**Q: What about sublets?**
+
+**A:** We realized an incredibly strong use case for finding accommodations within trusted networks was sublets/roommates, so we recently released version 2 of our iOS app with support for hosts posting prolonged stay opportunities. We connect the host and renter directly; it's then up to them to arrange final details offline.
+
 **Q: What's with the name?**
  
-**A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together. The name also alludes to broadening your "horizon" by experiencing the world with your own eyes.
+**A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together. The name also alludes to broadening your "<em>horizon</em>" by experiencing the world with your own eyes.
 
 **Q: How do I get Horizon on Android?**
  
@@ -56,7 +60,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Which communities are available?**
 
-**A:** Beyond the "Horizon Public" group which anyone can join, the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are a few public unlock codes located [here](/blog/group-codes-available/) and [here](/blog/unlock-codes-hospitality-exchanges/). If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
+**A:** Beyond the "publicly available groups" available on [our web version](http://api.horizonapp.co/groups/), the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are several unlock codes located [here](/blog/group-codes-available/) and [here](/blog/unlock-codes-hospitality-exchanges/). If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
 
 **Q: I want Horizon for my community. How do I enable that?**
 
@@ -100,7 +104,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: How do I edit my profile?**
 
-**A:** The profile photo and name are pulled from Facebook, with no edit capability. You can [edit your bio from the web version here](https://api.horizonapp.co/profile/edit). Your accommodation details is currently editable (via [settings](https://api.horizonapp.co/settings/)). We plan on making more of the profile customizable, but haven't prioritized that work yet.
+**A:** The profile photo and name are pulled from Facebook. You can [edit your bio from the web version here](https://api.horizonapp.co/profile/edit) or from settings on iOS. Your accommodation details are currently editable via settings on both [web](https://api.horizonapp.co/settings/) and iOS. We plan on making more of the profile customizable, but haven't prioritized that work yet.
 
 ### Charities ###
 
