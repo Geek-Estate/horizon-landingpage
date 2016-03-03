@@ -14,7 +14,7 @@ author: Drew Meyers
 
 **Q: What about sublets?**
 
-**A:** We realized an incredibly strong use case for finding accommodations within trusted networks was sublets/roommates, so we recently released version 2 of our iOS app with support for hosts posting prolonged stay opportunities. We connect the host and renter directly; it's then up to them to arrange final details offline.
+**A:** We realized an incredibly strong use case for finding accommodations within trusted networks was sublets/roommates. Thus, we recently released an updated version of our iOS app with support for posting prolonged stay opportunities. We connect the host and renter directly; it's then up to you to arrange final details offline.
 
 **Q: What's with the name?**
  
