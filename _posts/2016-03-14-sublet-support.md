@@ -13,7 +13,11 @@ What's changed in the product?
 
 Expanded, redesigned profile. As a host, you may include a text description to explain your accommodation scenario, link to an external URL such as AirBnB or Craigslist which contains photos or more information about your space, and indicate whether you're willing to sublet. The icing on the cake is the ability to edit your bio (one of our most requested features).
 
+<p align="center"><img src="/assets/profile-sublet-1.6.png"></p>
+
 We've migrated to a tab bar for our primary navigation. Bye bye, hamburger menu.
+
+<p align="center"><img src="/assets/home-sublet-1.6.png"></p>
 
 New interface for filters. There is now a funnel icon in the upper right of the home screen (where the hamburger menu was previously) as well as city results which gives you quick access to available filters. Changing filters now updates results and counts across the entire app rather than just for a specific city.
 
