@@ -7,7 +7,7 @@ author: Drew Meyers
 ---
 It's a little crazy to think Horizon has been [on the App Store for a year](http://www.horizonapp.co/blog/horizon-app-store-release/). We've learned a lot, and validated the [challenges with incentives on the host side of a hospitality exchange marketplace](http://www.horizonapp.co/blog/2016-age-old-conundrum-hospitality-exchanges-host-incentives/). There are [numerous reasons people host others](http://www.horizonapp.co/blog/incentives-hosting-hospitality-networks/), but not a lot of urgency or incentive to do more of it. 
 
-One strong use case for our app is those hosts looking to fill sublet or roommate opportunities with someone from their trusted network. In fact, prior to building Horizon, we subletted our apartment from another Start-Up Chile team prior to our arrival in Santiago (see [our post about Bureo here](http://www.horizonapp.co/blog/bureo-ben-kevin-la-mesa-verde/)). Thus, in addition to offering up a couch or room for few days to travelers, our lastest iOS update allows hosts to advertise the fact they are interested in subletting an extra room or apartment for a prolonged period of time.
+One strong need for our app is by hosts looking to fill sublet or roommate opportunities with someone from their trusted network. In fact, prior to building Horizon, we subletted our apartment from another Start-Up Chile team prior to our arrival in Santiago (see [our post about Bureo here](http://www.horizonapp.co/blog/bureo-ben-kevin-la-mesa-verde/)). Thus, in addition to offering up a couch or room for few days to travelers, our lastest iOS update allows hosts to advertise the fact they are interested in subletting an extra room or apartment for a prolonged period of time.
 
 What's changed in the product?
 
