@@ -9,7 +9,7 @@ Since [we released unlock codes](http://www.horizonapp.co/blog/add-groups-change
 
 [As mentioned](http://www.horizonapp.co/blog/group-codes-available/), we'd rather groups spread organically to people based on someone sharing it with a trusted friend who belongs to the same community. Thus, it's actually somewhat on purpose that it's hard to find & join groups. Of course, some groups are public and others are private. Sharing unlock codes privately is required for communities with membership requirements to maintain their trust, but there are many interest based communities which are extremely open and don't require the same level of privacy. 
 
-A number of [communities that have been setup over the years with the specific purpose of enabling hospitality exchange](http://www.horizonapp.co/blog/hospitality-networks-history/) to occur. It's our goal to allow someone find a place to stay across all the various communities they may belong to, from one interface. You shouldn't have to search every hospitality exchange site separately in order to find potential hosts in the next city you're visiting and contact them.
+A number of [communities that have been setup over the years with the specific purpose of enabling hospitality exchange](http://www.horizonapp.co/blog/hospitality-networks-history/) to occur. It's our goal to allow someone to find a place to stay across all the various communities they may belong to, from one interface. You shouldn't have to search every hospitality exchange site separately in order to find potential hosts in the next city you're visiting and contact them.
 
 Below are the unlock codes for groups for hospitality exchanges currently available:
 
