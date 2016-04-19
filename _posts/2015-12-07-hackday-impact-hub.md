@@ -17,7 +17,7 @@ What will we be working on?
 
 We have a few priorities on the technology side. The first is adding key functionality (editing host city, search by city, filtering results, etc) to the [web app](http://api.horizonapp.co). The second is the Android app we've recently begun development on. We've also been working on a profile redesign for iOS that needs to be implemented. We also know there is work needed to improve group discovery so travelers and hosts know what groups are available. If you're interested in working on an open source project instead, you are welcome to contribute to the first travel app we built, [Oh Hey World](http://www.ohheyworld.com) ([GitHub repo](https://github.com/oh-hey-world/ohheyworld-platform)).
 
-Finally, if you're not a technologist, that's okay - we can certainly use marketing and community building help to advance the [Travel by Giving](http://www.horizonapp.co/blog/travelbygiving-unlock-code/) concept. We're currently supporting [Kiva](http://www.kiva.org/)) but the plan is to enable any host to raise money for their favorite charity.
+Finally, if you're not a technologist, that's okay - we can certainly use marketing and community building help to advance the [Travel by Giving](http://www.horizonapp.co/blog/travelbygiving-unlock-code/) concept. We're currently supporting [Kiva](http://www.kiva.org/) but the plan is to enable any host to raise money for their favorite charity.
 
 To recap the exact details:
 
