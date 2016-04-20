@@ -16,7 +16,7 @@ That’s a very legitimate question.
 
 Horizon has been on the App Store for 11 months ([launched in mid March 2015](http://www.horizonapp.co/blog/horizon-app-store-release/)). Our biggest learning is no urgency exists on the host side of the market. It’s now very, very clear why it took Couchsurfing a decade to reach 10 million members.
 
-The reality is the way the real world works (answer a text, email, or phone call every few weeks), is perfectly fine with the majority of hosts. It’s true virtually everyone in the world is willing to host, but only when specifically asked by someone in their trusted network — and then only if they are in town, have space for others to sleep, and are without other plans during that time period.
+The reality is the way the real world works (answer a text, email, or phone call every few weeks) is perfectly fine with the majority of hosts. It’s true virtually everyone in the world is willing to host, but only when specifically asked by someone in their trusted network — and then only if they are in town, have space for others to sleep, and are without other plans during that time period.
 
 It’s safe to say no hosts are pounding down our door trying to solve the problem of “help me host more people for free”.
 
