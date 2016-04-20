@@ -24,6 +24,8 @@ Please adhere to our [community guidelines](/community-guidelines/).
 
 We'd love your help sharing Horizon with people and communities you believe it would resonate with. [Example social media posts can be found here](/share/).
 
+[Follow us on Twitter](https://twitter.com/gethorizonapp) and Like our [Facebook page](https://www.facebook.com/horizonapp/).
+
 ## Press
 
 Please send inquires to [press@horizonapp.co](mailto:press@horizonapp.co)
