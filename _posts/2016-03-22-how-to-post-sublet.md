@@ -19,4 +19,4 @@ Now, anyone that's either a friend, friend of friend, or member of a group you b
 
 That's it! Feel free to send us an email at [support@horizonapp.co](mailto:support@horizonapp.co) if you have any questions.
 
-In the next update, we're addinng an accommodation type filter so those seeking a sublet can easily find the relevant profiles to look at ([see example here](https://www.evernote.com/shard/s254/sh/e8d9b93e-4917-47b6-9171-6d3aae6404f1/cd69a44d49d24ca0933f74758d4d40ef/deep/0/Screenshot%203/11/16,%206:00%20PM.png)).
+In the next update, we're adding an accommodation type filter so those seeking a sublet can easily find the relevant profiles to look at ([see example here](https://www.evernote.com/shard/s254/sh/e8d9b93e-4917-47b6-9171-6d3aae6404f1/cd69a44d49d24ca0933f74758d4d40ef/deep/0/Screenshot%203/11/16,%206:00%20PM.png)).
