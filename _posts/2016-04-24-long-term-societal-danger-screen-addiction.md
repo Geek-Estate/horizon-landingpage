@@ -17,5 +17,6 @@ Why does community matter to you? [Tweet us your response](http://www.twitter.co
 
 PS #1: <em>[The age of loneliness is killing us](http://www.theguardian.com/commentisfree/2014/oct/14/age-of-loneliness-killing-us?CMP=share_btn_tw)</em>, an article published in the Guardian in 2014, may provide additional useful context.
 
-PS #2: I also encourage you to watch "[Are you living the life that you post?](https://www.youtube.com/watch?v=GXdVPLj_pIk)"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXdVPLj_pIk" frameborder="0" allowfullscreen></iframe>
+PS #2: I also encourage you to watch "[Are you living the life that you post?](https://www.youtube.com/watch?v=GXdVPLj_pIk)".
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/GXdVPLj_pIk" frameborder="0" allowfullscreen></iframe></div>
