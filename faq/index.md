@@ -22,7 +22,7 @@ author: Drew Meyers
 
 **Q: How do I get Horizon on Android?**
  
-**A:** We're working on it! You can [sign up to be a part of the beta here](/android/).
+**A:** It's ready! You can [download the beta here](https://play.google.com/apps/testing/co.horizonapp.horizonapp).
 
 ### Donations ###
 
@@ -92,7 +92,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **Q: How do I expand my possible places to stay?**
 
-**A:** Join groups, and invite your friends by extending an invite to those you already trust. There is certainly no requirement to reciprocate, but extending an invitation to your own home to others is the best way to get them to open their home to you, and increase the coverage of potential places to stay in unique cities and countries all across the globe.
+**A:** Join groups, and [invite your friends by extending an invite to those you already trust](/share/). There is certainly no requirement to reciprocate, but extending an invitation to your own home to others is the best way to get them to open their home to you, and increase the coverage of potential places to stay in unique cities and countries all across the globe.
 
 **Q: Why do only some of my Facebook friends show up?**
 
