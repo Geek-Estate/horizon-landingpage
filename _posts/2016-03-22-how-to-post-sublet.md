@@ -5,7 +5,7 @@ date: 2016-03-22
 categories: blog
 author: Drew Meyers
 ---
-There are several steps to [posting a sublet opportunity](http://www.horizonapp.co/blog/sublet-support/) on Horizon:
+There are several steps to [posting a sublet opportunity](http://www.horizonapp.co/blog/sublet-support/) on Horizon, which makes it discoverable by friends, friends of friends, and members of communities you belong to.
 
 First, sign in and complete your host settings to detail what you have available (viewable [here](http://api.horizonapp.co/settings/) on web version). Please ensure you include link to Craigslist, AirBnB, Facebook, Dropbox, or wherever else there are photos of your space.
 
