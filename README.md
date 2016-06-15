@@ -1,3 +1,5 @@
 # horizon-landingpage
 
-Let's fill this sucker out
+`bundle install`
+
+`jekyll serve`
