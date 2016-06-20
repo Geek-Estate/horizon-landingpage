@@ -1,9 +1,10 @@
 # horizon-landingpage
 
-Running the Jekyll site locally
+## Running the Jekyll site locally
 `bundle install`
 
 `jekyll serve`
 
-Making commits
+## Making commits
+
 https://www.sourcetreeapp.com/
