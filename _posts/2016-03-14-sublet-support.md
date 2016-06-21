@@ -21,6 +21,8 @@ We've migrated to a tab bar for our primary navigation. Bye bye, hamburger menu.
 
 New interface for filters. There is now a funnel icon in the upper right of the home screen (where the hamburger menu was previously) as well as city results which gives you quick access to available filters. Changing filters now updates results and counts across the entire app rather than just for a specific city.
 
+<p align="center"><img src="/assets/blog-horizon-filter-by-accommodation-type.png"></p>
+
 If you'd like to post a sublet opportunity, a [more detailed "how" can be found here](http://www.horizonapp.co/blog/how-to-post-sublet/).
 
 Feedback, suggestions - and even criticism - is welcomed. You can reach us at [support@horizonapp.co](mailto:support@horizonapp.co). Thanks for your continued support.
