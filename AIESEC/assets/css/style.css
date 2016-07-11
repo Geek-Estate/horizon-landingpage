@@ -239,7 +239,7 @@ strong {
 }
 
 .bg-8 {
-    background-color: #d9eaed !important;
+    background-color: lightsteelblue !important;
 }
 
 .color-1 {
@@ -360,7 +360,7 @@ p {
 .core-copy {
     font-size: 16px !important;
     font-weight: 200 !important;
-    color: #797a7b !important;
+    color: darkslategray !important;
     letter-spacing: 0.0625em !important;
     line-height: 24.4px !important;
     margin-bottom: 30px;
@@ -2048,7 +2048,7 @@ h2.highlight {
     display: inline-block;
     cursor: pointer;
     padding: 10px 20px;
-    background-color: #b9d9d5;
+    background-color: powderblue;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
