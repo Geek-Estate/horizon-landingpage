@@ -21,4 +21,4 @@ Anyone who has ever stayed with friends or hosts during their travels recognizes
 
 Download Horizon on your [iPhone](https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8) or [Android](http://www.horizonapp.co/android/) and let’s connect.
 
-If you’re a member of AIESEC or an alumni and would like to join the AIESEC group on Horizon, please contact me at alinalkm@uw.edu. 
+If you’re a member of AIESEC or an alumni and would like to join [the AIESEC group on Horizon](http://www.horizonapp.co/AIESEC/), please contact me at alinalkm@uw.edu. 
