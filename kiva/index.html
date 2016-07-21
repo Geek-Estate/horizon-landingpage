@@ -1,355 +1,225 @@
----
-layout: blank
-title: Kiva Hospitality Exchange
----
-<style>
+<!-- Justin Johnson | Flamini and Associates | June 16, 2016 | Template for Horizon app marcom and onboarding -->
+<!DOCTYPE html>
+<html>
 
-  .product-hunt {
-    color: #fff;
-    background-image: url('/product-hunt/img/ph-bg-3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100%;
-    .clearfix;
-  }
+<head>
+    <title>Kiva Hospitality Network - Horizon</title>
+    <!-- ======== META TAGS ======== -->
+    <meta charset="utf-8">
+    <meta name="description" content="Kiva Supporters">
+    <meta name="keywords" content="short term rentals, Kiva housing, fair price rental, couchsurfing">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ======== / META TAGS ======== -->
 
-    .product-hunt .mobile-menu-button {
-        color: #fff;
-    }
+    <!-- ======== STYLESHEETS ======== -->
+    <link rel="stylesheet" href="assets/css/reset.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen">
+    <link rel="stylesheet" href="assets/css/main.css" type="text/css">
+    <noscript>
+        <link rel="stylesheet" href="assets/css/nojs.css" type="text/css">
+    </noscript>
+    <!--[if lt IE 9]>
+                <link rel="stylesheet" type="text/css" href="assets/css/ie.css">
+        <![endif]-->
+    <!-- ======== / STYLESHEETS ======== -->
 
+    <!-- ======== STANDARD SCRIPTS ======== -->
+    <script src="assets/js/jquery.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(document).ready(function () {
+            $("a[rel^='prettyPhoto']").prettyPhoto();
+        });
+    </script>
+    <!--[if lt IE 9]>
+                <script src="assets/js/html5shiv.js"></script>
+                <script src="assets/js/respond.js"></script>
+        <![endif]-->
+    <!-- ======== / STANDARD SCRIPTS ======== -->
+</head>
 
-  .wrapper--ph {
-      margin-top: 1.5rem;
-
-      position: absolute; /* Parent must have position: relative */
-      top: 50%;
-      left: 50%;
-
-      -webkit-transform: translate(-50%, -50%);
-      -moz-transform: translate(-50%, -50%);
-      -o-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-  .welcome--ph {
-    font-size: 1.72rem;
-    line-height: 1.2; 
-    font-weight: 700; 
-    letter-spacing: -2px;
-  }
-
-
-
-  @media only screen and (min-width: 700px) {
-    .product-hunt {
-      margin-bottom: -3rem;
-    }
-
-    .wrapper--ph {
-      padding: 0;
-      margin: 0;
-    }
-
-    .welcome--ph {
-      font-size: 3.55rem; 
-      margin-bottom: .5rem;
-    }
-    .info--ph {
-      font-size: 1.1rem;
-      margin-bottom: 3rem;
-    }
-
-  }
-
-  .install-btn {
-    display: block;
-    background-color: #00ccca;
-    color: #ffffff;
-    text-decoration: none;
-    text-align: center;
-    margin: 0 auto;
-    font-weight: 300;
-    font-size: 1.5em;
-    line-height: 1.5;
-    text-shadow: 0 1px 2px rgba(0,0,0,.1);
-
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
-
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-
-    width: 16rem;
-
-    margin-bottom: 3rem;
-  }
-
-  .install-btn:visited {
-    color: #fff;
-  }
-  .install-msg, .download-msg {
-      background-color: rgba(0,0,0,.35);
-      line-height: 1.25;
-      display: none;
-  }
-
-  .download-msg {
-    font-size: 1rem;
-    padding: ;
-  }
-
-  .install-linktext {
-    display: none;
-  }
-
-  .input-text-link {
-      border: 1px solid rgba(255,255,255,.75);
-      background: rgba(255,255,255,.3);
-      width: 20rem;
-      height: 3rem;
-      color: #fff;
-  }
-
-  .input-text-link::-webkit-input-placeholder {
-      color: #fff;
-      font-weight: 300;
-  }
-
-  .input-text-link:-moz-placeholder { /* Firefox 18- */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link::-moz-placeholder {  /* Firefox 19+ */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link:-ms-input-placeholder {  
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .screen-info {
-    background: #000;
-    height: 0;
-    padding-top: 24%;
-    padding-bottom: 35.17%;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    color: #fff;
-    text-align: center;
-    font-weight: 100;
-    font-size: 2rem;
-    line-height: 1.25;
-  }
-    .screen-info--1 {
-      background-color: #555;
-      background-image: url('/product-hunt/img/screen-bg-1.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--2 {
-      background-color: #444;
-      background-image: url('/product-hunt/img/screen-bg-2.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--3 {
-      background-color: #333;
-      background-image: url('/product-hunt/img/screen-bg-3.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--4 {
-      background-color: #222;
-      background-image: url('/product-hunt/img/screen-bg-4.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--5 {
-      background-color: #111;
-      background-image: url('/product-hunt/img/screen-bg-5.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-  .screen-image {
-    display: block;
-    width: 80%;
-    margin: 0 auto;
-    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-  }
-
-  @media only screen and (min-width: 700px) {
-    .screen-image {
-      margin: 0;
-      box-shadow: none;
-      width: 100%;
-    }
-
-  }
-
-  .groups {
-    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-    display: -ms-flexbox;  /* TWEENER - IE 10 */
-    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -webkit-align-items: center;
-    align-items: center;
-    -webkit-justify-content: center;
-    justify-content: center;
-    padding: 3rem 0;
-  }
-
-  .groups h3 {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 1.5rem;
-  }
-
-  .groups p {
-    width: 100%;
-    text-align: center;
-  }
-
-  .group__logo {
-    padding: 0 1.5rem;
-    margin-bottom: 1.5rem;
-    width: 50%;
-  }
-
-  @media only screen and (min-width: 700px) {
-    .group__logo {
-      width: 16.666666667%;
-    }
-  }
-
-</style>
-
-<div class="product-hunt">
-
-  <header class="site-header">
-
-    <div class="wrapper">
-      <div class="grid">
-        <div class="grid__item one-half desk-one-fifth">
-          <h1 class="logo"><a href="/"><img src="/assets/logo-white.png" alt="Horizon"></a></h1>
+<body class="onepage">
+    <div id="preloader"></div>
+    <!-- ======== MAIN MENU ======== -->
+    <nav id="main-menu" class="effect-on menu-type-3">
+        <div class="col-md-12 desktop-menu">
+            <div id="logo">
+                <div class="tb">
+                    <div class="tb-cell">
+                        <a href="index.html"><img src="assets/img/horizon-logo-black.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="menu-container visible-lg visible-md">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#portfolio-2">WHAT & WHY</a>
+                    </li>
+                    <li><a href="#contentboxes-4">HOW IT WORKS / OFFER SPACE</a></li>
+                    <li><a href="#providers">JOIN GROUP</a></li>
+                    <li class="social-menu first"><a href="https://www.facebook.com/horizonapp" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                    <li class="social-menu"><a href="https://twitter.com/gethorizonapp" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+            <div id="mobile-button" class="visible-sm visible-xs">
+                <i class="fa fa-bars"></i>
+            </div>
+            <div class="clearfix"></div>
         </div>
-        <div class="grid__item one-half">
-          <a class="mobile-menu-button desk-hide"><span class="hidden">Menu</span></a>
+        <div id="mobile-menu" class="visible-sm visible-xs">
+            <div class="menu-container">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#portfolio-2">WHAT & WHY</a>
+                    </li>
+                    <li><a href="#contentboxes-4">HOW IT WORKS / OFFER SPACE</a></li>
+                    <li>
+                        <a href="#providers">JOIN GROUP</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-      </div><!-- end grid -->
-    </div><!-- end wrapper -->
+    </nav>
+    <!-- ======== / MAIN MENU ======== -->
 
-  </header>
+    <!-- ======== HEADER ======== -->
+    <header id="home-2" class="section parallax">
+        <div class="tb">
+            <div class="tb-cell">
+                <div id="header-title-3">
+                    <div class="logo-home"><img src="assets/img/horizon-logo-white-square.png" alt=""></div>
+                    <h1>Stay with<br> a Kiva supporter during the Lender Summit.</h1>
+                    <ul>
+                        <li>
+                            <a href="#portfolio-2" class="button-3 smooth-scroll">How & why</a>
+                            <a href="#contentboxes-4" class="button-3 smooth-scroll">Have space to offer</a>
+                            <a href="#providers" class="button-3 smooth-scroll">Join Group</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ======== / HEADER ======== -->
 
-  <div class="wrapper wrapper--ph">
-    <div class="grid grid--padded">
-      <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
-        <h1 class="welcome--ph">Welcome Kivans!</h1>
-        <p class="info--ph">Horizon uses groups and mutual friends to help you find people and places to stay. To find other Kivans, ask Kiva staff for the secret unlock code or <a href="mailto:info@horizonapp.co">email us</a> a link to your LinkedIn.</p>
-        <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-travel-stay-people/id960391979?mt=8&uo=4" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon App - Travel and stay with people you trust - Oh Hey World Inc"></a>
-         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
-         <div>No iPhone? <a href="https://api.horizonapp.co/">Try the web app</a>.</div>
-      </div>
-    </div>
-  </div><!-- end wrapper-ph -->
+    <!-- ======== SECTION ======== -->
+    <section id="portfolio-2" class="section gap-1 text-edit">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 column">
+                    <div class="slogan-2" data-animate="fadeInLeft">
+                        <h3 class="light ">WHAT IS HORIZON?</h3>
+                        <h2>OUR STORY</h2>
+                    </div>
+                    <div class="divider-3"></div>
+                    <section id="portfolio-container" class="portfolio-type-3">
+                        <p class="core-message">We help you find places to stay and live within trusted networks of friends, friends of friends, and communities.</p>
+                        <p class="core-copy">It’s no secret, having friends in the city you’re visiting or moving to makes everything exponentially easier. Trusted friends, insider information &amp; connections, are not just helpful; they are the lifeblood of amazing experiences.</p>
+                        <p class="core-copy">Why? The world experienced face to face is remarkably better than the world experienced through a screen. This world needs empathy more than anything else, and lasting empathy only results from in person time, interaction, and deep understanding.</p>
+                        <p class="core-copy">We KNOW access to community transforms lives – it’s our mission to make community accessible wherever you may be.</p>
+                        <div>
+                        <a href="#providers" class="button-4">Join the group</a>
+                        <a href="#contentboxes-4" class="button-4">Offer your space</a></div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
 
-</div> <!-- end home section -->
-
-<div class="container">
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--1"><span>Search cities and countries for people connected to you</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Search cities and countries for people connected to you</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-grid.jpg" alt="">
-      </div> 
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Ask for a place to crash on your next trip</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-casey.jpg" alt="">
-      </div>   
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--2"><span>Ask for a place to crash on your next trip</span></div>
-      </div>  
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--3"><span>Choose the groups you trust</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Choose the groups you trust</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-groups.jpg" alt="">
-      </div>
- 
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Select the accommodations you can offer guests</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-settings.jpg" alt="">
-      </div>  
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--4"><span>Select the accommodations you can offer guests</span></div>
-      </div> 
-    </div><!-- end grid -->
-
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--5"><span>Raise money for charities</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Raise money for charities</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-donate.jpg" alt="">
-      </div>  
-
-    </div><!-- end grid -->
-
-  <div class="wrapper">
-    <div class="groups">
-      <h3>Being Used By Members Of</h3>
-      <div class="group__logo"> 
-       <img src="/assets/start-up-chile-logo.png" alt="Startup Chile">
-      </div>      
-      <div class="group__logo"> 
-       <img src="/assets/kiva-logo.png" alt="Kiva">
-      </div>      
-      <div class="group__logo"> 
-       <a href="/sigma-phi-epsilon"><img src="/assets/sig-ep-logo.jpg" alt="Sig Ep"></a>
-      </div>      
-      <div class="group__logo"> 
-       <img src="/assets/hult-logo.png" alt="Hult">
-      </div>
-      <div class="group__logo"> 
-       <img src="/assets/AIESEC-logo.png" alt="AIESEC">
-      </div>
-      <div class="group__logo"> 
-       <a href="/peace-corps/"><img src="/assets/npca-logo.jpg" alt="NPCA"></a>
-      </div>
-      <p>To set up your group, <a href="mailto:info@horizonapp.co?subject=Setup-a-group">email us</a>.</p>
-    </div><!-- end group -->
-  </div><!-- end wrapper -->
-</div><!-- end container -->
+    <!-- ======== / SECTION ======== -->
 
 
-<!-- Mobile Detection & Link Texting -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!-- ======== SECTION ======== -->
+    <section id="contentboxes-4" class="bg-8 section parallax gap-1 text-edit">
+        <div class="container">
+            <div class="row">
+                <div class="slogan-2" data-animate="fadeInLeft">
+                    <h3 class="light ">HOW</h3>
+                    <h2>THIS WORKS</h2>
+                </div>
+                <div class="col-md-12 column">
+                    <section id="portfolio-container" class="portfolio-type-3">
+                        <p class="core-copy">Have a room or couch in the San Francisco area, and interested in making new friends who share your passion for Kiva? Willing to host an out of town Kiva supporter attending the Lender Summit? Interested in staying with a local?</p>
+                        <p class="core-copy">You've come to the right spot.</p>
+                        <a href="http://api.horizonapp.co/settings/" class="button-4">Set Accommodations</a>
+                        <p class="spacer"></p>                    
+                    </section>
+                </div>
+                <div class="col-lg-4 col-sm-4 column">
+                    <article class="infobox-5">
+                        <header>
+                            <h4>STEP 1: GO TO GROUPS</h4>
+                        </header>
+                        <img src="assets/img/screenshots/one.jpeg">
+                    </article>
+                </div>
+                <div class="col-lg-4 col-sm-4 column">
+                    <article class="infobox-5">
+                        <header>
+                            <h4>STEP 2: ENTER CODE</h4>
+                        </header>
+                        <img src="assets/img/screenshots/two.jpg">
+                    </article>
+                </div>
+                <!-- Put something here. -->
+                <div class="col-lg-4 col-sm-4 column">
+                    <article class="infobox-5">
+                        <header>
+                            <h4>STEP 3: FIND YOUR SPACE</h4>
+                        </header>
+                        <img src="assets/img/screenshots/three.jpg">
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 
-{% include footer.html %}
+    <!-- ======== / SECTION ======== -->
+
+    <!-- ======== SECTION ======== -->
+    <section id="providers" class="bg-1 section gap-1 text-edit">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 column">
+                    <div class="slogan-2" data-animate="fadeInLeft">
+                        <h3 class="light "> JOIN THE</h3>
+                        <h2>KIVA GROUP ON HORIZON</h2>
+                    </div>
+                    <section id="portfolio-container" class="portfolio-type-3">
+                        <p class="core-message">Join us.</p>
+                        <p class="core-copy">Kiva supporters all share a passion for the power of microfinance, peer to peer, and increasing financial inclusion. Many are huge travelers who have seen the impact Kiva has on those entrepreneurs funded by the Kiva community.</p>
+                        <a href="https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8" class="button-4">Download iOS</a> <a href="https://play.google.com/apps/testing/co.horizonapp.horizonapp" class="button-4">Download Android</a>
+                        <p class="spacer"></p>
+                        <p class="core-message">Let's travel. Let's build new connections.</p>
+                        <h3>Grab the magic code: <b class="core-message">kiva</b></h3>
+
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ======== FOOTER ======== -->
+    <footer id="footer-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6">Copyright Oh Hey World, Inc 2016</div>
+                <div class="col-lg-6 col-sm-6 text-right">
+                    <a href="https://www.facebook.com/horizonapp" target="_blank" class="social-1"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/gethorizonapp" target="_blank" class="social-1"><i class="fa fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ======== / FOOTER ======== -->
+
+    <!-- ======== OTHER SCRIPTS ======== -->
+    <script src="assets/js/plugins.js"></script>
+    <script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <!-- ======== /OTHER SCRIPTS ======== -->
+</body>
+
+</html>
