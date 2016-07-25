@@ -3951,7 +3951,17 @@ section#comments {
         display: none;
     }
     #header-title-3 h1 {
-        font-size: 32px;
+        font-size: 28px;
         padding: 0px;
+        margin-top: 130px;
+        line-height: 35px;
+    }
+    .button-3 {
+        font-size: 12px !important;
+        padding: 6px 20px !important;
+    }
+    
+    .button-4 {
+        margin-bottom: 10px;
     }
 }
