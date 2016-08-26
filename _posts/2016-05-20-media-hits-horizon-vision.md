@@ -11,7 +11,7 @@ For further clarity on the longer term vision (and some of what got us to this p
 
 An interview in the Huffington Post (conducted by [Ioana Budeanu](https://twitter.com/ioanablog)):
 
-<a href="huffingtonpost.com/entry/drew-meyers-conversations-friendships-experiences_us_57369f2fe4b0ed0ca07a9295" class="btn btn--full">Read Now</a>
+<a href="http://huffingtonpost.com/entry/drew-meyers-conversations-friendships-experiences_us_57369f2fe4b0ed0ca07a9295" class="btn btn--full">Read Now</a>
 
 A podcast interview with Tony Loyd on the [Social Entrepreneur Podcast](http://tonyloyd.com/category/podcast/):
 
