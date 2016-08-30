@@ -18,7 +18,7 @@ What does being a member mean?
 
 You're keen to meet others who share your same values, and offer those who come to your town hospitality (schedule permitting of course), and willing to both leave a small donation when you stay with someone as well as ask those who stay with you to make one. How much? We began testing our donation model while living in Santiago going through Start-Up Chile. We found the average donation was $7 per night; the cost of a coffee and scone at Starbucks. That seems fairly resonable, $21 for a 3 night stay (far cheaper than a hostel or AirBnB).
 
-Donations currently benefit [Kiva.org](http://www.kiva.org), and organization I've personally supported for a number of years. 
+Donations currently benefit [Kiva.org](http://www.kiva.org), an organization I've personally supported for a number of years. 
 
 <p align="center"><img src="/assets/kiva-logo.png"></p>
 
