@@ -19,4 +19,4 @@ Katerina had the following to say after their stay:
 
 It's safe to say community enriches travel opportunities. Thank you to Katerina, Roman, and Petr for sharing Czech culture with me.
 
-For attendees of the Unlikely Allies gathering, you may use the group unlock code "unlikelyallies2016" if you have an interest in connecting with other attendees around the globe between now and next year's event in Berlin. Impact Hub members (anywhere), [shoot us a note](mailto:support@horizonapp.co) for the private group unlock code to the Hub community.
+For attendees of the Unlikely Allies gathering, you may use the group unlock code "unlikelyalliesinsider" if you have an interest in connecting with other attendees around the globe between now and next year's event in Berlin. Impact Hub members (anywhere), [shoot us a note](mailto:support@horizonapp.co) for the private group unlock code to the Hub community.
