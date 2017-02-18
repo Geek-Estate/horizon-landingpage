@@ -8,13 +8,13 @@ It’s no secret, every traveler wants a friend in every city they visit. Truste
 
 Finding those amazing connections is a horribly inefficient process. [We see a better way](/blog/what-horizon-dream/).
 
-We facilitate hospitality exchanges among communities. We enable you to host your trusted network which includes friends and family, friends of theirs, and members of the associations and affinity groups you belong to. After their stay (if you accept), they'll have the option to say thank you by making a donation.
+We faciliate finding places to stay and live among friends, friends of friends, and the communities to which you belong. We enable you to host your trusted network which includes friends and family, friends of theirs, and members of the associations and affinity groups you belong to (such as [Peace Corps](/peace-corps/) & [StartingBloc](/startingbloc/). After their stay (if you accept), they'll have the option to say thank you by [making a donation](www.horizonapp.co/blog/travelbygiving-unlock-code/).
 
 ## Mission
 
-Our mission is to increase access to travel opportunities by enabling shared hospitality among trusted contacts and communities; providing free or cheap accommodation and cultural experiences not otherwise available. Enabling more people to venture outside the friendly confines of the their own country and experience an array of foreign cultures, will grow the community of those who realize we live privileged lives the majority of the world can only dream of. Those who experience the world are exponentially more likely to work on projects that improve society and raise the standard of living for those in poverty, rather than just maximizing income.
+Our mission is to increase access to travel opportunities by enabling shared hospitality among trusted contacts and communities; providing free or cheap accommodation and cultural experiences not otherwise available. Enabling more people to venture outside the friendly confines of the their own country and experience an array of foreign cultures, will grow the community of those who realize we live privileged lives the majority of the world can only dream of. Those who experience the world are exponentially more likely to work on projects that improve society and raise the standard of living for those in poverty, rather than simply maximizing income.
 
-In short, we’re the travel community that gives a damn about making the world a better place — and [means it](http://www.horizonapp.co/blog/travelbygiving-unlock-code/).
+In short, we’re the travel community that gives a damn about making the world a better place — and [means it](http://www.horizonapp.co/blog/why-horizon-exists/).
 
 ## Behave Yourself
 
