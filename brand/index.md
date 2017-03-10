@@ -6,7 +6,7 @@ author: Will Moyer
 ---
 
 <div class="margin-2b">
-	<p>Need to use Horizon assets? In the sections below you can find Horizon logos, images, colors, and general brand guidelines. If you have any questions about how to represent Horizon (and for press inquiries) please email <a href="mailto:oren@horizonapp.co">Oren</a>.</p>
+	<p>Need to use Horizon assets? In the sections below you can find Horizon logos, images, colors, and general brand guidelines. If you have any questions about how to represent Horizon (and for press inquiries) please email <a href="mailto:drew@horizonapp.co">Drew</a>.</p>
 </div>
 
 <div class="grid grid--full margin-2b">
