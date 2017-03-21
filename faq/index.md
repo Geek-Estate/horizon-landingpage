@@ -22,7 +22,7 @@ author: Drew Meyers
 
 **Q: How do I get Horizon on Android?**
  
-**A:** It's ready! You can [download the beta here](https://play.google.com/apps/testing/co.horizonapp.horizonapp).
+**A:** It's ready! You can [download the app here](https://play.google.com/store/apps/details?id=co.horizonapp.horizonapp).
 
 ### Donations ###
 
@@ -72,23 +72,39 @@ Interested in additional features or analytics for your community? [Read up on o
 
 **A:** Couchsurfing or AirBnB. 
 
+Given Horizon's product is fundamentally about people and not places, we're closer to Couchsurfing than AirBnB, but there is certainly overlap with both -- particularly with our [support for sublets](http://www.horizonapp.co/blog/sublet-support/) in communities such as [travel nurses](http://www.horizonapp.co/travel-nurse-housing/).
+
+The big difference is Horizon facilitates existing trust, rather than creating new trust. It's no secret the biggest barrier to growth for both AirBnB and Couchsurfing is trust.
+
 Couchsurfing is a single hospitality exchange network ([the largest, but not the only](http://www.horizonapp.co/blog/hospitality-networks-history/)), while Horizon enables hospitality exchanges to take place among members of any existing trusted community. [Longer version](/blog/couchsurfing-differences/).
 
 AirBnB is a peer to peer accommodation marketplace allowing individuals to monetize their couches, rooms, or homes by renting to anyone with an AirBnB profile and credit card, while Horizon enables you to host only people from your trusted networks in your home, with the ability for those travelers to say thanks by donating to your charity of choice. [Longer version](/blog/horizon-different-airbnb/).
+
+### Business Model ###
+
+**Q: How does Horizon make money?**
+**A:** We're planning a model similar to Meetup.com. Public groups will be free, but those managing private groups (over a certain number of members) will require a subscription for premium features, and to manage very large groups (and sub-groups).
+
+Some of our early thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
+
+**Q: Why not make money from advertising, and make everything free?**
+**A:** We're not interested in building an advertising model. To the extent that we incentive people to spend more time using Horizon's product (we call that the time suck economy), we fail. The fundamental product goal is to get people OFF the screen, and to experience the world face to face.
+
+We believe those using and receiving value from the product should be the ones that support the business.
 
 ### Product Specifics ###
 
 **Q: I don't want to login with a Facebook account - what are my options?**
 
-**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends and friends of friends. We understand that users have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
+**A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends and friends of friends. We understand individuals have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
 
 **Q: Why does clicking contact open an in-app message sometimes, and opens an email other times?**
 
 **A:** In-app messaging only works if both people have the newest version of the iOS app or have recently logged into our web version. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5+).
 
-**Q: How are the counts of cities and countries calculated?**
+**Q: How are the counts next to cities calculated?**
 
-**A:** The counts are unique countries & cities where you have either a facebook friend, friend of a friend, or a common group member that has logged into Horizon.
+**A:** The counts are the number of unique facebook friends, friends of friends, and common group members that have logged into Horizon.
 
 **Q: How do I expand my possible places to stay?**
 
