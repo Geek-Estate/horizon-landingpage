@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-date: 2014-09-12
+date: 2017-03-21
 author: Drew Meyers
 ---
 **Q: What is Horizon?**
@@ -14,7 +14,7 @@ author: Drew Meyers
 
 **Q: What about sublets?**
 
-**A:** We realized an incredibly strong need for finding accommodations within trusted networks was sublets/roommates. Thus, we recently released an updated version of our iOS app with support for posting prolonged stay opportunities. We connect the host and renter directly; it's then up to you to arrange final details offline.
+**A:** We realized an incredibly strong need for finding accommodations within trusted networks was sublets/roommates. Thus, we  support posting prolonged stay opportunities. We connect the host and renter directly; it's then up to you to arrange final details offline.
 
 **Q: What's with the name?**
  
