@@ -57,3 +57,9 @@ DEPENDENCIES
   jekyll
   kramdown
   rack-jekyll
+
+RUBY VERSION
+   ruby 2.1.7p400
+
+BUNDLED WITH
+   1.14.6
