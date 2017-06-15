@@ -8,6 +8,8 @@ author: Drew Meyers
 
 **A:** Horizon helps travelers find places to stay with people they trust.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIWTzGFZf78" frameborder="0" allowfullscreen></iframe>
+
 **Q: How does it work?**
 
 **A:** Login with your Facebook account, then join groups whose members you are interested in connecting with in person using group unlock codes. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
