@@ -70,6 +70,8 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
+<p align="center"><a href="https://www.patreon.com/bePatron?u=4993040" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+
 **Q: Horizon is NOT...**
 
 **A:** Couchsurfing or AirBnB. 
@@ -85,7 +87,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 ### Business Model ###
 
 **Q: How does Horizon make money?**
-**A:** We're planning a model similar to Meetup.com. Public groups will be free, but those managing private groups (over a certain number of members) will require a subscription for premium features, and to manage very large groups (and sub-groups).
+**A:** We're planning a model similar to Meetup.com. Public groups will always be free, but those managing private groups (over a certain number of members) will require a subscription for premium features, and to manage very large groups (and sub-groups).
 
 Some of our early thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
 
