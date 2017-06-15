@@ -70,8 +70,6 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
-<a href="patreon.com/horizonapp" class="btn btn--full">Become a Patron!</a>
-
 **Q: Horizon is NOT...**
 
 **A:** Couchsurfing or AirBnB. 
