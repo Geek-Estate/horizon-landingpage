@@ -4,7 +4,7 @@ title: About
 date: 2014-05-16
 author: Drew Meyers
 ---
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CIWTzGFZf78" frameborder="0" allowfullscreen></iframe><p>
+[iframe src="http://www.youtube.com/embed/CIWTzGFZf78" frameborder="0" width="560" height="315"]
 
 It’s no secret, every traveler wants a friend in every city they visit. Trusted friends, and insider information, is the lifeblood of amazing travel experiences. Two people with shared passions and experiences meeting eye-to-eye in the same room and forming real relationships is where life's magical moments stem from.
 

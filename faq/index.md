@@ -8,7 +8,7 @@ author: Drew Meyers
 
 **A:** Horizon helps travelers find places to stay with people they trust.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIWTzGFZf78" frameborder="0" allowfullscreen></iframe>
+[iframe src="http://www.youtube.com/embed/CIWTzGFZf78" frameborder="0" width="560" height="315"]
 
 **Q: How does it work?**
 
