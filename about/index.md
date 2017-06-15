@@ -18,7 +18,7 @@ Our mission is to increase access to travel opportunities by enabling shared hos
 
 In short, we’re the travel community that gives a damn about making the world a better place — and [means it](http://www.horizonapp.co/blog/why-horizon-exists/).
 
-<p align="center"><a href="https://www.patreon.com/bePatron?u=4993040" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+<a href="patreon.com/horizonapp" class="btn btn--full">Become a Patron!</a>
 
 ## Behave Yourself
 

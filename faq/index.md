@@ -70,7 +70,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
-<p align="center"><a href="https://www.patreon.com/bePatron?u=4993040" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+<a href="patreon.com/horizonapp" class="btn btn--full">Become a Patron!</a>
 
 **Q: Horizon is NOT...**
 
