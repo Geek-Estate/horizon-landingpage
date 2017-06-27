@@ -5,7 +5,7 @@ date: 2017-06-27
 categories: blog
 author: Drew Meyers
 ---
-Today's my 35th birthday. I received an early birthday present a week ago in the form of an email from a University of Michigan student who found [our internship opportunity on Angel List](https://angel.co/horizon-2/jobs/119322-growth-marketing-marketing-community-intern).
+Today marks my 35th birthday. I received an early birthday present a week ago in the form of an email from a University of Michigan student who found [our internship opportunity on AngelList](https://angel.co/horizon-2/jobs/119322-growth-marketing-marketing-community-intern). 
 
 > Hi Drew,
 
@@ -21,4 +21,4 @@ Today's my 35th birthday. I received an early birthday present a week ago in the
 
 > Mackenzie Visser
 
-It's emails exactly like Mackenzie's that keep us committed to Horizon's [mission of unlocking travel opportunities by making community accessible](http://www.horizonapp.co/blog/dina-kaplan-community-accessible/). Thank you, Mackenzie, for re-affirming the importance of Horizon's mission and existence.
+It's emails like this that keep us committed to Horizon's [mission of unlocking travel opportunities by making community accessible](http://www.horizonapp.co/blog/dina-kaplan-community-accessible/). Thank you, Mackenzie, for re-affirming the importance of Horizon's mission -- and existence.
