@@ -14,9 +14,15 @@ author: Drew Meyers
 
 **A:** Login with your Facebook account, then join groups whose members you are interested in connecting with in person using group unlock codes. Once past the onboarding screens, you can find members by location who are connected to you through mutual friends and groups. When you find someone, you may ask them whether they are available to host during your visit. If they accept and you stay with them, you’ll have the option to say thank you by making a donation. Note that hosts can enable and disable visibility of their accommodation details based on their level of connection to you and for specific groups.
 
+**Q: What are private groups, and how much do they cost?**
+
+**A:** If you want to have a private group, you need to become a Patreon Supporter ($20 per month per group). We'll send you an email to gather details for your personalized group. You can share it with members of your community to build your own trusted hospitality network.
+
+Want a group setup? [Support our Patreon campaign here](https://www.patreon.com/horizonapp).
+
 **Q: What about sublets?**
 
-**A:** We realized an incredibly strong need for finding accommodations within trusted networks was sublets/roommates. Thus, we  support posting prolonged stay opportunities. We connect the host and renter directly; it's then up to you to arrange final details offline.
+**A:** We realized an incredibly strong need for finding accommodations within trusted networks was sublets/roommates. Thus, we  support posting prolonged stay opportunities. We connect the host and renter directly; it's up to the two individuals to arrange specific details offline.
 
 **Q: What's with the name?**
  
@@ -36,7 +42,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: How much do I have to donate?**
 
-**A:** In our early testing, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
+**A:** In our testing, travelers are donating $7 per night on average. That said, you can donate as much or as little as you'd like.
 
 **Q: Why should I donate through Horizon rather than donating direct?**
 
@@ -66,7 +72,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I want Horizon for my community. How do I enable that?**
 
-**A:** Ask by [email](mailto:info@horizonapp.co) - send the desired name of the group, and what you want the "unlock code" to be. We're then happy to create a group for you that you may share with other members. [Example social media posts can be found here](/share/).
+**A:** [Support our Patreon campaign here](https://www.patreon.com/horizonapp) with $20 per month (or convince 10 members of your community to contribute $2 per month.
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
@@ -85,12 +91,14 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 ### Business Model ###
 
 **Q: How does Horizon make money?**
-**A:** We're planning a model similar to Meetup.com. Public groups will always be free, but those managing private groups (over a certain number of members) will require a subscription for premium features, and to manage very large groups (and sub-groups).
+**A:** Finding friends and friends of friends, and members of public groups will always be free, but those managing private groups require a subscription (paid via [our Patreon campaign](https://www.patreon.com/horizonapp)). Group administrators will have control over user access, premium features, and the ability to manage very large groups (and sub-groups).
 
-Some of our early thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
+Some of our thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
+
+Meetup.com and GitHub are the best known examples of this business model. 
 
 **Q: Why not make money from advertising, and make everything free?**
-**A:** We're not interested in building an advertising model. To the extent that we incentive people to spend more time using Horizon's product (we call that the time suck economy), we fail. The fundamental product goal is to get people OFF the screen, and to experience the world face to face.
+**A:** We're not interested in building an advertising model. To the extent that we incentivize people to spend more time using Horizon's product (we call that the time suck economy), we fail. The fundamental product goal is to get people OFF the screen, and to experience the world face to face.
 
 We believe those using and receiving value from the product should be the ones that support the business.
 
