@@ -68,11 +68,11 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: Which communities are available?**
 
-**A:** Beyond the "publicly available groups" available on [our web version](http://api.horizonapp.co/groups/), the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are several unlock codes located [here](/blog/group-codes-available/) and [here](/blog/unlock-codes-hospitality-exchanges/). If you'd like a group created, please [let us know](mailto:info@horizonapp.co).
+**A:** Beyond the "publicly available groups" available on [our web version](http://api.horizonapp.co/groups/), the only communities that are available inside Horizon are ones we've specifically created for communities or groups whose administrators have reached out to us. There are several unlock codes located [here](/blog/group-codes-available/) and [here](/blog/unlock-codes-hospitality-exchanges/).
 
 **Q: I want Horizon for my community. How do I enable that?**
 
-**A:** [Support our Patreon campaign here](https://www.patreon.com/horizonapp) with $20 per month (or convince 10 members of your community to contribute $2 per month.
+**A:** [Support our Patreon campaign here](https://www.patreon.com/horizonapp) with $20 per month (or convince 10 members of your community to contribute $2 per month).
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
