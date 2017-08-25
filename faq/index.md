@@ -8,7 +8,7 @@ author: Drew Meyers
 
 **A:** Horizon helps travelers find places to stay with people they trust.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIWTzGFZf78" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GC_CezIN2RE" frameborder="0"> </iframe>
 
 **Q: How does it work?**
 
@@ -91,6 +91,7 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 ### Business Model ###
 
 **Q: How does Horizon make money?**
+
 **A:** Finding friends and friends of friends, and members of public groups will always be free, but those managing private groups require a subscription (paid via [our Patreon campaign](https://www.patreon.com/horizonapp)). Group administrators will have control over user access, premium features, and the ability to manage very large groups (and sub-groups).
 
 Some of our thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
@@ -98,6 +99,7 @@ Some of our thinking on the "enterprise" group offering can [be found here](http
 Meetup.com and GitHub are the best known examples of this business model. 
 
 **Q: Why not make money from advertising, and make everything free?**
+
 **A:** We're not interested in building an advertising model. To the extent that we incentivize people to spend more time using Horizon's product (we call that the time suck economy), we fail. The fundamental product goal is to get people OFF the screen, and to experience the world face to face.
 
 We believe those using and receiving value from the product should be the ones that support the business.
