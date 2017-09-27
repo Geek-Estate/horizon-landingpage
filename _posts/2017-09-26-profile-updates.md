@@ -17,7 +17,9 @@ Since our [last update](http://www.horizonapp.co/blog/whats-new-web-version/), w
 
 <p align="center"><img src="/assets/horizon-new-profile.png"></p>
 
-That's not all. We've added three fields to the accommodation details portion of profiles. Neighborhood (our most requested update), donation per night, and donation recipient (currently Kiva or Pencils of Promise).
+That's not all. Let's say you want to quickly tell travelers you live in Greenwood, and not right in downtown? Let's say you are willing to host people if they donate $15 per night to your favorite charity. Let's say your favorite charity happens to be Kiva.
+
+You can now do that on Horizon using the three fields we've added to the accommodation details portion of profiles: neighborhood (our most requested update), donation per night, and donation recipient (currently Kiva or Pencils of Promise).
 
 <p align="center"><img src="/assets/horizon-accommodation-details-profile.png"></p>
 
@@ -25,4 +27,4 @@ Ready to update your profile?
 
 <a href="https://api.horizonapp.co/profile/edit" class="btn btn--full">Edit/update your profile</a>
 
-We've heard over and over members of Horizon want to know more about the other people they are speaking to. What else can we do to make Horizon better? [Shoot any suggestions our way](mailto:support@horizonapp.co) (yes, you can send us questions, too).
+What else can we do to make Horizon better? [Shoot any suggestions our way](mailto:support@horizonapp.co) (yes, you can send us questions, too).
