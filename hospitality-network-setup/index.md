@@ -46,38 +46,38 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     </tr>
     <tr>
       <td>Private Groups</td>
-      <td>Unlimited (beta)</td>
       <td>Unlimited</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Private Members</td>
-      <td>Unlimited (beta)</td>
-      <td>Unlimited</td>
+      <td>0</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>Member authentication</td>
+      <td>None</td>
       <td>Unlock Code</td>
-      <td>Email Whitelist</td>
     </tr>
     <tr>
       <td>Master / Subgroups</td>
       <td>No</td>
-      <td>Yes</td>
+      <td>Yes (planned)</td>
     </tr>
     <tr>
       <td>Analytics</td>
       <td>No</td>
-      <td>Yes</td>
+      <td>Yes (planned)</td>
     </tr>
     <tr>
       <td>Integrated Donations for 501c3’s</td>
       <td>No</td>
-      <td>Yes</td>
+      <td>Yes (planned)</td>
     </tr>
     <tr>
       <td>Ability to Charge Monthly / Yearly Membership Dues</td>
       <td>No</td>
-      <td>Yes</td>
+      <td>Yes (planned)</td>
     </tr>
     <tr>
       <td>Member Transaction Fees</td>
@@ -92,7 +92,7 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     <tr>
       <th>Pricing</th>
       <th>Free</th>
-      <th>Free<br>(Beta Pricing)</th>
+      <th>$20 / month</th>
     </tr>
   </tbody>
 </table>
