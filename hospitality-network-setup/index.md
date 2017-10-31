@@ -32,7 +32,7 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     <tr>
       <th>Features</th>
       <th>Basic</th>
-      <th>Enterprise</th>
+      <th>Pro</th>
     </tr>
     <tr>
       <td>Public Groups</td>
