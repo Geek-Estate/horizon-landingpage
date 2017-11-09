@@ -10,9 +10,7 @@ Do you believe making a difference in the world matters? Those who have traveled
 
 House gifts are great, but I think we all know none of us "need" traditional house gifts. Sure, it's great to get a bottle of wine, a nice meal, or some sort of food from a far off destination (for instance, we received chocolate from Germany when [Jochen arrived in Santiago](http://www.horizonapp.co/blog/jochen-beefballs-santiago-friends/)). That money could be much better spent helping those truly in need, rather than to add a few more luxuries to our already luxurious lives.
 
-Horizon is all about bringing those with a shared passion, affinity, or experience together in the physical world. If [#travelbygiving](https://twitter.com/search?q=%23travelbygiving) resonates with you, you may join the community on Horizon using the following unlock code:
-
-> travelbygiving2015
+Horizon is all about bringing those with a shared passion, affinity, or experience together in the physical world. If [#travelbygiving](https://twitter.com/search?q=%23travelbygiving) resonates with you, you may join the community on Horizon using the following link: [https://api.horizonapp.co/group/292](https://api.horizonapp.co/group/292)
 
 What does being a member mean?
 
