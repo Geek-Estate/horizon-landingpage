@@ -16,6 +16,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script>
         $(function() {
@@ -27,115 +28,42 @@
 </head>
 
 
-    <body>
+<body>
 
-    <style>
-   
-  .travel-nurse {
-    height: 100%;
-    width: 100%;
-
-    background-image: url('/stay-night-give-night/img/Seattle-skyline-saturation.jpg'); 
-    background-position: center;
-    background-size: cover;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .travel-nurse__content {
-    text-align: center;
-    color: white;
-    max-width: 100%;
-    width: 48rem;
-  }
-
-  .travel-nurse__heading {
-      font-weight: 700;
-      color: white;
-  }
-
-  .btn--full {
-    width: 40%;
-  }
-
-  .btn2 {
-    text-transform: lowercase;
-    font-size: 85%;
-    background-color: rgb(162, 226, 226);
-    width: 20%;
-    height: 20%;
-  }
-
-  .input-text {
-      border: 1px solid rgba(255,255,255,.75);
-      background: rgba(255,255,255,.3);
-      width: 100%;
-      height: 3rem;
-      color: #000000;
-  }
-
-  .input-text::-webkit-input-placeholder {
-      color: #000000;
-      font-weight: 300;
-  }
-
-  .input-text:-moz-placeholder { /* Firefox 18- */
-     color: #000000;
-     font-weight: 300;  
-  }
-
-  .input-text::-moz-placeholder {  /* Firefox 19+ */
-     color: #000000;
-     font-weight: 300;  
-  }
-
-  .input-text:-ms-input-placeholder {  
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  a, a:visited {
-    color: white;
-  }
-
-
-
-
-</style>
-
-<div class="travel-nurse">
-
-  <div class="travel-nurse__content">
-    <div class="travel-nurse__heading">
-      <h1><strong>Stay a Night, Give a Night</strong></h1>
-    </div>
-    <p>Take someone off the streets with your stay in Seattle.</p>
-    <p>Your $14 per night donation as thanks for a local hosting you will provide a night of shelter for the homeless.</p>
-    <p>Charity Partner: <a href="http://www.marysplaceseattle.org/">Mary's Place</a></p>
-    
-   
+<div class="hero">
+  <div class="hero__content">
+    <h1 class="hero__heading">Stay a Night, Give a Night</h1>
+    <p class="hero__subhead">Take someone off the streets with your stay in Seattle</p>
     <div>
         <form action = "https://docs.google.com/forms/d/e/1FAIpQLSf-Dsxr7_Avlsfban8BJ-k2Xn2MnOtppXY-BdUzVU5PVemynQ/viewform"/>
-          <input type="submit" value="I'm coming to Seattle" class="button btn btn--full margin-b">
+          <input type="submit" value="I'm coming to Seattle" class="button btn margin-b">
         </form>
     </div>  
-    <div>
-      <form action = "http://www.horizonapp.co/stay-night-give-night/how-it-works/"/>
-        <input type="submit" value="How it Works" class="button btn btn--full margin-b btn2">
-      </form>
-    </div>  
+  </div>  
+</div>
 
-    <p>In partnership with: <a href="http://www.impacthubseattle.com/">Impact Hub</a></p>
+<div class="content">
+  <div class="content__narrow">
+      <h2>Shelter provided by</h2>
+      <div class="partners">
+        <a class="partner-logo" href="http://www.marysplaceseattle.org/">
+          <img src="img/logo-marys-place.png" alt="Mary's Place">
+        </a>
+      </div>
+      <h2>In partnership with</h2>
+      <div class="partners">
+        <a class="partner-logo" href="https://impacthubseattle.com/">
+          <img src="img/logo-impact-hub-square.jpg" alt="Mary's Place">
+        </a>
+      </div>
+  </div>
+  <div class="content__wide">
+    <h2>How It Works</h2>
+    <p>Horizon facilitates hospitality exchange with friends, friends of friends, and communities. We believe in giving back, and enable travelers to thank their hosts by making a donation to charity.</p>
+    <p>The "Stay a Night, Give a Night" campaign aligns our give back model with helping those who need it most: the homeless. It only costs $14 per night to provide shelter. Your $14 per night donation as thanks for a local hosting you will provide a night of shelter for the homeless. In Seattle, we've partnered with Mary's Place to put the funds to good use.</p>
+    <p>For travelers, the campaign provides a clear win. Cost savings over a vacation rental or hotel, in addition to building a strong relationship with a socially conscious local.</p>
+  </div>
 
-    <a href="https://api.horizonapp.co/user/profile/edit" target="_blank">Are you a Seattleite? Become a Host.</a>
-
-    <a href="mailto:drew@horizonapp.co" target="_blank">Interested in bringing this program to your city? Send us an email.</a>
-
-  </div> 
-    
 </div>
 
 
@@ -183,7 +111,7 @@
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-51448023-1');ga('send','pageview');
         </script>
-    </body>
+</body>
 
 
 </html>
