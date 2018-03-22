@@ -16,6 +16,11 @@
 - Start local server
     - `jekyll serve`
 
+## More Info 
+- Frontend template: 
+    - HTML5 Boilerplate v4.3.0
+    - Source Code: https://github.com/h5bp/html5-boilerplate/tree/v4.3.0
+
 ## Making commits
 
 https://www.sourcetreeapp.com/
