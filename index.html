@@ -109,18 +109,173 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     color: white;
   }
 
-  .centered {
+  .main-header {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
-
-  h1 {
     font-family: 'Lato', sans-serif;
     width: 90%;
     font-size: 3.5vw;
   }
+
+  .main-subheader {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+    font-size: 2vw;
+    color: #92FFFE;
+    font-weight: lighter;
+  }
+
+  h3 {
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    font-size: 2vw;
+    font-weight: bolder;
+  }
+
+  .search-form {
+    position: absolute;
+    top: 65%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+
+  .search-bar {
+    font-size: 1.5vw;
+    font-weight: lighter;
+    border-radius: 5px;
+    border: none;
+    padding: 12px 20px;
+  }
+
+  .submit-button {
+    background: none;
+    border: none;
+    font-size: 3vw;
+    padding: 0px;
+  }
+
+  .how-it-works {
+    background-color: #EEEEEE;
+    overflow: hidden;
+    margin-top: 5px;
+    padding-bottom: 136px;
+  }
+
+  .works-title {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 80px;
+  }
+
+  .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .col3 {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+  }
+  
+  .col6 {
+    float: left;
+    width: 66.66%;
+    text-align: center;
+  }
+
+  .letter {
+    margin: 0px 20px 0px 20px;
+    background-color: white;
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 36px;
+  }
+
+  .letter-header {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    padding: 20px;
+  }
+
+  .letter-body {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    padding: 40px;
+  }
+
+  .letter-link {
+    padding: 14px 16px;
+    background-color: #92FFFE;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+  }
+
+  article {
+    font-family: 'Lato', sans-serif;
+  }
+
+  article .col3 {
+    text-align: left;
+  }
+
+  .article-content {
+    padding: 50px;
+  }
+
+  article h5 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+  }
+
+  .article-image {
+    width: 100%;
+  }
+
+  .article-title {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+
+  .article-subtitle {
+    font-weight: lighter;
+  }
+
+  .article-body {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .article-content .letter-link {
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 21px 50px 21px 50px;
+  }
+
+  .article-spon-img {
+    padding: 9px;
+  }
+
+  .supported-by {
+    padding: 20px 20px 20px 0px;
+  }
+  
+  .benefit {
+    padding: 20px 20px 20px 0px;
+  }
+
 
 </style>
 
@@ -139,8 +294,89 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
 <div class="container">
   <img src="http://via.placeholder.com/1440x949" style="width:100%;">
-  <h1 class="centered">Use the the power of community to travel the world</h1>
+  <h1 class="main-header">Use the the power of community to travel the world</h1>
+  <h2 class="main-subheader">Home sharing among friends, friends of friends, and community</h2>
+  <h3>Where are you traveling to?</h3>
+  <form class="search-form">
+    <input type="text" placeholder="e.g. Seattle" class="search-bar">
+    <button type="submit" class="submit-button"> <i class="fa fa-arrow-circle-right"></i> </button>
+  </form>
 </div>
+
+<div class="how-it-works">
+  <h1 class="works-title">How It Works</h1>
+  <div class="row">
+    <div class="col3">
+      <div class="letter">
+        <h2 class="letter-header">Traveling</h2>
+        <img src="http://via.placeholder.com/64x64">
+        <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+           sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+           magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
+           quis nostrud exerci tation ullamcorper. 
+         </p>
+         <button class="letter-link">Find a Host</button>
+      </div>
+    </div>
+    <div class="col3">
+      <div class="letter">
+        <h2 class="letter-header">Hosting</h2>
+        <img src="http://via.placeholder.com/64x64">
+        <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+           sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+           magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
+           quis nostrud exerci tation ullamcorper. 
+         </p>
+         <button class="letter-link">Become a Host</button>
+      </div>
+    </div>
+    <div class="col3">
+      <div class="letter">
+        <h2 class="letter-header">Community</h2>
+        <img src="http://via.placeholder.com/64x64">
+        <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+           sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+           magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
+           quis nostrud exerci tation ullamcorper. 
+         </p>
+         <button class="letter-link">Create Community</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<article>
+  <div class="article-row">
+    <div class="col3">
+      <div class="article-content">
+        <h4 class="article-title">Featured Campaign</h4>
+        <h5 class="article-subtitle">STAY A NIGHT</h5>
+        <h5 class="article-subtitle">GIVE A NIGHT</h5>
+        <p class="article-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed 
+          diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam 
+          erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper 
+        </p>
+        <div class="benefit">
+          <p>A Benefit of</p>
+          <img src="http://via.placeholder.com/82x39">
+        </div>
+        <button class="letter-link">Visiting Seattle</button>
+        <br>
+        <button class="letter-link">Host in Seattle</button>
+        <p class="supported-by">Supported By</p>
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+      </div>
+    </div>
+    <div class="col6">
+      <img class="article-image" src="http://via.placeholder.com/821x899">
+    </div>
+  </div>
+</article>
 
 
 <!-- Mobile Detection & Link Texting -->
