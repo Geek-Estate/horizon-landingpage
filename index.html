@@ -19,6 +19,11 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     margin-left: 18px;
   }
 
+  .horizon-logo img {
+    height: 47px;
+    width: 158px;
+  }
+
   .topnav-text {
     margin-top: 11px;
     font-family: 'Lato', sans-serif;
@@ -186,6 +191,27 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     border: none;
     font-size: 3vw;
     padding: 0px;
+  }
+
+
+  /* 
+  HOW IT WORKS 
+  */
+
+  .how-it-works-row {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: auto;
+  }
+
+  .how-it-works-item {
+    flex: 1 0 calc(33.33% - 10px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
   }
 
   .how-it-works-new {
@@ -373,16 +399,15 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     font-size: 9px;
   }
 
-  .horizon-logo img {
-    height: 47px;
-    width: 158px;
-  }
+
 
   .fa-arrow-circle-right {
     color: #92FFFE;
     font-size: 40px;
     margin-left: 20px;
   }
+
+  /* STYLEING FOR SPONSOR SECTION */
 
   .sponsor-row {
     display: flex;
@@ -400,6 +425,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   }
 
 
+  /* STYLING FOR REVIEW SECTION */
 
   .review-body {
     font-size: 24px;
@@ -439,8 +465,8 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
 <div class="how-it-works-new">
   <h1 class="works-title">How It Works</h1>
-  <div class="row">
-    <div class="col3">
+  <div class="how-it-works-row">
+    <div class="how-it-works-item">
       <div class="letter">
         <h2 class="letter-header">Traveling</h2>
         <img src="/assets/redesign/traveling icon.png">
@@ -452,7 +478,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
          <button class="letter-link">Find a Host</button>
       </div>
     </div>
-    <div class="col3">
+    <div class="how-it-works-item">
       <div class="letter">
         <h2 class="letter-header">Hosting</h2>
         <img src="/assets/redesign/hosting icon.png">
@@ -464,7 +490,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
          <button class="letter-link">Become a Host</button>
       </div>
     </div>
-    <div class="col3">
+    <div class="how-it-works-item">
       <div class="letter">
         <h2 class="letter-header">Community</h2>
         <img src="/assets/redesign/hosting icon.png">
