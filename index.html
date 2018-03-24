@@ -36,6 +36,10 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     float: right;
   }
 
+  .hero-nav {
+    position: relative;
+  }
+
   /* START NAVBAR */
 
   /* Add a black background color to the top navigation */
@@ -43,6 +47,10 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .topnav {
       background-color: rgba(0,0,0,0.6);
       overflow: hidden;
+      position: absolute;
+      top: 0px;
+      z-index: 1;
+      width: 100%;
   }
 
   /* Style the links inside the navigation bar */
@@ -273,6 +281,8 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
   .article-spon-img {
     padding: 9px;
+    height: 46px;
+    width: 46px;
   }
 
   .supported-by {
@@ -281,12 +291,21 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   
   .benefit {
     padding: 20px 20px 20px 0px;
+    vertical-align: center;
+  }
+
+  .benefit p {
+     float: left;
+     padding-right: 20px;
   }
 
   .loved-by {
+    width: 80%;
+    margin: auto;
     text-align: center;
     overflow: hidden;
     margin-bottom: 70px;
+
   }
 
   .loved-by-title {
@@ -300,6 +319,9 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .review {
     overflow: hidden;
     padding: 20px;
+    width: 80%;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
   }
 
   .footer-item {
@@ -324,34 +346,67 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     color: #f2f2f2;
   }
 
+  .footer-list {
+    max-width: 1000px;
+    margin: auto;
+  }
+
   .footer-copyright {
     padding: 20px 16px;
     font-size: 9px;
   }
+
+  .horizon-logo img {
+    height: 47px;
+    width: 158px;
+  }
+
+  .fa-arrow-circle-right {
+    color: #92FFFE;
+    font-size: 40px;
+    margin-left: 20px;
+  }
+
+  .sponsor-row {
+    /*vertical-align: center;*/
+  }
+
+  .review-body {
+    font-size: 24px;
+    color: #2D2D2D;
+  }
+
+  .review-name {
+    font-size: 18px;
+    font-weight: lighter;
+  }
+
 </style>
 
-<div class="topnav" id="myTopnav">
-  <a href="#" class="horizon-logo"><img src="http://via.placeholder.com/158x47"></a>
-  <div class="icon-group">
-    <a href="#" class="topnav-text">Featured Campaign</a>
-    <a href="#" class="topnav-text">How It Works</a>
-    <a href="#" class="topnav-text">Why Horizon</a>
-    <a href="#" class="topnav-text">Become A Patron</a>
-    <a href="#" class="topnav-icon icon-group"><img src="http://via.placeholder.com/34x34"></a>
-    <a href="#" class="topnav-icon"><img src="http://via.placeholder.com/34x34"></a>
+<div class="nav-hero">
+  <div class="topnav" id="myTopnav">
+    <a href="#" class="horizon-logo"><img src="/assets/logo-white.png"></a>
+    <div class="icon-group">
+      <a href="#" class="topnav-text">Featured Campaign</a>
+      <a href="#" class="topnav-text">How It Works</a>
+      <a href="#" class="topnav-text">Why Horizon</a>
+      <a href="#" class="topnav-text">Become A Patron</a>
+      <a href="#" class="topnav-icon icon-group"><img src="/assets/redesign/Twitter_White.png"></a>
+      <a href="#" class="topnav-icon"><img src="/assets/redesign/Twitter_White.png"></a>
+    </div>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
   </div>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
 
-<div class="container">
-  <img src="http://via.placeholder.com/1440x949" style="width:100%;">
-  <h1 class="main-header">Use the the power of community to travel the world</h1>
-  <h2 class="main-subheader">Home sharing among friends, friends of friends, and community</h2>
-  <h3>Where are you traveling to?</h3>
-  <form class="search-form">
-    <input type="text" placeholder="e.g. Seattle" class="search-bar">
-    <button type="submit" class="submit-button"> <i class="fa fa-arrow-circle-right"></i> </button>
-  </form>
+  <div class="container">
+    <img src="/assets/redesign/bkgd_3peopeleiphone.jpg" style="width:100%; filter: blur(5px);">
+    <h1 class="main-header">Use the the power of community to travel the world</h1>
+    <h2 class="main-subheader">Home sharing among friends, friends of friends, and community</h2>
+    <h3>Where are you traveling to?</h3>
+    <form class="search-form">
+      <input type="text" placeholder="e.g. Seattle" class="search-bar">
+      <button type="submit" class="submit-button"> <i class="fa fa-arrow-circle-right"></i> </button>
+    </form>
+  </div>
 </div>
 
 <div class="how-it-works">
@@ -360,7 +415,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <div class="col3">
       <div class="letter">
         <h2 class="letter-header">Traveling</h2>
-        <img src="http://via.placeholder.com/64x64">
+        <img src="/assets/redesign/traveling icon.png">
         <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
            sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
            magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
@@ -372,7 +427,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <div class="col3">
       <div class="letter">
         <h2 class="letter-header">Hosting</h2>
-        <img src="http://via.placeholder.com/64x64">
+        <img src="/assets/redesign/hosting icon.png">
         <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
            sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
            magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
@@ -384,7 +439,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <div class="col3">
       <div class="letter">
         <h2 class="letter-header">Community</h2>
-        <img src="http://via.placeholder.com/64x64">
+        <img src="/assets/redesign/hosting icon.png">
         <p class="letter-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
            sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
            magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
@@ -409,22 +464,22 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
         </p>
         <div class="benefit">
           <p>A Benefit of</p>
-          <img src="http://via.placeholder.com/82x39">
+          <img src="/assets/redesign/Marys-Place-Logo (1).png" style="height: 39px; width: 82px;">
         </div>
         <button class="letter-link">Visiting Seattle</button>
         <br>
         <button class="letter-link">Host in Seattle</button>
         <p class="supported-by">Supported By</p>
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
-        <img class="article-spon-img" src="http://via.placeholder.com/47x46">
+        <img class="article-spon-img" src="/assets/redesign/logo-R6ventures.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-citybldr.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-Susi-Co-white-black.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-impact-hub-square.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-wikileaf.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-new-tech-nw.jpg">
       </div>
     </div>
     <div class="col6">
-      <img class="article-image" src="http://via.placeholder.com/821x899">
+      <img class="article-image" src="/assets/redesign/seattle picture.png">
     </div>
   </div>
 </article>
@@ -452,23 +507,25 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
 <div class="loved-by">
   <h1 class="loved-by-title">Loved by our friends</h1>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
-  </div>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
-  </div>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
-  </div>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
-  </div>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
-  </div>
-  <div class="col2">
-    <img src="http://via.placeholder.com/47x46">
+  <div class="sponsor-row">
+    <div class="col2">
+      <img src="assets/redesign/start-up-chile-logo.png" style="height: 43px; width: 165px;">
+    </div>
+    <div class="col2">
+      <img src="assets/redesign/AIESEC-logo.png" style="height: 83px; width: 165px;">
+    </div>
+    <div class="col2">
+      <img src="assets/redesign/startingbloc-logo.jpg" style="height: 66px; width: 165px;">
+    </div>
+    <div class="col2">
+      <img src="assets/redesign/sig-ep-logo.jpg" style="height: 79px; width: 165px;">
+    </div>
+    <div class="col2">
+      <img src="assets/redesign/Copy of Holocene-1.jpg" style="height: 45px; width: 165px;">
+    </div>
+    <div class="col2">
+      <img src="assets/redesign/Copy of npca-logo.jpg" style="height: 104px; width: 165px;">
+    </div>
   </div>
 </div>
 
@@ -476,9 +533,9 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   <div class="row">
     <div class="col3">
       <img src="http://via.placeholder.com/47x46">
-      <h6>Isabelle Lane</h6>
+      <h6 class="review-name">Isabelle Lane</h6>
     </div>
-      <p>“Global Resorts Network Grn Putting Timeshares To Shame,
+      <p class="review-body">“Global Resorts Network Grn Putting Timeshares To Shame,
       Global Resorts Network Grn Putting Timeshares To Shame”</p>
     <div class="col6">
     </div>
@@ -489,9 +546,9 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   <div class="row">
     <div class="col3">
       <img src="http://via.placeholder.com/47x46">
-      <h6>Ray Montgomery</h6>
+      <h6 class="review-name">Ray Montgomery</h6>
     </div>
-      <p>“Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy 
+      <p class="review-body">“Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy 
         nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi 
         enim ad minim veniam, quis nostrud exerci tation ullamcorper ”
       </p>
