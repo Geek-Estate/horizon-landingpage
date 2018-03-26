@@ -5,377 +5,631 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
 <style>
 
-  .product-hunt {
-    color: #fff;
-    background-image: url('/product-hunt/img/ph-bg-3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100%;
-    .clearfix;
+  html {
+    padding: 0px;
+    margin: 0px;
   }
 
-    .product-hunt .mobile-menu-button {
-        color: #fff;
-    }
-
-
-  .wrapper--ph {
-      margin-top: 1.5rem;
-
-    }
-
-  .welcome--ph {
-    font-size: 1.72rem;
-    line-height: 1.2; 
-    font-weight: 700; 
-    letter-spacing: -2px;
+  body {
+    padding: 0px;
+    margin: 0px;
   }
 
-
-
-  @media only screen and (min-width: 700px) {
-    .product-hunt {
-      margin-bottom: -3rem;
-    }
-
-    .wrapper--ph {
-      padding: 0;
-      margin: 0;
-
-      position: absolute; /* Parent must have position: relative */
-      top: 50%;
-      left: 50%;
-
-      -webkit-transform: translate(-50%, -50%);
-      -moz-transform: translate(-50%, -50%);
-      -o-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .welcome--ph {
-      font-size: 3.55rem; 
-      margin-bottom: .5rem;
-    }
-    .info--ph {
-      font-size: 1.1rem;
-      margin-bottom: 3rem;
-    }
-
+  .horizon-logo {
+    margin-left: 18px;
   }
 
-  .install-btn {
-    display: block;
-    background-color: #00ccca;
-    color: #ffffff;
-    text-decoration: none;
-    text-align: center;
-    margin: 0 auto;
-    font-weight: 300;
-    font-size: 1.5em;
-    line-height: 1.5;
-    text-shadow: 0 1px 2px rgba(0,0,0,.1);
-
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
-
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-
-    width: 16rem;
-
-    margin-bottom: 3rem;
+  .horizon-logo img {
+    height: 47px;
+    width: 158px;
   }
 
-  .install-btn:visited {
-    color: #fff;
+  .topnav-text {
+    margin-top: 11px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
   }
-  .install-msg, .download-msg {
-      background-color: rgba(0,0,0,.35);
-      line-height: 1.25;
+
+  .topnav-icon {
+    margin-top: 5px;
+  }
+
+  .topnav ul {
+    display: flex;
+  }
+
+  .icon-group {
+    float: right;
+  }
+
+  .hero-nav {
+    position: relative;
+  }
+
+  /* START NAVBAR */
+
+  .horizon-logo {
+    margin-right: 10%;
+  }
+
+  .icon-group {
+    margin-left: 10%;
+  }
+
+  /* Add a black background color to the top navigation */
+
+  .topnav {
+      background-color: rgba(0,0,0,0.6);
+      overflow: hidden;
+      position: absolute;
+      top: 0px;
+      z-index: 1;
+      width: 100%;
+  }
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+  }
+
+  /*.topnav a:not(:first-child) {float: right;}*/
+
+  /* Change the color of links on hover */
+  .topnav a:hover {
+      color: black;
+  }
+
+  /* Add an active class to highlight the current page */
+  .active {
+      background-color: #4CAF50;
+      color: white;
+  }
+
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
       display: none;
   }
 
-  .download-msg {
-    font-size: 1rem;
-    padding: ;
+  /* When the screen is less than 1200 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+  @media screen and (max-width: 1200px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+      margin-top: 10px;
+    }
+    .topnav .icon-group {
+      margin-left: 0px;
+    }
+
+
   }
 
-  .install-linktext {
-    display: none;
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+  @media screen and (max-width: 1200px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
   }
 
-  .input-text-link {
-      border: 1px solid rgba(255,255,255,.75);
-      background: rgba(255,255,255,.3);
-      width: 20rem;
-      height: 3rem;
-      color: #fff;
+  /* STOP NAVBAR */
+
+  #hero-image {
+    width: 100%;
   }
 
-  .input-text-link::-webkit-input-placeholder {
-      color: #fff;
-      font-weight: 300;
-  }
-
-  .input-text-link:-moz-placeholder { /* Firefox 18- */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link::-moz-placeholder {  /* Firefox 19+ */
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .input-text-link:-ms-input-placeholder {  
-     color: #fff;
-     font-weight: 300;  
-  }
-
-  .screen-info {
-    background: #000;
-    height: 0;
-    padding-top: 24%;
-    padding-bottom: 35.17%;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    color: #fff;
+  .container {
+    position: relative;
     text-align: center;
-    font-weight: 100;
-    font-size: 2rem;
-    line-height: 1.25;
-  }
-    .screen-info--1 {
-      background-color: #555;
-      background-image: url('/product-hunt/img/screen-bg-1.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--2 {
-      background-color: #444;
-      background-image: url('/product-hunt/img/screen-bg-2.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--3 {
-      background-color: #333;
-      background-image: url('/product-hunt/img/screen-bg-3.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--4 {
-      background-color: #222;
-      background-image: url('/product-hunt/img/screen-bg-4.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-    .screen-info--5 {
-      background-color: #111;
-      background-image: url('/product-hunt/img/screen-bg-5.jpg');
-      background-size: cover;
-      background-position: center;
-    }
-  .screen-image {
-    display: block;
-    width: 80%;
-    margin: 0 auto;
-    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
-    box-shadow: 0 2px 10px rgba(0,0,0,.25), 0 2px 2px rgba(0,0,0,.2);
+    color: white;
   }
 
-  @media only screen and (min-width: 700px) {
-    .screen-image {
-      margin: 0;
-      box-shadow: none;
-      width: 100%;
-    }
-
+  .main-header {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+    font-size: 3.5vw;
   }
 
-  .groups {
-    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-    display: -ms-flexbox;  /* TWEENER - IE 10 */
-    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
+  .main-subheader {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+    font-size: 2vw;
+    color: #92FFFE;
+    font-weight: lighter;
+  }
+
+  h3 {
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    font-size: 2vw;
+    font-weight: bolder;
+  }
+
+  .search-form {
+    position: absolute;
+    top: 65%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+
+  .search-bar {
+    font-size: 1.5vw;
+    font-weight: lighter;
+    border-radius: 5px;
+    border: none;
+    padding: 12px 20px;
+  }
+
+  .submit-button {
+    background: none;
+    border: none;
+    font-size: 3vw;
+    padding: 0px;
+  }
+
+
+  /* 
+  HOW IT WORKS 
+  */
+
+  .how-it-works-row {
+    display: flex;
     flex-wrap: wrap;
-    -webkit-align-items: center;
-    align-items: center;
-    -webkit-justify-content: center;
+    max-width: 80%;
+    margin: auto;
+  }
+
+  .how-it-works-item {
+    flex: 1 0 calc(33.33% - 10px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .how-it-works-new {
+    background-color: #EEEEEE;
+    overflow: hidden;
+    margin-top: 5px;
+    padding-bottom: 136px;
+  }
+
+  .works-title {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 80px;
+  }
+
+  .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .col2 {
+    float: left;
+    width: 16.66%;
+  }
+
+  .col3 {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+  }
+  
+  .col6 {
+    float: left;
+    width: 66.66%;
+    text-align: center;
+  }
+
+  .letter {
+    background-color: white;
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 36px;
+    /*height: 100%;*/
+  }
+
+  .letter-header {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    padding: 20px;
+  }
+
+  .letter-body {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    padding: 40px;
+    height: 175px;
+  }
+
+  .letter-link {
+    padding: 14px 16px;
+    background-color: #92FFFE;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    display: block;
+    margin: auto;
+  }
+
+  article {
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+
+  article .col3 {
+    text-align: left;
+  }
+
+  .article-content {
+    padding: 50px;
+  }
+
+  article h5 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+  }
+
+  .article-image {
+    width: 100%;
+  }
+
+  .article-title {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+
+  .article-subtitle {
+    font-weight: lighter;
+  }
+
+  .article-body {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .article-content .letter-link {
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 21px 50px 21px 50px;
+  }
+
+  .article-spon-img {
+    padding: 9px;
+    height: 46px;
+    width: 46px;
+  }
+
+  .supported-by {
+    padding: 20px 20px 20px 0px;
+  }
+  
+  .benefit {
+    padding: 20px 20px 20px 0px;
+    vertical-align: center;
+  }
+
+  .benefit p {
+     float: left;
+     padding-right: 20px;
+  }
+
+  .loved-by {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 70px;
+
+  }
+
+  .loved-by-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    margin: 20px;
+    padding: 50px;
+  }
+
+  .review {
+    overflow: hidden;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .footer-item {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  footer {
+    font-family: 'Lato', sans-serif;
+    margin-top: 50px;
+    background-color: rgba(0,0,0,0.6);
+    overflow: hidden;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #f2f2f2;
+  }
+
+  .footer-list {
+    max-width: 1000px;
+    margin: auto;
+  }
+
+  .footer-copyright {
+    padding: 20px 16px;
+    font-size: 9px;
+  }
+
+
+
+  .fa-arrow-circle-right {
+    color: #92FFFE;
+    font-size: 40px;
+    margin-left: 20px;
+  }
+
+  /* STYLEING FOR SPONSOR SECTION */
+
+  .sponsor-row {
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    padding: 3rem 0;
+    align-items: center;
   }
 
-  .groups h3 {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 1.5rem;
+  .sponsor-row .sponsor-image {
+    flex: 1 0 calc(16.66% - 10px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
   }
 
-  .groups p {
-    width: 100%;
-    text-align: center;
+
+  /* STYLING FOR REVIEW SECTION */
+
+  .review-body {
+    font-size: 24px;
+    color: #2D2D2D;
   }
 
-  .group__logo {
-    padding: 0 1.5rem;
-    margin-bottom: 1.5rem;
-    width: 50%;
+  .review-name {
+    font-size: 18px;
+    font-weight: lighter;
   }
-
-  @media only screen and (min-width: 700px) {
-    .group__logo {
-      width: 16.666666667%;
-    }
-  }
-  
-  @media screen and (max-width: 700px) {
-    iframe {
-      max-width: 100% !important;
-      width: auto !important;
-      height: auto !important;
-    }
-  }
-
-  .btn-container {
-    margin-top: 2rem;
-  }
-  
-  @media screen and (max-width: 700px) {
-    .btn-container {
-      margin-top: 1rem;
-    }
-  }
-
 
 </style>
 
-<div class="product-hunt">
+<div class="nav-hero">
+  <div class="topnav" id="myTopnav">
+    <a href="#" class="horizon-logo"><img src="/assets/logo-white.png"></a>
+    <a href="#featured" class="topnav-text">Featured Campaign</a>
+    <a href="#how-it-works-locaiton" class="topnav-text">How It Works</a>
+    <a href="#why-horizon-location" class="topnav-text">Why Horizon</a>
+    <a href="https://www.patreon.com/horizonapp" class="topnav-text">Become A Patron</a>
+    <a href="https://www.facebook.com/horizonapp" class="topnav-icon icon-group"><img src="/assets/redesign/Twitter_White.png"></a>
+    <a href="https://www.twitter.com/gethorizonapp" class="topnav-icon"><img src="/assets/redesign/Twitter_White.png"></a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
 
-  <header class="site-header">
+  <div class="container">
+    <img src="/assets/redesign/bkgd_3peopeleiphone.jpg" style="width:100%; filter: blur(5px);">
+    <h1 class="main-header">Travel the World Using the Power of Community</h1>
+    <h2 class="main-subheader">Home sharing among friends, friends of friends, and communities</h2>
+    <h3>Where are you traveling to?</h3>
+    <form class="search-form">
+      <input type="text" placeholder="e.g. Seattle" class="search-bar">
+      <a href="api.horizonapp.co"> <i class="fa fa-arrow-circle-right"></i> </a>
+    </form>
+  </div>
+</div>
 
-    <div class="wrapper">
-      <div class="grid">
-        <div class="grid__item one-half desk-one-fifth">
-          <h1 class="logo"><a href="/"><img src="/assets/logo-white.png" alt="Horizon"></a></h1>
-        </div>
-        <div class="grid__item one-half">
-          <a class="mobile-menu-button desk-hide"><span class="hidden">Menu</span></a>
-        </div>
-      </div><!-- end grid -->
-    </div><!-- end wrapper -->
+<a name="how-it-works-locaiton"></a>
 
-  </header>
-
-  <div class="wrapper wrapper--ph">
-    <div class="grid grid--padded">
-      <div class="grid__item one-whole desk-four-fifths desk-push--one-tenth text-center">
-        <h1 class="welcome--ph">Stay With Someone You Trust</h1>
-        <p class="info--ph">Horizon uses groups and mutual friends to help you find people and places to stay.</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/GC_CezIN2RE" frameborder="0"> </iframe>
-        <!-- <a style="display: block; margin-top: 2rem;" href="https://itunes.apple.com/us/app/horizon-app-travel-stay-people/id960391979?mt=8" target="itunes_store"><img width="244px" src="/assets/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Horizon App - Travel and stay with people you trust - Oh Hey World Inc"></a>
-        <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div>
-        <a style="display: block;" href="https://play.google.com/store/apps/details?id=co.horizonapp.horizonapp"><img width="244px" src="/assets/google-play-badge.png" alt="Horizon for Android"></a>
-         <div style="opacity: 0.7; margin-top: 1rem; margin-bottom: .5rem" class="type-small">&mdash; or &mdash;</div> -->
-         <div class="btn-container">
-           <a class="btn" href="https://api.horizonapp.co/">Try the web app</a>
-         </div>
+<div class="how-it-works-new">
+  <h1 class="works-title">How It Works</h1>
+  <div class="how-it-works-row">
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Traveling</h2>
+        <img src="/assets/redesign/traveling icon.png">
+        <p class="letter-body">Stay with a friend, friend of friend, 
+          or member of a community to which you belong on your next trip.
+         </p>
+         <button class="letter-link">Find a Host</button>
       </div>
     </div>
-  </div><!-- end wrapper-ph -->
-
-</div> <!-- end home section -->
-
-<div class="container">
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--1"><span>Search cities and countries for people connected to you</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Search cities and countries for people connected to you</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-grid.jpg" alt="">
-      </div> 
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Ask for a place to crash on your next trip</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-casey.jpg" alt="">
-      </div>   
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--2"><span>Ask for a place to crash on your next trip</span></div>
-      </div>  
-
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--3"><span>Choose the groups you trust</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Choose the groups you trust</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-groups.jpg" alt="">
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Hosting</h2>
+        <img src="/assets/redesign/hosting icon.png">
+        <p class="letter-body">Share your home privately with those 
+          you trust while raising money for causes you care about. 
+         </p>
+         <button class="letter-link">Become a Host</button>
       </div>
- 
-    </div><!-- end grid -->
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Select the accommodations you can offer guests</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-settings.jpg" alt="">
-      </div>  
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--4"><span>Select the accommodations you can offer guests</span></div>
-      </div> 
-    </div><!-- end grid -->
-
-    <div class="grid grid--full">
-      
-      <div class="grid__item one-whole desk-three-fourths desk-show">
-        <div class="screen-info screen-info--5"><span>Raise money for charities</span></div>
-      </div> 
-      <div class="grid__item one-whole desk-one-fourth">
-        <p class="desk-hide text-center" style="margin-top: 5rem; font-weight: 700; padding-left: 1rem; padding-right: 1rem;">Raise money for charities</p>
-        <img class="screen-image" src="/product-hunt/img/horizon-screen-donate.jpg" alt="">
-      </div>  
-
-    </div><!-- end grid -->
-
-  <div class="wrapper">
-    <div class="groups">
-      <h3>Being Used By Members Of</h3>
-      <div class="group__logo"> 
-       <a href="/startup-chile/"><img src="/assets/start-up-chile-logo.png" alt="Startup Chile"></a>
-      </div>      
-      <div class="group__logo"> 
-       <a href="/startingbloc/"><img src="/assets/startingbloc-logo.jpg" alt="StartingBloc"></a>
-      </div>      
-      <div class="group__logo"> 
-       <a href="/sigma-phi-epsilon/"><img src="/assets/sig-ep-logo.jpg" alt="SigEp"></a>
-      </div>  
-      <div class="group__logo"> 
-       <a href="/holocene/"><img src="/holocene/Holocene-1.jpg" alt="Holocene"></a>
-      </div>    
-      <div class="group__logo"> 
-       <a href="/AIESEC/"><img src="/assets/AIESEC-logo.png" alt="AIESEC"></a>
+    </div>
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Community</h2>
+        <img src="/assets/redesign/hosting icon.png">
+        <p class="letter-body">Enable your community members to find 
+          and connect with each other privately for home sharing 
+          opportunities. Raise money for causes.
+         </p>
+         <button class="letter-link">Create a Community</button>
       </div>
-      <div class="group__logo"> 
-       <a href="/peace-corps/"><img src="/assets/npca-logo.jpg" alt="NPCA"></a>
-      </div>
-      <p>To set up your group, <a href="mailto:info@horizonapp.co?subject=Setup-a-group">email us</a>.</p>
-    </div><!-- end group -->
-  </div><!-- end wrapper -->
-</div><!-- end container -->
+    </div>
+  </div>
+</div>
 
+<a name="featured"></a>
+
+<article>
+  <div class="article-row">
+    <div class="col3">
+      <div class="article-content">
+        <h4 class="article-title">Featured Campaign</h4>
+        <h5 class="article-subtitle">STAY A NIGHT</h5>
+        <h5 class="article-subtitle">GIVE A NIGHT</h5>
+        <p class="article-body">
+          Allocate tourism dollars to families and children experiencing homelessness. 
+        </p>
+        <div class="benefit">
+          <p>A Benefit for:</p>
+          <img src="/assets/redesign/Marys-Place-Logo (1).png" style="height: 39px; width: 82px;">
+        </div>
+        <a href="http://www.horizonapp.co/stay-night-give-night/" class="letter-link">Visiting Seattle</a>
+        <a href="http://www.horizonapp.co/stay-night-give-night/host-signup" class="letter-link">Host in Seattle</a>
+        <p class="supported-by">Supported By</p>
+        <img class="article-spon-img" src="/assets/redesign/logo-R6ventures.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-citybldr.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-Susi-Co-white-black.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-impact-hub-square.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-wikileaf.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-new-tech-nw.jpg">
+      </div>
+    </div>
+    <div class="col6">
+      <img class="article-image" src="/assets/redesign/seattle picture.png">
+    </div>
+  </div>
+</article>
+
+<a name="why-horizon-location"></a>
+
+<article>
+  <div class="article-row">
+    <div class="col6">
+      <iframe width="100%" height="821px"
+        src="https://www.youtube.com/embed/GC_CezIN2RE">
+      </iframe>
+    </div>
+    <div class="col3">
+      <div class="article-content">
+        <h5 class="article-subtitle">WHY</h5>
+        <h5 class="article-subtitle">HORIZON</h5>
+        <p class="article-body">Face to face interaction are vital to a more empathetic future
+        </p>
+        <p>To Support Us</p>
+        <a href="https://www.patreon.com/horizonap" class="letter-link">Become A Patron</a>
+        <p class="supported-by">Or</p>
+        <a href="https://www.buymeacoffee.com/horizon">Make one-time contribution</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<div class="loved-by">
+  <h1 class="loved-by-title">Loved by our friends</h1>
+  <div class="sponsor-row">
+    <div class="sponsor-image">
+      <img src="assets/redesign/start-up-chile-logo.png" style="height: 43px; width: 165px;">
+    </div>
+    <div class="sponsor-image">
+      <img src="assets/redesign/AIESEC-logo.png" style="height: 83px; width: 165px;">
+    </div>
+    <div class="sponsor-image">
+      <img src="assets/redesign/startingbloc-logo.jpg" style="height: 66px; width: 165px;">
+    </div>
+    <div class="sponsor-image">
+      <img src="assets/redesign/sig-ep-logo.jpg" style="height: 79px; width: 165px;">
+    </div>
+    <div class="sponsor-image">
+      <img src="assets/redesign/Copy of Holocene-1.jpg" style="height: 45px; width: 165px;">
+    </div>
+    <div class="sponsor-image">
+      <img src="assets/redesign/Copy of npca-logo.jpg" style="height: 104px; width: 165px;">
+    </div>
+  </div>
+</div>
+
+<div class="review">
+  <div class="row">
+    <div class="col3">
+      <img src="/assets/redesign/sheryl.mih-profile.jpg"
+           style="height: 80px; width: 80px; border-radius: 50%;">
+      <h6 class="review-name">Sheryl Mihalik</h6>
+    </div>
+      <p class="review-body">“Travel is for everyone who wants to grow, dream, 
+        learn, be inspired, LIVE, and so much more. 
+        Horizon makes travel more accessible by ensuring people are welcome in homes.”</p>
+    <div class="col6">
+    </div>
+  </div>
+</div>
+
+<div class="review">
+  <div class="row">
+    <div class="col3">
+      <img src="https://impacthubseattle.com/wp-content/uploads/2017/02/Steve-Johnson-CEO.jpg"
+           style="height: 80px; width: 80px; border-radius: 50%;">
+      <h6 class="review-name">Steve Johnson</h6>
+    </div>
+      <p class="review-body">“Stay a Night, Give a Night is a creative 
+        way for locals to impact how travelers experience Seattle while 
+        helping them determine how tourism dollars can have the strongest 
+        impact on one of our most pressing social issues”
+      </p>
+    <div class="col6">
+    </div>
+  </div>
+</div>
 
 <!-- Mobile Detection & Link Texting -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script type="text/javascript">
+        /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+      </script>
 
 {% include footer.html %}
