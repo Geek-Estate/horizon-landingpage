@@ -16,7 +16,7 @@ author: Drew Meyers
 
 **Q: What are private groups, and how much do they cost?**
 
-**A:** If you want to have a private group, you need to become a Patreon Supporter ($20 per month per group). We'll send you an email to gather details for your personalized group. You can share it with members of your community to build your own trusted hospitality network.
+**A:** If you want to have a private group, you need to become a Patreon Supporter ($10 per month per group). We'll send you an email to gather details for your personalized group. You can share it with members of your community to build your own trusted hospitality network.
 
 Want a group setup? [Support our Patreon campaign here](https://www.patreon.com/horizonapp).
 
@@ -28,9 +28,9 @@ Want a group setup? [Support our Patreon campaign here](https://www.patreon.com/
  
 **A:** As you know, a horizon is where two things meet -- and, in our case, it signifies two people coming together. The name also alludes to broadening your "<em>horizon</em>" by experiencing the world with your own eyes.
 
-**Q: How do I get Horizon on Android?**
+**Q: How do I get Horizon on Android or iOS?**
  
-**A:** It's ready! You can [download the app here](https://play.google.com/store/apps/details?id=co.horizonapp.horizonapp).
+**A:** We have both an iOS and Android version, but had to take them offline due a shortage of development resources to maintain them. If you'd like to see the native app versions released sooner rather than later, please [support our Patreon campaign with a few dollars per month](https://www.patreon.com/horizonapp).
 
 ### Donations ###
 
@@ -52,9 +52,11 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **A:** Please see our [costs and fees page](http://www.horizonapp.co/costs-fees).
 
-**Q: Why is Horizon supporting Kiva?**
+**Q: Why is Horizon supporting Kiva and Mary's Place?**
 
 **A:** One of Horizon's co-founders, Drew Meyers, has been a microfinance supporter since [learning about Kiva in 2007](http://www.drewmeyersinsights.com/2007/04/08/kivaorg-loans-that-change-lives-using-web-20-concepts/). He and his friend Jerry co-founded a microfinance blog ([myKRO.org](http://www.mykro.org)) since 2008. Beyond that, finding other [microfinance advocates while traveling](http://www.mykro.org/an-online-community-of-microfinance-advocates-all-over-the-globe/2012/07/) is one of the core pain points Drew experienced while traveling that ended up leading to the creation of Horizon. Additionally, one of our advisors, Sloane Davidson, served as a Kiva Fellow (KF8) in the Philippines.
+
+Our "Stay a Night, Give a Night" campaign is a benefit for Mary's Place because they have a long track record in Seattle helping families and children reclaim their lives.
 
 ### Communities ###
 
@@ -72,7 +74,7 @@ If you are a member of a community on the [enterprise plan](http://www.horizonap
 
 **Q: I want Horizon for my community. How do I enable that?**
 
-**A:** [Support our Patreon campaign here](https://www.patreon.com/horizonapp) with $20 per month (or convince 10 members of your community to contribute $2 per month).
+**A:** [Support our Patreon campaign here](https://www.patreon.com/horizonapp) with $10 per month (or convince 10 members of your community to contribute $2 per month).
 
 Interested in additional features or analytics for your community? [Read up on our premium offering](http://www.horizonapp.co/hospitality-network-setup/)
 
@@ -94,9 +96,9 @@ AirBnB is a peer to peer accommodation marketplace allowing individuals to monet
 
 **A:** Finding friends and friends of friends, and members of public groups will always be free, but those managing private groups require a subscription (paid via [our Patreon campaign](https://www.patreon.com/horizonapp)). Group administrators will have control over user access, premium features, and the ability to manage very large groups (and sub-groups).
 
-Some of our thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/).
+Some of our thinking on the "enterprise" group offering can [be found here](http://www.horizonapp.co/hospitality-network-setup/). Meetup.com and GitHub are the best known examples of this business model.
 
-Meetup.com and GitHub are the best known examples of this business model. 
+Horizon's "Stay a Night, Give a Night" campaign is sustainable using a blend of sponsorship and a $10 fee per traveler we match with a host.
 
 **Q: Why not make money from advertising, and make everything free?**
 
@@ -109,10 +111,6 @@ We believe those using and receiving value from the product should be the ones t
 **Q: I don't want to login with a Facebook account - what are my options?**
 
 **A:** Logging in with a Facebook account is currently required to use Horizon. This results in a better experience by enabling us to show you friends and friends of friends. We understand individuals have varying privacy concerns, and we aim to have a way for people to utilize Horizon without using Facebook down the road.
-
-**Q: Why does clicking contact open an in-app message sometimes, and opens an email other times?**
-
-**A:** In-app messaging only works if both people have the newest version of the iOS app or have recently logged into our web version. If you click contact on a profile and you're directed to email, it means that either the other person has only logged into the web app, or they have not upgraded their iOS version to the latest release (version 1.5+).
 
 **Q: How are the counts next to cities calculated?**
 
@@ -132,13 +130,17 @@ We believe those using and receiving value from the product should be the ones t
 
 **Q: How do I edit my profile?**
 
-**A:** The profile photo and name are pulled from Facebook. You can [edit your bio from the web version here](https://api.horizonapp.co/profile/edit) or from settings on iOS. Your accommodation details are currently editable via settings on both [web](https://api.horizonapp.co/settings/) and iOS. We plan on making more of the profile customizable, but haven't prioritized that work yet.
+**A:** The profile photo and name are pulled from Facebook. You can [edit your bio from the web version here](https://api.horizonapp.co/profile/edit). Your accommodation details are currently editable via settings on the [web](https://api.horizonapp.co/settings/).
 
 ### Charities ###
 
 **Q: I work for a 501(c)(3) charity, and would like to enable travelers to donate directly from Horizon. How do I do so?**
 
 **A:** [Please get in touch](mailto:info@horizonapp.co), and we'll get back to you with further details.
+
+**Q: I work for a 501(c)(3) charity, and would like to be a donation option for travelers. How do I do so?**
+
+**A:** [Please support us financially](http://www.patreon.com/horizonapp), and we'll get back to you with further details.
 
 **Q: I love Horizon's ability to strengthen community and increase donations, and want it to exist for my non profit organization, college, or university. Can we create a branded solution?**
 
