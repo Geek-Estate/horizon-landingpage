@@ -13,5 +13,6 @@ Although we would like 100% of these donations to go to non profit organizations
 
 While these fees may seem high, they are actually less than the 15% - 30% costs that a charity typically incurs to bring in donations.
 
-[Contact us for details](mailto:support@horizonapp.co)
+For travelers using the "[Stay a Night, Give a Night](http://www.horizonapp.co/stay-night-give-night/)" campaign, Horizon charges a $10 matching fee and a minimum of $14 per night stayed that will be allocated to Mary's Place. For a 2 day stay, it would cost a traveler $38 ($14 * 2 + $10).
 
+[Contact us for details](mailto:support@horizonapp.co)
