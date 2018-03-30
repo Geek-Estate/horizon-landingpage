@@ -121,7 +121,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   }
   .main-subheader {
     position: absolute;
-    top: 41%;
+    top: 42%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
@@ -132,7 +132,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   }
   .search-area {
     position: absolute;
-    top: 65%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
@@ -369,7 +369,24 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     margin-left: 10px;
     margin-top: 10px;
   }
+
+
   /* STYLING FOR REVIEW SECTION */
+  .review-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .review-photo {
+    flex: 30%;
+    text-align: center;
+  }
+
+  .review-text {
+     flex: 70%
+  }
+
+
   .review-body {
     font-size: 24px;
     color: #2D2D2D;
@@ -402,6 +419,20 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 
   input {
     color: black;
+  }
+
+  @media screen and (max-width: 1000px) {
+    .sponsor-row .sponsor-image {
+      flex: 1 0 calc(50% - 10px);
+    }
+    .review-photo {
+      flex: 1 0 calc(100% - 10px);
+    }
+
+    .review-text {
+      flex: 1 0 calc(100% - 10px);
+    }
+
   }
 
 </style>
@@ -553,13 +584,13 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 </div>
 
 <div class="review">
-  <div class="" style="display: flex; flex-wrap: wrap;">
-    <div class="" style="flex: 30%; text-align: center;">
+  <div class="review-container">
+    <div class="review-photo">
       <img src="/assets/redesign/sheryl.mih-profile.jpg"
            style="height: 80px; width: 80px; border-radius: 50%;">
       <h6 class="review-name">Sheryl Mihalik</h6>
     </div>
-    <div class="" style="flex: 70%">
+    <div class="review-text">
       <p class="review-body">“Travel is for everyone who wants to grow, dream, 
         learn, be inspired, LIVE, and so much more. 
         Horizon makes travel more accessible by ensuring people are welcome in homes.”</p>
@@ -568,13 +599,13 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 </div>
 
 <div class="review">
-  <div class="" style="display: flex; flex-wrap: wrap;">
-    <div class="" style="flex: 30%; text-align: center;">
+  <div class="review-container">
+    <div class="review-photo">
       <img src="https://impacthubseattle.com/wp-content/uploads/2017/02/Steve-Johnson-CEO.jpg"
            style="height: 80px; width: 80px; border-radius: 50%;">
       <h6 class="review-name">Steve Johnson</h6>
     </div>
-    <div class="" style="flex: 70%">
+    <div class="review-text">
       <p class="review-body">“Stay a Night, Give a Night is a creative 
         way for locals to impact how travelers experience Seattle while 
         helping them determine how tourism dollars can have the strongest 
