@@ -138,7 +138,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     font-family: 'Lato', sans-serif;
     margin: auto;
   }
-  h3 {
+  .search-header {
     text-align: left;
     font-size: 2vw;
     font-weight: bolder;
@@ -165,7 +165,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .fa-arrow-circle-right {
     color: #00ccca;
     font-size: 100px;
-    margin-left: 20px;
+    /*margin-left: 20px;*/
   }
   .fa:before {
     color: #00ccca;
@@ -421,10 +421,28 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     color: black;
   }
 
+  /*main senction styleing*/
+
+  .article-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .article-text {
+    flex: 30%;
+  }
+
+  .article-image-cont {
+    flex: 70%
+  }
+
+  /*mobile styles*/
+
   @media screen and (max-width: 1000px) {
     .sponsor-row .sponsor-image {
       flex: 1 0 calc(50% - 10px);
     }
+
     .review-photo {
       flex: 1 0 calc(100% - 10px);
     }
@@ -433,6 +451,46 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
       flex: 1 0 calc(100% - 10px);
     }
 
+    .main-header {
+      font-size: 26px;
+      width: 80%;
+      top: 25%;
+    }
+
+    .main-subheader {
+      font-size: 14px;
+      width: 80%;
+    }
+
+    .search-header {
+      font-size: 14px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .search-bar {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+
+    .search-area {
+      top: 75%;
+    }
+
+    .fa-arrow-circle-right {
+      font-size: 50px;
+    }
+
+    .how-it-works-row {
+      max-width: 90%;
+    }
+    .how-it-works-item {
+      margin: 0px;
+    }
+
+    .seattle-article {
+      flex-direction: column-reverse;
+    }
   }
 
 </style>
@@ -454,10 +512,10 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <h1 class="main-header">Travel the World Using the Power of Community</h1>
     <h2 class="main-subheader">Home sharing among friends, friends of friends, and communities</h2>
     <div class="search-area">
-      <h3>Where are you traveling to?</h3>
+      <h3 class="search-header">Where are you traveling to?</h3>
       <form class="search-form">
         <input type="text" placeholder="e.g. Seattle" class="search-bar">
-        <a href="http://www.horizonapp.co"> <i class="fa fa-arrow-circle-right" style="color: black;"></i> </a>
+        <a href="http://www.horizonapp.co"> <i class="fa fa-arrow-circle-right"></i> </a>
       </form>
     </div>
   </div>
@@ -505,8 +563,8 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 <a name="featured"></a>
 
 <article>
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 30%">
+  <div class="article-container seattle-article">
+    <div class="article-text">
       <div class="article-content">
         <h4 class="article-title">Featured Campaign</h4>
         <h5 class="article-subtitle">STAY A NIGHT,</h5>
@@ -529,7 +587,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
         <img class="article-spon-img" src="/assets/redesign/logo-new-tech-nw.jpg">
       </div>
     </div>
-    <div style="flex: 70%">
+    <div class="article-image-cont">
       <img class="article-image" src="/assets/redesign/seattle-picture.png">
     </div>
   </div>
