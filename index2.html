@@ -132,27 +132,31 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     color: #92FFFE;
     font-weight: lighter;
   }
-  h3 {
+
+  .search-area {
     position: absolute;
     top: 55%;
-    left: 40%;
+    left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
+    /*height: 300px;*/
+    /*width: 40%;*/
+    margin: auto;
+  }
+  h3 {
+    text-align: left;
     font-size: 2vw;
     font-weight: bolder;
   }
   .search-form {
-    position: absolute;
-    top: 65%;
-    left: 40%;
-    transform: translate(-50%, -50%);
+    padding-left: 10px;
   }
   .search-bar {
     font-size: 1.5vw;
     font-weight: lighter;
     border-radius: 5px;
     border: none;
-    padding: 12px 20px;
+    padding: 12px 50px;
     color: black;
   }
 
@@ -162,6 +166,16 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     font-size: 3vw;
     padding: 0px;
   }
+
+  .fa-arrow-circle-right {
+    color: #00ccca;
+    font-size: 60px;
+    margin-left: 20px;
+  }
+  .fa:before {
+    color: #00ccca;
+  }
+
   /* 
   HOW IT WORKS 
   */
@@ -182,7 +196,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .how-it-works-new {
     background-color: #EEEEEE;
     overflow: hidden;
-    margin-top: 5px;
+    margin-top: 10px;
     padding-bottom: 136px;
   }
   .works-title {
@@ -341,11 +355,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     padding: 20px 16px;
     font-size: 9px;
   }
-  .fa-arrow-circle-right {
-    color: #92FFFE;
-    font-size: 40px;
-    margin-left: 20px;
-  }
+
   /* STYLEING FOR SPONSOR SECTION */
   .sponsor-row {
     display: flex;
@@ -382,7 +392,6 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     text-align: center;
     display: block;
     margin: auto;
-
     font-size: 18px;
     margin-top: 20px;
     padding: 21px 50px 21px 50px;
@@ -414,11 +423,13 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <img src="/assets/blurred-bkgd.png" style="width: 100%;">
     <h1 class="main-header">Travel the World Using the Power of Community</h1>
     <h2 class="main-subheader">Home sharing among friends, friends of friends, and communities</h2>
-    <h3>Where are you traveling to?</h3>
-    <form class="search-form">
-      <input type="text" placeholder="e.g. Seattle" class="search-bar">
-      <a href="http://www.horizonapp.co"> <i class="fa fa-arrow-circle-right"></i> </a>
-    </form>
+    <div class="search-area">
+      <h3>Where are you traveling to?</h3>
+      <form class="search-form">
+        <input type="text" placeholder="e.g. Seattle" class="search-bar">
+        <a href="http://www.horizonapp.co"> <i class="fa fa-arrow-circle-right" style="color: black;"></i> </a>
+      </form>
+    </div>
   </div>
 </div>
 
