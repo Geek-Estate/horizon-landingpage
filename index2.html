@@ -19,20 +19,19 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     height: 47px;
     width: 158px;
   }
-  .topnav-text {
+  .topnav .topnav-text {
     margin-top: 11px;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     font-weight: 500;
+    float: right;
   }
-  .topnav-icon {
+  .topnav .topnav-icon {
     margin-top: 5px;
+    float: right;
   }
   .topnav ul {
     display: flex;
-  }
-  .icon-group {
-    float: right;
   }
   .hero-nav {
     position: relative;
@@ -42,7 +41,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     margin-right: 10%;
   }
   .icon-group {
-    margin-left: 10%;
+    margin-right: 5%;
   }
   /* Add a black background color to the top navigation */
   .topnav {
@@ -78,7 +77,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
       display: none;
   }
   /* When the screen is less than 1200 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1350px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
       float: right;
@@ -90,7 +89,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     }
   }
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1350px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
       position: absolute;
@@ -104,10 +103,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     }
   }
   /* STOP NAVBAR */
-/*  #hero-image {
-    width: 100%;
-    height: 100vh;
-  }*/
+
   .container {
     position: relative;
     text-align: center;
@@ -413,12 +409,12 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
 <div class="nav-hero">
   <div class="topnav" id="myTopnav">
     <a href="#" class="horizon-logo"><img src="/assets/logo-white.png"></a>
-    <a href="#featured" class="topnav-text">Featured Campaign</a>
+    <a href="https://www.facebook.com/horizonapp" class="topnav-icon icon-group"><img src="/assets/Facebook_White.svg"></a>
+    <a href="https://www.twitter.com/gethorizonapp" class="topnav-icon"><img src="/assets/redesign/Twitter_White.svg"></a>
+    <a href="#featured" class="topnav-text" style="margin-right: 20%;">Featured Campaign</a>
     <a href="#how-it-works-locaiton" class="topnav-text">How It Works</a>
     <a href="#why-horizon-location" class="topnav-text">Why Horizon</a>
     <a href="https://www.patreon.com/horizonapp" class="topnav-text">Become A Patron</a>
-    <a href="https://www.facebook.com/horizonapp" class="topnav-icon icon-group"><img src="/assets/Facebook_White.svg"></a>
-    <a href="https://www.twitter.com/gethorizonapp" class="topnav-icon"><img src="/assets/redesign/Twitter_White.svg"></a>
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
   </div>
 
