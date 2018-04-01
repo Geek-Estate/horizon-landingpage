@@ -116,23 +116,24 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
     font-weight: lighter;
-    width: 90%;
-    font-size: 3.5vw;
+    width: 60%;
+    font-size: 4.5vw;
+    line-height: 4.5vw;
   }
   .main-subheader {
     position: absolute;
-    top: 42%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
-    width: 90%;
-    font-size: 2vw;
+    width: 30%;
+    font-size: 1.5vw;
     color: #92FFFE;
     font-weight: lighter;
   }
   .search-area {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato', sans-serif;
@@ -140,26 +141,23 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   }
   .search-header {
     text-align: left;
-    font-size: 2vw;
+    font-size: 1.5vw;
     font-weight: bolder;
   }
   .search-form {
-    padding-left: 10px;
+    /*padding-left: 10px;*/
   }
   .search-bar {
     font-size: 1.5vw;
     font-weight: lighter;
     border-radius: 5px;
     border: none;
-    padding: 15px 90px;
+    padding: 15px 90px 15px 20px;
     color: black;
   }
 
-  .submit-button {
-    background: none;
-    border: none;
-    font-size: 3vw;
-    padding: 0px;
+  .search-icon {
+     padding-left: 30px;
   }
 
   .fa-arrow-circle-right {
@@ -260,7 +258,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     text-align: left;
   }
   .article-content {
-    padding: 50px;
+    padding: 10px 100px 0px 100px;
   }
   article h5 {
     margin: 0px;
@@ -284,7 +282,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .article-content .letter-link {
     font-size: 18px;
     margin-top: 20px;
-    padding: 21px 50px 21px 50px;
+    padding: 10px 50px 10px 50px;
   }
   .article-spon-img {
     padding: 9px;
@@ -389,9 +387,9 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   }
 
   .review-text {
-     flex: 70%
+     flex: 70%;
+    padding-right: 10%;
   }
-
 
   .review-body {
     font-size: 24px;
@@ -416,7 +414,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     margin: auto;
     font-size: 18px;
     margin-top: 20px;
-    padding: 21px 50px 21px 50px;
+    padding: 10px 50px 10px 50px;
   }
 
   a:visited {
@@ -432,14 +430,17 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
   .article-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
   }
 
   .article-text {
-    flex: 30%;
+    flex: 40%;
+
   }
 
   .article-image-cont {
-    flex: 70%
+    flex: 60%
   }
 
   .youtube-video {
@@ -463,18 +464,20 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     }
 
     .main-header {
-      font-size: 26px;
+      font-size: 30px;
+      line-height: 35px;
       width: 80%;
-      top: 25%;
+      top: 40%;
     }
 
     .main-subheader {
-      font-size: 14px;
+      font-size: 16px;
       width: 80%;
+      top: 45%;
     }
 
     .search-header {
-      font-size: 14px;
+      font-size: 18px;
       width: 100%;
       text-align: center;
     }
@@ -482,10 +485,17 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     .search-bar {
       margin-top: 10px;
       font-size: 14px;
+      width: 100%;
+    }
+
+    .search-icon {
+      display: block;
+      margin: auto;
+      padding: 20px 0px 0px 0px;
     }
 
     .search-area {
-      top: 75%;
+      top: 70%;
     }
 
     .fa-arrow-circle-right {
@@ -512,9 +522,19 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     }
   }
 
+  @media screen and (max-width: 600px) {
+    .main-header {
+      top: 35%;
+    }
+    .main-subheader {
+      top: 47%;
+      width: 60%;
+    }
+  }
 
-
-
+  input::placeholder {
+    color: #9b9b9b;
+  }
 
 </style>
 
@@ -523,7 +543,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <a href="#" class="horizon-logo"><img src="/assets/logo-white.png"></a>
     <a href="https://www.facebook.com/horizonapp" class="topnav-icon icon-group"><img src="/assets/Facebook_White.svg"></a>
     <a href="https://www.twitter.com/gethorizonapp" class="topnav-icon"><img src="/assets/redesign/Twitter_White.svg"></a>
-    <a href="#featured" class="topnav-text" style="margin-right: 20%;">Featured Campaign</a>
+    <a href="#featured" class="topnav-text" style="margin-right: 5%;">Featured Campaign</a>
     <a href="#how-it-works-locaiton" class="topnav-text">How It Works</a>
     <a href="#why-horizon-location" class="topnav-text">Why Horizon</a>
     <a href="https://www.patreon.com/horizonapp" class="topnav-text">Become A Patron</a>
@@ -538,7 +558,7 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
       <h3 class="search-header">Where are you traveling to?</h3>
       <form class="search-form">
         <input type="text" placeholder="e.g. Seattle" class="search-bar">
-        <a href="http://www.horizonapp.co"> <i class="fa fa-arrow-circle-right"></i> </a>
+        <a href="http://www.horizonapp.co"><img src="/assets/redesign/go.png" class="search-icon"></a>
       </form>
     </div>
   </div>
@@ -626,14 +646,14 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
       </iframe>
     </div>
     <div class="article-text">
-      <div class="article-content">
+      <div class="article-content why-horizon-content">
         <h5 class="article-subtitle">WHY</h5>
         <h5 class="article-subtitle">HORIZON</h5>
         <p class="article-body">Face to face interaction are vital to a more empathetic future
         </p>
         <p>To Support Us</p>
         <a href="https://www.patreon.com/horizonap" class="letter-link links-white">Become A Patron</a>
-        <p class="supported-by">Or</p>
+        <p class="supported-by" style="text-align: center; margin-bottom: 0px;">Or</p>
         <a href="https://www.buymeacoffee.com/horizon" style="display: block; margin: auto; text-align: center;">Make one-time contribution</a>
       </div>
     </div>
