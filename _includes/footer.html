@@ -1,8 +1,59 @@
+<style>
+  /*footer styleing*/
+
+  .footer-list {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1050px;
+    margin: auto;
+  }
+
+  .footer-item {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  footer {
+    font-family: 'Lato', sans-serif;
+    margin-top: 50px;
+    background-color: rgba(0,0,0,0.6);
+    overflow: hidden;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #f2f2f2;
+  }
+
+  .footer-copyright {
+    padding: 20px 16px;
+    font-size: 9px;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+
+  @media screen and (max-width: 1000px) {
+    .footer-item {
+      flex: 100%;
+    }
+</style>
+
+
 <footer>
   <div class="footer-list">
       <div class="footer-item"><a href="/about/">About</a></div>
       <div class="footer-item"><a href="/team/">Team</a></div>
-      <div class="footer-item"><a href="mailto:info@horizonapp.co?subject=Setup-a-group">Contact</a></div>
+      <div class="footer-item"><a href="/blog/">Blog</a></div>
       <div class="footer-item footer-copyright"> &copy; 2018 Oh Hey World Inc &#9992; 220 2nd Ave S, # 410, Seattle, WA 98104 &#9992;
         <a href="http://www.horizonapp.co/tou">Terms of Service</a> &#9992;
         <a href="http://www.horizonapp.co/privacy">Privacy Podivcy</a> &#9992;
@@ -10,5 +61,7 @@
       <div class="footer-item">Follow Us</div>
       <div class="footer-item"><a href="https://www.facebook.com/horizonapp"><img src="/assets/Facebook_White.svg"></a></div>
       <div class="footer-item"><a href="https://www.twitter.com/gethorizonapp"><img src="/assets/redesign/Twitter_White.svg"></a></div>
+      <div class="footer-item"><a href="mailto:info@horizonapp.co?subject=Setup-a-group">Email</a></div>
+
   </div>
 </footer>
