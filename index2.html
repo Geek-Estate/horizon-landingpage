@@ -140,33 +140,45 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     margin: auto;
   }
   .search-header {
-    text-align: left;
+    text-align: center;
     font-size: 1.5vw;
     font-weight: bolder;
   }
-  .search-form {
-    /*padding-left: 10px;*/
-  }
-  .search-bar {
-    font-size: 1.5vw;
-    font-weight: lighter;
-    border-radius: 5px;
+
+  .seattle-link {
+    padding: 14px 16px;
+    background-color: #19DAD9;
+    color: #4A4A4A;
+    border-radius: 10px;
     border: none;
-    padding: 15px 90px 15px 20px;
-    color: black;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    margin: auto;
+    width: 217px;
+    margin: 30px;
   }
 
-  .search-icon {
-     padding-left: 30px;
+  .seattle-link:visited {
+    color: #4A4A4A;
   }
 
-  .fa-arrow-circle-right {
-    color: #00ccca;
-    font-size: 100px;
-    /*margin-left: 20px;*/
+  .other-link {
+    padding: 14px 16px;
+    background-color: white;
+    color: #007D8C;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    margin: auto;
+    width: 217px;
+    margin: 30px;
   }
-  .fa:before {
-    color: #00ccca;
+
+  .other-link:visited {
+    color: #007D8C;
   }
 
   /* 
@@ -485,50 +497,6 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     color: #9b9b9b;
   }
 
-
-  /*dropdown styling */
-
-  .dropbtn {
-    background-color: #19DAD9;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-    margin-top: 20px;
-    border-radius: 5px;
-  }
-
-  .dropbtn:hover, .dropbtn:focus {
-      background-color: #026A77;
-  }
-
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-
-  .dropdown a:hover {background-color: #ddd}
-
-  .show {display:block;}
-
 </style>
 
 <div class="nav-hero">
@@ -550,17 +518,8 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
     <div class="search-area">
       <h3 class="search-header">Where are you traveling to?</h3>
       <form class="search-form">
-        <!-- <input type="text" placeholder="e.g. Seattle" class="search-bar"> -->
-
-        <div class="dropdown">
-          <button onclick="dropdownFunction()" class="dropbtn">e.g. Seattle</button>
-          <div id="myDropdown" class="dropdown-content">
-            <a href="http://www.horizonapp.co/stay-night-give-night/">Seattle</a>
-            <a href="http://api.horizonapp.co">Elsewhere</a>
-          </div>
-        </div>
-
-        <a href="http://www.horizonapp.co"><img src="/assets/redesign/go.png" class="search-icon"></a>
+        <a class="seattle-link" href="http://www.horizonapp.co/stay-night-give-night/">Seattle</a>
+        <a class="other-link" href="http://api.horizonapp.co">Other Cities</a>
       </form>
     </div>
   </div>
@@ -733,28 +692,6 @@ title: Private Hospitality Exchange Networks for Communities - Horizon App
           }
         }
 
-        /* When the user clicks on the button, 
-        toggle between hiding and showing the dropdown content */
-        function dropdownFunction() {
-          document.getElementById("myDropdown").classList.toggle("show");
-        }
-
-        // Close the dropdown if the user clicks outside of it
-        window.onclick = function(event) {
-          if (!event.target.matches('.dropbtn')) {
-
-            var dropdowns = document.getElementsByClassName("dropdown-content");
-            var i;
-            for (i = 0; i < dropdowns.length; i++) {
-              var openDropdown = dropdowns[i];
-              if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
-              }
-            }
-          } else {
-            event.preventDefault()
-          }
-        }
       </script>
 
 {% include footer.html %}
