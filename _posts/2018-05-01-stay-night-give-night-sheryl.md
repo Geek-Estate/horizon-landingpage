@@ -19,7 +19,7 @@ That stay led to funding for the equivalent of two nights of shelter for a child
 
 <p align="center"><img src="/assets/blog-marys-place-van.jpg"></p>
 
-Thank you so much for Sheryl for her enthusiasm to pilot our unproven concept, and Steve and his family for being such gracious hosts.
+Thank you so much for Sheryl for her enthusiasm to pilot our unproven concept, and Steve and his family for being such gracious hosts. Stay a Night, Give a Night would not be possible without our amazing sponsors: <a href="http://www.citybldr.com">City Bldr</a>, <a href="https://www.region6ventures.com/">Region 6 Ventures</a>, <a href="https://www.linkedin.com/in/susana-susi-musi-94256b8/">Susi Musi &amp; Co Real Estate</a>, <a href="http://www.wealthsimple.com">WealthSimple</a>, <a href="http://www.wikileaf.com">Wikileaf</a>, and <a href="http://www.rentalutions.com">Rentalutions</a>.
 
 Coverage from the launch: <a href="https://www.geekwire.com/2018/startup-looks-connect-travelers-seattle-hosts-use-tourism-dollars-help-homeless/">GeekWire's article is here</a>, the <a href="https://www.thestranger.com/slog/2018/03/27/25960860/slog-am-10-caught-in-jefferson-county-child-sex-sting-operation-bye-bye-battery-park-tunnel">Stranger mentioned the campaign</a>, <a href="https://www.producthunt.com/posts/stay-a-night-give-a-night">Product Hunt is here</a>, and you can even <a href="http://www.prweb.com/releases/2018/03/prweb15365436.htm">read the press release</a> if you're so inclined.
 
