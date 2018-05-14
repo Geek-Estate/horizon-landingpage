@@ -5,7 +5,7 @@ date: 2018-05-14
 categories: blog
 author: Drew Meyers
 ---
-Since we launched a few years ago (<a href="https://www.producthunt.com/posts/horizon-2">on Product Hunt</a> and then <a href="http://www.horizonapp.co/blog/horizon-app-store-release/">the App Store</a>), the most common complaint we've heard about Horizon is a <em>strong</em>em> dislike of our forced Facebook login. If I had to wager a guess, I'd say we've lost 30% of people who have hit our sign up page since launch, only to realize they can't use Horizon without authenticating with Facebook.
+Since we launched a few years ago (<a href="https://www.producthunt.com/posts/horizon-2">on Product Hunt</a> and then <a href="http://www.horizonapp.co/blog/horizon-app-store-release/">the App Store</a>), the most common complaint we've heard about Horizon is a <em>strong</em> dislike of our forced Facebook login. If I had to wager a guess, I'd say we've lost 30% of people who have hit our sign up page since launch, only to realize they can't use Horizon without authenticating with Facebook.
 
 As you can imagine, that challenge has gotten worse with <a href="https://www.cnbc.com/2018/04/04/mark-zuckerberg-facebook-user-privacy-issues-my-mistake.html">Facebook's recent struggles with privacy</a>.
 
