@@ -8,21 +8,14 @@ It's impossible to meet other community members if you don't know where they are
 
 Horizon allows members to find other trusted community members by location, with the option to host one another during members' travels. In return for accommodation, travelers make donations to your member association or a non profit organization of the host's choosing.
 
-Private groups are a feature for Horizon Patrons. After you become a patron, we'll send you an email to gather details for your personalized group. You can share the private group with members of your community to build your own trusted hospitality network.
-
 Your community can use Horizon free of charge, but there are numerous benefits to upgrading to Enterprise:
 
 <ul>
-	<li>Edit group unlock code</li>
-  <li>Upload a cover image</li>
-  <li>Modify group description</li>
+	<li>Allow members to donate directly to your organization</li>
+	<li>Charge monthly or yearly membership dues</li>
+	<li>Easily pull a list of all members within X miles of a specific city</li>
 	<li>Allow members to host each other in a private, trusted environment</li>
-  <li>Email members from one location</li>
   <li>Find your most passionate community members</li>
-  <li>Allow members to donate directly to your organization (planned)</li>
-  <li>Easily pull a list of all members within X miles of a specific city (planned)</li>
-  <li>Email all members by city (planned)</li>
-  <li>Charge monthly or yearly membership dues (planned)</li>
 </ul>
 
 <h2 class="text-center">Packages</h2>
@@ -32,7 +25,7 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     <tr>
       <th>Features</th>
       <th>Basic</th>
-      <th>Pro</th>
+      <th>Enterprise</th>
     </tr>
     <tr>
       <td>Public Groups</td>
@@ -46,38 +39,38 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     </tr>
     <tr>
       <td>Private Groups</td>
+      <td>Unlimited (beta)</td>
       <td>Unlimited</td>
-      <td>1</td>
     </tr>
     <tr>
       <td>Private Members</td>
-      <td>0</td>
-      <td>250</td>
+      <td>Unlimited (beta)</td>
+      <td>Unlimited</td>
     </tr>
     <tr>
       <td>Member authentication</td>
-      <td>None</td>
-      <td>Unlock Code</td>
+      <td>FB Groups</td>
+      <td>FB Groups, Email Whitelist, LinkedIn</td>
     </tr>
     <tr>
       <td>Master / Subgroups</td>
       <td>No</td>
-      <td>Yes (planned)</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Analytics</td>
       <td>No</td>
-      <td>Yes (planned)</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Integrated Donations for 501c3’s</td>
       <td>No</td>
-      <td>Yes (planned)</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Ability to Charge Monthly / Yearly Membership Dues</td>
       <td>No</td>
-      <td>Yes (planned)</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Member Transaction Fees</td>
@@ -92,9 +85,11 @@ Your community can use Horizon free of charge, but there are numerous benefits t
     <tr>
       <th>Pricing</th>
       <th>Free</th>
-      <th>$20 / month</th>
+      <th>Free<br>(Beta Pricing)</th>
     </tr>
   </tbody>
 </table>
 
-<a href="https://www.patreon.com/horizonapp" class="btn btn--full">Patreon Campaign</a>
+If you're interested in any of the above packages for your community, please send us an email. If there is functionality you are interested in not listed, ask us whether it's on our product roadmap.
+
+<a href="mailto:support@horizonapp.co" class="btn btn--full">Contact</a>
