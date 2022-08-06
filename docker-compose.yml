@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    container_name: horizon_web
+    command: bash -c "bundle exec jekyll serve"
+    ports:
+      - "4000:4000"

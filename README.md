@@ -1,9 +1,7 @@
 # horizon-landingpage
 
 ## Running the Jekyll site locally
-`bundle install`
-
-`jekyll serve`
+`make build && make start`
 
 ## Making commits
 
