@@ -1,0 +1,696 @@
+---
+layout: blank
+title: Private Hospitality Exchange Networks for Communities - Horizon App
+---
+
+<style>
+  html {
+    padding: 0px;
+    margin: 0px;
+  }
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .horizon-logo {
+    margin-left: 18px;
+  }
+  .horizon-logo img {
+    height: 47px;
+    width: 158px;
+  }
+  .topnav .topnav-text {
+    margin-top: 11px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    float: right;
+  }
+  .topnav .topnav-icon {
+    margin-top: 5px;
+    float: right;
+  }
+  .topnav ul {
+    display: flex;
+  }
+  .hero-nav {
+    position: relative;
+  }
+  /* START NAVBAR */
+  .horizon-logo {
+    margin-right: 10%;
+  }
+  .icon-group {
+    margin-right: 5%;
+  }
+  /* Add a black background color to the top navigation */
+  .topnav {
+      background-color: rgba(0,0,0,0.6);
+      overflow: hidden;
+      position: absolute;
+      top: 0px;
+      z-index: 1;
+      width: 100%;
+  }
+  /* Style the links inside the navigation bar */
+  .topnav a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+  }
+  /*.topnav a:not(:first-child) {float: right;}*/
+  /* Change the color of links on hover */
+  .topnav a:hover {
+      color: black;
+  }
+  /* Add an active class to highlight the current page */
+  .active {
+      background-color: #4CAF50;
+      color: white;
+  }
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+      display: none;
+  }
+  /* When the screen is less than 1200 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+  @media screen and (max-width: 1350px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+      margin-top: 10px;
+    }
+    .topnav .icon-group {
+      margin-left: 0px;
+    }
+  }
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+  @media screen and (max-width: 1350px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+  /* STOP NAVBAR */
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .main-header {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    width: 60%;
+    font-size: 4.5vw;
+    line-height: 4.5vw;
+  }
+  .main-subheader {
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    width: 70%;
+    font-size: 1.5vw;
+    color: #92FFFE;
+    font-weight: lighter;
+  }
+  .search-area {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+  }
+  .search-header {
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: bolder;
+  }
+
+  .seattle-link {
+    padding: 14px 16px;
+    background-color: #19DAD9;
+    color: #4A4A4A;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    margin: auto;
+    width: 217px;
+    margin: 10px;
+  }
+
+  .seattle-link:visited {
+    color: #4A4A4A;
+  }
+
+  .other-link {
+    padding: 14px 16px;
+    background-color: white;
+    color: #007D8C;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    margin: auto;
+    width: 217px;
+    margin: 10px;
+  }
+
+  .other-link:visited {
+    color: #007D8C;
+  }
+
+  /* 
+  HOW IT WORKS 
+  */
+  .how-it-works-row {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: auto;
+  }
+  .how-it-works-item {
+    flex: 1 0 calc(33.33% - 10px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .how-it-works-new {
+    background-color: #EEEEEE;
+    overflow: hidden;
+    margin-top: 10px;
+    padding-bottom: 136px;
+  }
+  .works-title {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 80px;
+  }
+  .letter {
+    background-color: white;
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 36px;
+  }
+  .letter-header {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    padding: 20px;
+  }
+  .letter-body {
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    text-align: left;
+    text-indent: 2em;
+    padding: 28px;
+    height: 175px;
+  }
+  .letter-link {
+    padding: 14px 16px;
+    background-color: #19DAD9;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    display: block;
+    width: 80%;
+  }
+  .letter .letter-link {
+    width: 190px;
+  }
+  article {
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+  article .col3 {
+    text-align: left;
+  }
+  .article-content {
+    padding: 10px 100px 0px 100px;
+  }
+  article h5 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+  }
+  .article-image {
+    width: 100%;
+  }
+  .article-title {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+  .article-subtitle {
+    font-weight: lighter;
+  }
+  .article-body {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .article-content .letter-link {
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 10px 50px 10px 50px;
+  }
+  .article-spon-img {
+    padding: 9px;
+    height: 46px;
+    width: 46px;
+  }
+  .supported-by {
+    padding: 20px 20px 0px 0px;
+  }
+  
+  .benefit {
+    padding: 20px 20px 20px 0px;
+    vertical-align: center;
+  }
+  .benefit p {
+     float: left;
+     padding-right: 20px;
+  }
+  .loved-by {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 70px;
+  }
+  .loved-by-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    margin: 20px;
+    padding: 50px;
+  }
+  .review {
+    overflow: hidden;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+  }
+
+  /* STYLEING FOR SPONSOR SECTION */
+  .sponsor-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .sponsor-row .sponsor-image {
+    flex: 1 0 calc(16.66% - 10px);
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+  /* STYLING FOR REVIEW SECTION */
+  .review-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .review-photo {
+    flex: 30%;
+    text-align: center;
+  }
+
+  .review-text {
+     flex: 70%;
+    padding-right: 10%;
+  }
+
+  .review-body {
+    font-size: 24px;
+    color: #2D2D2D;
+  }
+  .review-name {
+    font-size: 18px;
+    font-weight: lighter;
+    margin: 0px;
+  }
+
+  .review-company {
+    font-size: 16px;
+    font-weight: bolder;
+    font-style: italic;
+  }
+
+  .links-white {
+    color: white;
+  }
+
+  .links-host {
+    background-color: #026A77;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    display: block;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 10px 50px 10px 50px;
+    width: 80%;
+  }
+
+  input {
+    color: black;
+  }
+
+  /*main senction styleing*/
+
+  .article-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+  }
+
+  .article-text {
+    flex: 40%;
+
+  }
+
+  .article-image-cont {
+    flex: 60%
+  }
+
+  .youtube-video {
+    width: 100%;
+    height: 821px;
+  }
+
+  .homepage-link:visited {
+    color: white;
+  }
+
+  /*mobile styles*/
+
+  @media screen and (max-width: 1000px) { 
+    .sponsor-row .sponsor-image {
+      flex: 1 0 calc(50% - 10px);
+    }
+
+    .review-photo {
+      flex: 1 0 calc(100% - 10px);
+    }
+
+    .review-text {
+      flex: 1 0 calc(100% - 10px);
+    }
+
+    .main-header {
+      font-size: 30px;
+      line-height: 35px;
+      width: 80%;
+      top: 40%;
+    }
+
+    .main-subheader {
+      font-size: 16px;
+      width: 80%;
+      top: 45%;
+    }
+
+    .search-header {
+      font-size: 18px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .search-bar {
+      margin-top: 10px;
+      font-size: 14px;
+      width: 100%;
+    }
+
+    .search-icon {
+      display: block;
+      margin: auto;
+      padding: 20px 0px 0px 0px;
+    }
+
+    .search-area {
+      top: 70%;
+    }
+
+    .fa-arrow-circle-right {
+      font-size: 50px;
+    }
+
+    .how-it-works-row {
+      max-width: 90%;
+    }
+
+    .how-it-works-item {
+      margin: 0px;
+    }
+
+    .seattle-article {
+      flex-direction: column-reverse;
+    }
+
+    .youtube-video {
+      height: 400px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .main-header {
+      top: 30%;
+    }
+    .main-subheader {
+      top: 47%;
+      width: 60%;
+    }
+  }
+
+  input::placeholder {
+    color: #9b9b9b;
+  }
+
+</style>
+
+<div class="nav-hero">
+  <div class="topnav" id="myTopnav">
+    <a href="#" class="horizon-logo homepage-link"><img src="/assets/logo-white.png"></a>
+    <a href="https://www.facebook.com/horizonapp" class="topnav-icon homepage-link icon-group"><img src="/assets/Facebook_White.svg"></a>
+    <a href="https://www.twitter.com/gethorizonapp" class="topnav-icon homepage-link"><img src="/assets/redesign/Twitter_White.svg"></a>
+    <a href="#featured" class="topnav-text homepage-link" style="margin-right: 5%;">Featured Campaign</a>
+    <a href="#how-it-works-locaiton" class="topnav-text homepage-link">How It Works</a>
+    <a href="#why-horizon-location" class="topnav-text homepage-link">Why Horizon</a>
+    <a href="https://www.patreon.com/horizonapp" class="topnav-text homepage-link">Become A Patron</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+
+  <div class="container">
+    <img src="/assets/blurred-bkgd.png" style="width: 100%; height: 100vh;">
+    <h1 class="main-header">Travel the World Using the Power of Community</h1>
+    <h2 class="main-subheader">Home sharing among friends, friends of friends, and communities</h2>
+    <div class="search-area">
+      <h3 class="search-header">Where are you traveling to?</h3>
+      <form class="search-form">
+        <a class="seattle-link" href="http://www.horizonapp.co/stay-night-give-night/">Seattle</a>
+        <a class="other-link" href="https://www.patreon.com/posts/36684314">Other Cities</a>
+      </form>
+    </div>
+  </div>
+</div>
+
+<a name="how-it-works-locaiton"></a>
+
+<div class="how-it-works-new">
+  <h1 class="works-title">How It Works</h1>
+  <div class="how-it-works-row">
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Traveling</h2>
+        <img src="/assets/redesign/traveling-icon.png">
+        <p class="letter-body">Stay with a friend, friend of friend, 
+          or member of a community to which you belong on your next trip.
+         </p>
+         <button class="letter-link" style="margin: auto;"><a href="https://www.patreon.com/posts/36684314"><span class="links-white homepage-link">  Find a Host </span></a></button>
+      </div>
+    </div>
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Hosting</h2>
+        <img src="/assets/redesign/hosting-icon.png">
+        <p class="letter-body">Share your home privately with those 
+          you trust while raising money for causes you care about. 
+         </p>
+         <button class="letter-link" style="margin: auto;"><a href="https://www.patreon.com/posts/36684314"><span class="links-white"> Become a Host </span></a></button>
+      </div>
+    </div>
+    <div class="how-it-works-item">
+      <div class="letter">
+        <h2 class="letter-header">Community</h2>
+        <img src="/assets/community-icon.png">
+        <p class="letter-body">Enable your community members to find 
+          and connect with each other privately for home sharing 
+          opportunities. Raise money for causes.
+         </p>
+         <button class="letter-link" style="margin: auto;"><a href="https://www.patreon.com/posts/36684314"><span class="links-white"> Create a Community </span></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a name="featured"></a>
+
+<article>
+  <div class="article-container seattle-article">
+    <div class="article-text">
+      <div class="article-content">
+        <h4 class="article-title">Featured Campaign</h4>
+        <h5 class="article-subtitle">STAY A NIGHT,</h5>
+        <h5 class="article-subtitle">GIVE A NIGHT</h5>
+        <p class="article-body">
+          Allocate tourism dollars to families and children experiencing homelessness. 
+        </p>
+        <div class="benefit">
+          <p>A Benefit for:</p>
+          <img src="/assets/redesign/Marys-Place-Logo.png" style="height: 39px; width: 82px;">
+        </div>
+        <a href="http://www.horizonapp.co/stay-night-give-night/" class="letter-link links-white homepage-link">Visiting Seattle</a>
+        <a href="http://www.horizonapp.co/stay-night-give-night/host-signup" class="links-host links-white homepage-link">Host in Seattle</a>
+        <p class="supported-by">Supported By</p>
+        <img class="article-spon-img" src="/assets/redesign/logo-R6ventures.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-citybldr.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-Susi-Co-white-black.png">
+        <img class="article-spon-img" src="/assets/redesign/logo-wealthsimple.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-wikileaf.jpg">
+        <img class="article-spon-img" src="/assets/redesign/logo-rentalutions.png">
+      </div>
+    </div>
+    <div class="article-image-cont">
+      <img class="article-image" src="/assets/redesign/seattle-picture.png">
+    </div>
+  </div>
+</article>
+
+<a name="why-horizon-location"></a>
+
+<article>
+  <div class="article-container">
+    <div class="article-image-cont">
+      <iframe class="youtube-video"
+              src="https://www.youtube.com/embed/GC_CezIN2RE">
+      </iframe>
+    </div>
+    <div class="article-text">
+      <div class="article-content why-horizon-content">
+        <h5 class="article-subtitle">WHY</h5>
+        <h5 class="article-subtitle">HORIZON</h5>
+        <p class="article-body">Face to face interactions are vital to a more empathetic future
+        </p>
+        <p style="font-weight: bolder; margin-top: 50px;">To Support Us</p>
+        <a href="https://www.patreon.com/horizonapp" class="letter-link links-white homepage-link" style="margin: auto;">Become A Patron</a>
+        <p class="supported-by" style="text-align: center; margin-bottom: 0px;">Or</p>
+        <a href="https://www.buymeacoffee.com/horizon" class="homepage-link" style="display: block; margin: auto; text-align: center;">Make one-time contribution</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<div class="loved-by">
+  <h1 class="loved-by-title">Loved by our friends</h1>
+  <div class="sponsor-row" style="display: flex;">
+    <div class="sponsor-image">
+      <a href="/startup-chile/" class="homepage-link"><img src="/assets/start-up-chile-logo.png" alt="Startup Chile"></a>
+    </div>
+    <div class="sponsor-image">
+      <a href="/AIESEC/" class="homepage-link"><img src="/assets/AIESEC-logo.png" alt="AIESEC"></a>
+    </div>
+    <div class="sponsor-image">
+      <a href="/startingbloc/" class="homepage-link"><img src="/assets/startingbloc-logo.jpg" alt="StartingBloc"></a>
+    </div>
+    <div class="sponsor-image">
+      <a href="/sigma-phi-epsilon/" class="homepage-link"><img src="/assets/sig-ep-logo.jpg" alt="SigEp"></a>
+    </div>
+    <div class="sponsor-image">
+      <a href="/holocene/" class="homepage-link"><img src="/holocene/Holocene-1.jpg" alt="Holocene"></a>
+    </div>
+    <div class="sponsor-image">
+      <a href="/peace-corps/" class="homepage-link"><img src="/assets/npca-logo.jpg" alt="NPCA"></a>
+    </div>
+  </div>
+</div>
+
+<div class="review">
+  <div class="review-container">
+    <div class="review-photo">
+      <img src="/assets/redesign/sheryl.mih-profile.jpg"
+           style="height: 80px; width: 80px; border-radius: 50%;">
+      <h6 class="review-name">Sheryl Mihalik</h6>
+      <h7 class="review-company">Traveling Anywhere</h7>
+    </div>
+    <div class="review-text">
+      <p class="review-body">“Travel is for everyone who wants to grow, dream, 
+        learn, be inspired, LIVE, and so much more. 
+        Horizon makes travel more accessible by ensuring people are welcome in homes.”</p>
+    </div>
+  </div>
+</div>
+
+<div class="review">
+  <div class="review-container">
+    <div class="review-photo">
+      <img src="https://impacthubseattle.com/wp-content/uploads/2017/02/Steve-Johnson-CEO.jpg"
+           style="height: 80px; width: 80px; border-radius: 50%;">
+      <h6 class="review-name">Steve Johnson</h6>
+      <h7 class="review-company">Impact Hub Seattle</h7>
+    </div>
+    <div class="review-text">
+      <p class="review-body">“Stay a Night, Give a Night is a creative 
+        way for locals to impact how travelers experience Seattle while 
+        helping them determine how tourism dollars can have the strongest 
+        impact on one of our most pressing social issues”
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- Mobile Detection & Link Texting -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script type="text/javascript">
+        /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+        function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+          } else {
+            x.className = "topnav";
+          }
+        }
+
+      </script>
+
+{% include revision/footer.html %}
